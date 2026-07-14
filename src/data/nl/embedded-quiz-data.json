@@ -1,0 +1,31 @@
+[
+  {
+    "questionTitle": "",
+    "text": "Hoe leren AI-systemen taken uit te voeren?",
+    "correctAnswer": "Door getraind te worden met data die door mensen is aangeleverd",
+    "options": [
+      "Door andere AI-systemen te kopiëren",
+      "Door geprogrammeerd te worden met regels",
+      "Door getraind te worden met data die door mensen is aangeleverd",
+      "Door menselijk gedrag te observeren"
+    ]
+  },
+  {
+    "questionTitle": "",
+    "text": "De EU AI Act is aangenomen in 2024.",
+    "correctAnswer": "Waar",
+    "options": ["Waar", "Niet waar"]
+  },
+  {
+    "questionTitle": "",
+    "text": "AI-systemen met een onaanvaardbaar risico, zoals het classificeren van mensen op basis van sociaaleconomische status, zijn toegestaan onder de EU AI Act.",
+    "correctAnswer": "Niet waar",
+    "options": ["Waar", "Niet waar"]
+  },
+  {
+    "questionTitle": "Ethische Overwegingen",
+    "text": "40% van de elektriciteit in datacenters wordt gebruikt voor airconditioning.",
+    "correctAnswer": "Waar",
+    "options": ["Waar", "Niet waar"]
+  }
+]

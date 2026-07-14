@@ -1,0 +1,17 @@
+<p align="center">
+  <img class="mdimages" src="/w3/w3_figure_2_bias_creation.png" alt="Bias in datageneratie" />
+</p>
+Een model wordt gedefinieerd en geoptimaliseerd op de trainingsdata. Testdata wordt gebruikt om het
+te evalueren, en het uiteindelijke model wordt vervolgens geïntegreerd in een praktijkcontext. Dit
+proces is van nature cyclisch, en beslissingen die door modellen worden beïnvloed, beïnvloeden de
+toestand van de wereld die bestaat wanneer de volgende keer data wordt verzameld of beslissingen
+worden toegepast. De oranje vakken geven aan waar in deze pijplijn verschillende bronnen van
+downstream schade kunnen ontstaan.
+
+Leerbias treedt op wanneer modelbeslissingen prestatieverschillen tussen verschillende datavoorbeelden verergeren.
+
+Aggregatiebias treedt op wanneer één model wordt gebruikt voor data met verschillende groepen, ervan uitgaande dat dezelfde patronen voor iedereen gelden. Dit kan leiden tot een model dat voor geen enkele groep goed werkt of voornamelijk de grootste groep ten goede komt.
+
+Evaluatiebias treedt op wanneer de testdata die wordt gebruikt om de prestaties van een model te controleren niet overeenkomt met de echte gebruikers waarvoor het model is bedoeld.
+
+Implementatiebias treedt op wanneer een model is ontworpen voor een probleem, maar op een andere manier wordt gebruikt, vooral wanneer het als volledig automatisch wordt behandeld, maar in werkelijkheid werkt binnen een complex systeem met mensen en organisaties.

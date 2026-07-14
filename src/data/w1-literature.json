@@ -1,0 +1,227 @@
+[
+  {
+    "heading": "w1.fundamentals",
+    "items": [
+      {
+        "id": "w1-1",
+        "author": "Strauß, S.",
+        "date": "2018",
+        "title": "From big data to deep learning: A leap towards strong AI or 'Intelligentia obscura'?",
+        "journal": "Big Data and Cognitive Computing",
+        "volume": "2",
+        "issue": "3",
+        "number": "16",
+        "link": {
+          "text": "https://doi.org/10.3390/bdcc2030016",
+          "url": "https://doi.org/10.3390/bdcc2030016"
+        }
+      },
+      {
+        "id": "w1-2",
+        "author": "De Witt, C., Gloerfeld, C., & Wrede, S. E.",
+        "date": "2023",
+        "title": "Künstliche Intelligenz in der Bildung",
+        "edition": "1st",
+        "publisher": "Springer Fachmedien Wiesbaden",
+        "link": {
+          "text": "https://link.springer.com/book/10.1007/978-3-658-40079-8",
+          "url": "https://link.springer.com/book/10.1007/978-3-658-40079-8"
+        }
+      }
+    ]
+  },
+  {
+    "heading": "w1.ai-act",
+    "items": [
+      {
+        "id": "w1-3",
+        "author": "European Commission",
+        "date": "n.d.",
+        "title": "Regulatory framework proposal on artificial intelligence",
+        "source": "Digital Strategy",
+        "link": {
+          "text": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        }
+      },
+      {
+        "id": "w1-4",
+        "author": "European Parliament",
+        "date": "June 1, 2023",
+        "title": "EU AI Act: First regulation on artificial intelligence",
+        "link": {
+          "text": "https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
+          "url": "https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence"
+        }
+      },
+      {
+        "id": "w1-5",
+        "author": "European Commission",
+        "date": "April 21, 2021",
+        "title": "Europe fit for the digital age: Commission proposes new rules and actions for excellence and trust in artificial intelligence [Press release]",
+        "type": "Press release",
+        "link": {
+          "text": "https://ec.europa.eu/commission/presscorner/detail/en/QANDA_21_1683",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/QANDA_21_1683"
+        }
+      },
+      {
+        "id": "w1-6",
+        "author": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+        "date": "n.d.",
+        "title": "Nationale KI-Strategie: Künstliche Intelligenz in Österreich",
+        "link": {
+          "text": "https://www.ki-strategie.at/",
+          "url": "https://www.ki-strategie.at/"
+        }
+      },
+      {
+        "id": "w1-7",
+        "author": "EU Artificial Intelligence Act",
+        "date": "2024",
+        "title": "High-level summary of the Artificial Intelligence Act",
+        "link": {
+          "text": "https://artificialintelligenceact.eu/high-level-summary/",
+          "url": "https://artificialintelligenceact.eu/high-level-summary/"
+        }
+      },
+      {
+        "id": "w1-8",
+        "author": "Wikipedia",
+        "date": "n.d.",
+        "title": "Regulierung von künstlicher Intelligenz",
+        "retrieved": "September 3, 2024",
+        "link": {
+          "text": "https://de.wikipedia.org/wiki/Regulierung_von_künstlicher_Intelligenz",
+          "url": "https://de.wikipedia.org/wiki/Regulierung_von_k%C3%BCnstlicher_Intelligenz"
+        }
+      }
+    ]
+  },
+  {
+    "heading": "w1.environmental-impact",
+    "items": [
+      {
+        "id": "w1-9",
+        "author": "De Vries, A.",
+        "date": "2023",
+        "title": "Commentary: The growing energy footprint of artificial intelligence",
+        "journal": "Joule",
+        "publisher": "Advance online publication",
+        "link": {
+          "text": "https://doi.org/10.1016/j.joule.2023.09.004",
+          "url": "https://doi.org/10.1016/j.joule.2023.09.004"
+        }
+      },
+      {
+        "id": "w1-10",
+        "author": "Rad, A.",
+        "date": "May 23, 2023",
+        "title": "Is generative AI bad for the environment? A computer scientist explains the carbon footprint of ChatGPT and its cousins",
+        "journal": "The Conversation",
+        "link": {
+          "text": "https://theconversation.com/is-generative-ai-bad-for-the-environment-a-computer-scientist-explains-the-carbon-footprint-of-chatgpt-and-its-cousins-204096",
+          "url": "https://theconversation.com/is-generative-ai-bad-for-the-environment-a-computer-scientist-explains-the-carbon-footprint-of-chatgpt-and-its-cousins-204096"
+        }
+      },
+      {
+        "id": "w1-11",
+        "author": "Heikkilä, M.",
+        "date": "December 1, 2023",
+        "title": "Making an image with generative AI uses as much energy as charging your phone",
+        "journal": "MIT Technology Review",
+        "link": {
+          "text": "https://www.technologyreview.com/2023/12/01/1084189/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/",
+          "url": "https://www.technologyreview.com/2023/12/01/1084189/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/"
+        }
+      },
+      {
+        "id": "w1-12",
+        "author": "Erdenesanaa, D.",
+        "date": "October 10, 2023",
+        "title": "AI could soon need as much electricity as an entire country",
+        "journal": "The New York Times",
+        "link": {
+          "url": "https://www.nytimes.com/2023/10/10/climate/ai-could-soon-need-as-much-electricity-as-an-entire-country.html"
+        }
+      },
+      {
+        "id": "w1-13",
+        "author": "Koot, M., Wijnhoven, F.",
+        "date": "2021",
+        "title": "Usage impact on data center electricity needs: A system dynamic forecasting model",
+        "journal": "Applied Energy",
+        "volume": "291",
+        "number": "116798",
+        "link": {
+          "url": "https://ris.utwente.nl/ws/portalfiles/portal/252516283/1_s2.0_S0306261921003019_main.pdf"
+        }
+      },
+      {
+        "id": "w1-14",
+        "author": "Cho, R.",
+        "date": "June 9, 2023",
+        "title": "AI's growing carbon footprint",
+        "journal": "Columbia Climate School",
+        "link": {
+          "text": "https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/",
+          "url": "https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/"
+        }
+      }
+    ]
+  },
+  {
+    "heading": "w1.democracy-ai",
+    "items": [
+      {
+        "id": "w1-15",
+        "author": "Heikkilä, M.",
+        "date": "November 15, 2022",
+        "title": "Democracy and AI",
+        "journal": "MIT Technology Review",
+        "link": {
+          "text": "https://www.technologyreview.com/2022/11/15/1063202/why-we-need-to-do-a-better-job-of-measuring-ais-carbon-footprint/",
+          "url": "https://www.technologyreview.com/2022/11/15/1063202/why-we-need-to-do-a-better-job-of-measuring-ais-carbon-footprint/"
+        }
+      }
+    ]
+  },
+  {
+    "heading": "w1.clickworkers",
+    "items": [
+      {
+        "id": "w1-16",
+        "author": "Perrigo, B.",
+        "date": "January 18, 2023",
+        "title": "Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic",
+        "journal": "Time",
+        "link": {
+          "text": "https://time.com/6247678/openai-chatgpt-kenya-workers/ ",
+          "url": "https://time.com/6247678/openai-chatgpt-kenya-workers/ "
+        }
+      },
+      {
+        "id": "w1-17",
+        "author": "Kretschmer, C.",
+        "date": "July 3, 2024",
+        "title": "Clickworker – Ausgebeutet für künstliche Intelligenz",
+        "journal": "SWR Kultur",
+        "link": {
+          "text": "https://www.swr.de/swrkultur/wissen/clickworker-ausgebeutet-fuer-kuenstliche-intelligenz-104.html ",
+          "url": "https://www.swr.de/swrkultur/wissen/clickworker-ausgebeutet-fuer-kuenstliche-intelligenz-104.html "
+        }
+      },
+      {
+        "id": "w1-18",
+        "author": "Kretschmer, C.",
+        "date": "August 24, 2023",
+        "title": "Clickworker: Klickarbeiter trainieren KI mit unzähligen Trainingsdaten. (May 12, 2023)",
+        "journal": "Tagesschau",
+        "link": {
+          "text": "https://www.tagesschau.de/wissen/technologie/ki-klickarbeiter-trainingsdaten-100.html",
+          "url": "https://www.tagesschau.de/wissen/technologie/ki-klickarbeiter-trainingsdaten-100.html"
+        }
+      }
+    ]
+  }
+]

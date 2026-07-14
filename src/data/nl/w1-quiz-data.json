@@ -1,0 +1,127 @@
+[
+  {
+    "questionTitle": "Kenmerken van AI-systemen",
+    "text": "Welke van de volgende beweringen over AI-systemen zijn correct? (Kies alle juiste antwoorden)",
+    "correctAnswer": [
+      "AI-systemen zijn ontworpen om menselijke cognitieve vermogens na te bootsen.",
+      "Automated Decision Making (ADM) stelt algoritmen in staat beslissingen te nemen zonder menselijke tussenkomst.",
+      "Neurale netwerken worden vaak gebruikt als model bij het ontwerpen van AI-systemen."
+    ],
+    "options": [
+      "AI-systemen zijn ontworpen om menselijke cognitieve vermogens na te bootsen.",
+      "AI is een vorm van automatisering die alleen afhankelijk is van menselijke besluitvorming om goed te functioneren.",
+      "Automated Decision Making (ADM) stelt algoritmen in staat beslissingen te nemen zonder menselijke tussenkomst.",
+      "Neurale netwerken worden vaak gebruikt als model bij het ontwerpen van AI-systemen."
+    ]
+  },
+  {
+    "questionTitle": "Overzicht van AI-technologie",
+    "text": "Welke van de volgende beweringen over AI zijn correct? (Kies alle juiste antwoorden)",
+    "correctAnswer": [
+      "AI gebruikt wiskundige en statistische methoden om informatie te verwerken, vaak steunend op machine learning technieken.",
+      "AI is een overkoepelende term die verschillende technologieën omvat die bedoeld zijn om menselijke denkprocessen zoals leren, plannen en besluitvorming na te bootsen.",
+      "AI-systemen zijn een specifieke toepassing van AI-technologieën die in reële contexten worden gebruikt, zoals gezichtsherkenning en autonome voertuigen."
+    ],
+    "options": [
+      "AI gebruikt wiskundige en statistische methoden om informatie te verwerken, vaak steunend op machine learning technieken.",
+      "AI is uitsluitend gericht op de automatisering van taken, zonder rekening te houden met menselijke cognitieve functies.",
+      "AI is een overkoepelende term die verschillende technologieën omvat die bedoeld zijn om menselijke denkprocessen zoals leren, plannen en besluitvorming na te bootsen.",
+      "AI-systemen zijn een specifieke toepassing van AI-technologieën die in reële contexten worden gebruikt, zoals gezichtsherkenning en autonome voertuigen."
+    ]
+  },
+  {
+    "questionTitle": "Machine Learning in AI",
+    "text": "Welke bewering is niet correct?",
+    "correctAnswer": ["Machine Learning en Deep Learning zijn hetzelfde."],
+    "options": [
+      "Machine Learning is een studiegebied binnen de Kunstmatige Intelligentie.",
+      "Machine Learning en Deep Learning zijn hetzelfde.",
+      "Machine Learning is een gespecialiseerde vorm van machinaal leren.",
+      "Deep Learning is geschikt voor grote datasets."
+    ]
+  },
+  {
+    "questionTitle": "Mens in de lus in AI",
+    "text": "Hoe beïnvloedt het concept 'Mens in de lus' de besluitvorming van AI?",
+    "correctAnswer": [
+      "Het verzekert dat mensen altijd de uiteindelijke beslissing controleren, vooral wanneer het vertrouwen van AI laag is."
+    ],
+    "options": [
+      "Het elimineert menselijk toezicht in AI-systemen.",
+      "Het verzekert dat mensen altijd de uiteindelijke beslissing controleren, vooral wanneer het vertrouwen van AI laag is.",
+      "Het beperkt het vermogen van AI om te leren en zich aan te passen.",
+      "Het automatiseert besluitvormingsprocessen volledig."
+    ]
+  },
+  {
+    "questionTitle": "AI-risicoclassificatie in de EU",
+    "text": "Hoe worden AI-systemen geclassificeerd op basis van hun risico's in de EU AI Act?",
+    "correctAnswer": [
+      "Onaanvaardbaar, hoog, beperkt en minimaal risico op basis van de potentiële maatschappelijke impact."
+    ],
+    "options": [
+      "Onaanvaardbaar, hoog, beperkt en minimaal risico op basis van de potentiële maatschappelijke impact.",
+      "Laag, matig en hoog risico uitsluitend op basis van potentiële economische impact.",
+      "AI-systemen worden geclassificeerd op basis van hun technologische complexiteit.",
+      "De wet classificeert geen AI-risico's."
+    ]
+  },
+  {
+    "questionTitle": "Milieueffecten van AI",
+    "text": "Welke beweringen zijn correct?",
+    "correctAnswer": [
+      "Datacenters die AI-toepassingen in Europa huisvesten, zullen hun energieverbruik naar verwachting met 28% zien stijgen tegen 2030.",
+      "Ondanks hun significante CO2-voetafdruk kunnen AI-systemen positief bijdragen aan het milieu door te helpen bij de ontwikkeling van hernieuwbare energieoplossingen."
+    ],
+    "options": [
+      "AI-systemen vereisen minimale energie, waardoor hun milieu-impact verwaarloosbaar is.",
+      "Datacenters die AI-toepassingen in Europa huisvesten, zullen hun energieverbruik naar verwachting met 28% zien stijgen tegen 2030.",
+      "Ondanks hun significante CO2-voetafdruk kunnen AI-systemen positief bijdragen aan het milieu door te helpen bij de ontwikkeling van hernieuwbare energieoplossingen.",
+      "Grote AI-modellen hebben geen praktische toepassing in de bestrijding van klimaatverandering, maar dragen alleen bij aan de versnelling ervan."
+    ]
+  },
+  {
+    "questionTitle": "Passage van de EU AI Act",
+    "text": "Wanneer en door wie is de EU AI Act aangenomen?",
+    "correctAnswer": ["in 2024 door het Europees Parlement en de Raad van de EU."],
+    "options": [
+      "In 2023 door het Europees Parlement en de Raad van de EU.",
+      "In 2024 door Oostenrijk en Duitsland.",
+      "In 2024 door het Europees Parlement en de Raad van de EU.",
+      "In 2023 door Oostenrijk."
+    ]
+  },
+  {
+    "questionTitle": "Potentieel van AI-systemen",
+    "text": "Welk potentieel hebben AI-systemen?",
+    "correctAnswer": ["mensen ondersteunen bij de besluitvorming voor complexe taken."],
+    "options": [
+      "Taken overnemen met automatisering.",
+      "Processen optimaliseren met visualisatie en analyse.",
+      "Besluitvorming voor complexe taken overnemen.",
+      "Mensen ondersteunen bij de besluitvorming voor complexe taken."
+    ]
+  },
+  {
+    "questionTitle": "Identificatie van AI-risico's",
+    "text": "Welk risico wordt niet door AI gevormd?",
+    "correctAnswer": ["alle menselijke arbeid vervangen"],
+    "options": [
+      "Bias en Discriminatie",
+      "Verdieping van Economische Ongelijkheid",
+      "Misinformatie en Manipulatie",
+      "Alle menselijke arbeid vervangen"
+    ]
+  },
+  {
+    "questionTitle": "Capaciteiten van AI",
+    "text": "Wat kan AI doen?",
+    "correctAnswer": ["Logische besluitvorming"],
+    "options": [
+      "Echt empathie tonen",
+      "Logische besluitvorming",
+      "Reflecteren op ethische vraagstukken",
+      "Oordelen"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --destructive-foreground: 0 0% 100%;
+    --secondary-foreground: 210 50% 10%;
+    --popover-foreground: 210 50% 10%;
+    --primary-foreground: 0 0% 100%;
+    --accent-foreground: 0 0% 100%;
+    --muted-foreground: 210 50% 10%;
+    --card-foreground: 210 50% 10%;
+    --destructive: 210 78% 23%;
+    --background: 180 100% 97%;
+    --foreground: 210 50% 10%;
+    --secondary: 170 94% 64%;
+    --popover: 180 100% 97%;
+    --primary: 263 88% 63%;
+    --accent: 302 100% 42%;
+    --border: 180 100% 90%;
+    --muted: 180 100% 94%;
+    --input: 180 100% 75%;
+    --card: 180 100% 97%;
+    --ring: 263 88% 63%;
+    --radius: 0.5rem;
+    --cable-black: 218, 70%, 14%;
+    --fiber-turquoise: 170, 96%, 60%;
+    --future-pink: 302, 98%, 52%;
+    --big-purple: 262, 89%, 64%;
+    --mauve: 262 87% 81%;
+    --ice-blue: 174 94% 78%;
+    --yale-blue: 212 72% 24%;
+    --oxford-blue: 212 75% 14%;
+    --white: 120 100% 98%;
+    --pale-purple: 262 80% 92%;
+    --mint-green: 170 100% 90%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply font-garet-book bg-background text-cableBlack;
+  }
+}
+
+@font-face {
+  font-family: 'Garet Book';
+  src: url('/fonts/garet_book.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Garet Heavy';
+  src: url('/fonts/garet_heavy.ttf') format('truetype');
+}
+
+nav a {
+  text-decoration-line: none !important;
+}
+
+.mdimages {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (min-width: 768px) {
+  .mdimages {
+    width: 90%;
+  }
+}

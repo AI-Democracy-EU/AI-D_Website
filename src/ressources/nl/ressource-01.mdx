@@ -1,0 +1,34 @@
+---
+title: "Welcome to My Demo MDX Page in DUTCH"
+summary: Dutch Testing
+---
+
+import { useState } from 'react';
+
+# Welcome to My Demo MDX Page
+
+This is a simple demo of an MDX document.
+
+## What is MDX?
+
+MDX is a markup format that lets you seamlessly use JSX in your Markdown documents. You can import components, like React components, and use them in your Markdown.
+
+## Interactive Counter Example
+
+Below is a simple interactive counter implemented in React.
+
+```jsx
+const Counter = () => {
+  const [count, setCount] = useState(0);
+
+  return (
+    <div>
+      <h2>{count}</h2>
+      <button onClick={() => setCount(count + 1)}>Increase</button>
+      <button onClick={() => setCount(count - 1)}>Decrease</button>
+    </div>
+  );
+};
+
+<Counter />
+```

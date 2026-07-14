@@ -1,0 +1,1090 @@
+{
+  "WebsiteMetadata": {
+    "title": "AI.D - Kunstmatige Intelligentie en de Vormgeving van Democratie",
+    "description": "Digitale transformatie integreert algoritmen in het dagelijks leven, maar een gebrek aan publiek bewustzijn brengt risico's met zich mee – waardoor transparantie en verantwoording essentieel zijn.",
+    "twitter-title": "AI.D - Kunstmatige Intelligentie en de Vormgeving van Democratie"
+  },
+  "HomePage": {
+    "title": "AI.D - Kunstmatige Intelligentie en de Vormgeving van Democratie",
+    "card-content": "Digitale transformatie vereenvoudigt en versnelt processen, vermindert fouten en brengt algoritmen in ons dagelijks leven, van het aanbevelen van content tot het beoordelen van kredietwaardigheid. Het publiek is zich vaak niet bewust van hoe algoritmen in verschillende levensgebieden worden gebruikt, wat vragen oproept over privacy en discriminatie. Bewustzijn van de impact van algoritmische besluitvorming is echter cruciaal voor het bevorderen van transparantie en verantwoording in het digitale tijdperk.",
+    "pillars": {
+      "webinars": {
+        "title": "Webinars verkennen",
+        "description": "Gebruik de webinars om meer te leren over kunstmatige intelligentie en de impact ervan op de democratie."
+      },
+      "materials": {
+        "title": "Leer materialen verkennen",
+        "description": "Kies uit onze leer materialen om technische, sociale en politieke perspectieven op AI in uw klaslokaal te brengen."
+      },
+      "curriculum": {
+        "title": "Curriculum en beleidsaanbevelingen verkennen",
+        "description": "Het curriculum en de beleidsaanbevelingen bieden een gestructureerd overzicht van onze materialen en stimuleren het verantwoord gebruik van AI-technologieën."
+      }
+    },
+    "button_webinars": "Webinars verkennen",
+    "button_about_project": "Over het project",
+    "button_materials": "Leer materialen verkennen"
+  },
+  "LandingPage": {
+    "title": "AI.D - Kunstmatige Intelligentie en de Vormgeving van Democratie",
+    "pillars": {
+      "fundamentals-of-ai": {
+        "title": "Basisprincipes van AI",
+        "description": "The functioning and significance of AI, its potential and challenges and the political reactions to these developments."
+      },
+      "gen-ai-critical-ai-literacy": {
+        "title": "GenAI & Kritische AI-geletterdheid",
+        "description": "Potentie en beperkingen van Generatieve AI (GenAI) en grote taalmodellen (LLM's) in verschillende werkvelden, ethische bezwaren en biases in AI-modellen en praktische tips voor het effectieve gebruik van AI-tools."
+      },
+      "algorithms-in-e-recruiting-software": {
+        "title": "Algoritmen in e-recruitmentsoftware",
+        "description": "Het gebruik van AI-systemen in het rekruteringsproces en de criteria van AI voor het beoordelen van sollicitaties. Hoe kunnen deze processen worden onderzocht en hoe kan AI eerlijk en verantwoordelijk worden ingezet in een professionele context?"
+      },
+      "ai-tutors-between-equality-and-inequality": {
+        "title": "AI-Tutors – Tussen Gelijkheid en Ongelijkheid",
+        "description": "Inzichten en ethische overwegingen over hoe een AI-tutor werkt en waar deze kan worden ingezet, hoe deze gebruikers leert kennen en hoe deze gepersonaliseerd leermateriaal aanbiedt."
+      }
+    },
+    "button_quiz": "Geheugenquiz",
+    "button_quiz_pre": "Begin met een",
+    "button_quiz_post": "over AI-termen en hun definities."
+  },
+  "W1CoursePage": {
+    "overview": {
+      "heading": "Na het Webinar kunt u deze vragen beantwoorden:",
+      "goals": [
+        "Wat is Kunstmatige Intelligentie (AI) en hoe werkt het?",
+        "Wat zijn de mogelijkheden en uitdagingen van AI?",
+        "Hoe reageren politiek en democratie op de uitdagingen van AI?",
+        "Hoe zorgen zij ervoor dat AI optimaal wordt ingezet?",
+        "Discussie van open vragen"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Introductie",
+        "content": "ontbrekende inhoud",
+        "button": "Meer"
+      },
+      "useOfAI": {
+        "title": "AI en de EU AI Act",
+        "content": "Potentie en uitdagingen van AI en de EU AI Act",
+        "button": "Meer"
+      },
+      "impact": {
+        "title": "Open Vragen",
+        "content": "ontbrekende inhoud",
+        "button": "Meer"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Quiz beginnen"
+      }
+    }
+  },
+  "W2CoursePage": {
+    "overview": {
+      "heading": "Na het Webinar kunt u deze vragen beantwoorden:",
+      "goals": [
+        "Wat zijn de potentie en beperkingen van Generatieve AI (GenAI) en Grote Taalmodellen (LLM's) in verschillende werkvelden?",
+        "Hoe kunnen we biases en ethische bezwaren binnen AI-modellen identificeren?",
+        "Wat zijn enkele praktische tips voor het effectief gebruiken van AI-tools, inclusief het opstellen van prompts en het herkennen van risico's in door AI gegenereerde content?"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Toepassingsgebied",
+        "content": "ontbrekende inhoud",
+        "button": "Meer"
+      },
+      "useOfAI": {
+        "title": "Specificaties van GENAI/LLM's",
+        "content": "ontbrekende inhoud",
+        "button": "Meer"
+      },
+      "impact": {
+        "title": "Impact en Implicaties",
+        "content": "Impact en Implicaties voor goed en verantwoord gebruik",
+        "button": "Meer"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Quiz beginnen"
+      }
+    }
+  },
+  "W3CoursePage": {
+    "overview": {
+      "heading": "Na het Webinar kunt u deze vragen beantwoorden:",
+      "goals": [
+        "<b>Hoe analyseren AI-systemen data in het rekruteringsproces en waar kunnen biases optreden?</b>",
+        "U zult de fasen van datageneratie, modelcreatie en -gebruik begrijpen en potentiële zwakheden in de technologie identificeren.",
+        "<b>Welke criteria gebruikt een AI om sollicitaties te rangschikken en hoe kunnen biases dit proces beïnvloeden?</b>",
+        "U zult deze factoren kritisch kunnen evalueren.",
+        "<b>Hoe kan AI eerlijk en verantwoordelijk worden ingezet in een professionele context?</b>",
+        "U zult reflecteren op ethische overwegingen en praktische begeleiding ontvangen via een AI-kompas."
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Toepassingsgebied",
+        "content": "ontbrekende inhoud",
+        "button": "Meer"
+      },
+      "useOfAI": {
+        "title": "Specificaties van AI",
+        "content": "ontbrekende inhoud",
+        "button": "Meer"
+      },
+      "impact": {
+        "title": "Impact",
+        "content": "Kompas voor goed en eerlijk gebruik",
+        "button": "Meer"
+      }
+    }
+  },
+  "W4CoursePage": {
+    "overview": {
+      "heading": "Na het Webinar kunt u deze vragen beantwoorden:",
+      "goals": [
+        "Wat is een AI-tutor? (Toepassingsgebied)",
+        "Hoe leert een AI-tutor gebruikers kennen en hoe biedt het gepersonaliseerd materiaal aan? (Specificaties van AI)",
+        "Reflecteer op en ontwikkel een standpunt over de ethische vragen die zich voordoen bij een AI-tutor (Implicaties)"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Introductie – AI-Tutors",
+        "content": "AI-Tutors zijn applicaties die mensachtige lesgeven simuleren. Ze bieden gepersonaliseerde leerervaringen met passende instructieondersteuning, op maat gemaakte lessen en feedback voor studenten.",
+        "button": "Meer"
+      },
+      "useOfAI": {
+        "title": "Specificaties van AI-Tutors",
+        "content": "AI-Tutors integreren meerdere AI-technologieën om hun taken uit te voeren. Dit gedeelte legt technologieën uit die AI-tutors helpen een mensachtig gesprek te simuleren en gepersonaliseerd leermateriaal te bieden.",
+        "button": "Meer"
+      },
+      "impact": {
+        "title": "Implicaties",
+        "content": "Het is mogelijk om hoogwaardig onderwijs te bieden dat is gepersonaliseerd aan de behoeften van de studenten. Met name kan goed worden voldaan aan de behoeften van studenten met leerproblemen of beperkingen.",
+        "button": "Meer"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Quiz beginnen"
+      }
+    }
+  },
+  "ModulesPage": {
+    "title": "Modulematerialen",
+    "eyebrow": "Downloads",
+    "description": "PDF-downloads voor alle modules, hun teaching units, extra materialen en didactische materialen.",
+    "download": "PDF downloaden",
+    "additionalMaterials": "Extra materialen",
+    "materials": "Materialen",
+    "didacticMaterials": "Didactische materialen",
+    "didacticMaterialsDescription": "Deze didactische materialen complementeren de leer materialen en kunnen in combinatie met hen of onafhankelijk daarvan worden gebruikt.",
+    "labels": {
+      "moduleInstructions": "Module-instructies",
+      "teachingUnit1": "Leereenheid 1",
+      "teachingUnit2": "Leereenheid 2",
+      "teachingUnit3": "Leereenheid 3",
+      "teachingUnit4": "Leereenheid 4",
+      "slides": "Slides",
+      "handout": "Hand-out",
+      "genaiImages": "GenAI-beelden",
+      "aiInEverydayLife": "AI in het dagelijks leven",
+      "quotesSheet": "Citatenblad",
+      "aiEthicsMoralDecisionMakingAndDemocracy": "AI-ethiek, morele besluitvorming en democratie",
+      "aiQuiz": "AI.D AI-QUIZ",
+      "bias": "BIAS",
+      "megaPrompts": "Mega Prompts",
+      "matchingGame": "Matchingsspel",
+      "aiDialogue": "AI.Dialogue",
+      "aiPubQuizTrivia": "AI Pub Quiz/Trivia",
+      "meAndAI": "Ik en AI",
+      "15MinutesNews": "15 Minuten Nieuws",
+      "aiDialogueSlides": "Moderatiekaarten voor AI.Dialogue"
+    },
+    "modules": {
+      "m1": {
+        "title": "Niet alles is AI - wat is AI en wat niet?",
+        "description": "Deze module van het AI.D-trainingsconcept richt zich op de basisprincipes van AI-gebaseerde systemen en introduceert belangrijke maatschappelijke gevolgen, evenals mogelijkheden om deze in onderwijscontexten aan te pakken.",
+        "tu1": "Wat is AI?",
+        "tu2": "Bijzonderheden van AI-gebaseerde automatisering",
+        "tu3": "Vreemde AI - kwaliteit en betrouwbaarheid vs. vertrouwen"
+      },
+      "m2": {
+        "title": "AI: individuele en maatschappelijke impact",
+        "description": "Deze module van het AI.D-trainingsconcept richt zich op de systemische implicaties van AI-aangedreven systemen in het dagelijks leven.",
+        "tu1": "GenAI-beelden",
+        "tu2": "AI in het dagelijks leven",
+        "tu3": "AI-tutoren"
+      },
+      "m3": {
+        "title": "AI-governance, ethiek, mensenrechten en democratie",
+        "description": "Deze module van het AI.D-trainingsconcept richt zich op kwesties van AI-governance, ethische implicaties, de kwestie van mensenrechtenschendingen door AI en de impact van de technologie op de democratie.",
+        "tu1": "Lokaal, regionaal, nationaal en Europees: AI-governance in een oogopslag",
+        "tu2": "AI in digitaal burgerschapsonderwijs en global learning",
+        "tu3": "AI-ethiek, morele besluitvorming en democratie",
+        "tu4": "AI en ideologie"
+      }
+    }
+  },
+  "PartnersPage": {
+    "LUH": {
+      "content": "Met ongeveer 28.000 studenten en bijna 5.300 medewerkers is de Leibniz Universität Hannover de grootste universiteit in de Duitse deelstaat Nedersaksen. Ze is uitstekend internationaal (en nationaal) genetwerkt, met samenwerkingspartners op onder meer het gebied van onderwijs en onderzoek. De LUH heeft internationalisering in een missieverklaring vastgelegd. Enerzijds creëert de LUH uitstekende voorwaarden voor een internationale leer-, onderwijs- en onderzoeksomgeving ter plaatse; anderzijds draagt ze actief bij aan een sterkere internationale netwerking op deze gebieden. Het Institut für Didaktik der Demokratie (IDD), dat deel uitmaakt van de Faculteit der Wijsbegeerte van de Universiteit, heeft zich de volgende doelen gesteld: het doel van onderzoeks- en transferactiviteiten op het gebied van \"politieke vorming en democratiepedagogiek\", \"geschiedenis en herinneringscultuur\" en \"sociale uitdagingen van het maatschappelijk middenveld in de 21e eeuw\". Het instituut heeft in totaal 27 medewerkers. De kernactiviteiten van het IDD omvatten de creatie van onderwijs-/leermateriaal, handboeken en educatieve media, evenals de conceptie en implementatie van lerarenopleidingen over onderwerpen van politieke en historisch-politieke vorming. Op deze manier kan jarenlange expertise in opleidings- en onderwijspraktijk worden gecombineerd met duurzame innovatie in de vakdidactiek. Het Instituut is geïntegreerd in alle relevante netwerken voor politieke vorming en geschiedenisonderwijs. Het ziet zichzelf als een mediator tussen wetenschappelijk discours en het maatschappelijk middenveld. Het instituut is ervaren in coördinatie en management, evenals in de samenwerking als partnerinstituut in diverse multilaterale EU-projecten."
+    },
+    "DGB": {
+      "content": "De Bundesarbeitskreis Arbeit und Leben is een organisatie voor volwasseneneducatie die sinds 1956 landelijk actief is op het gebied van beroeps-, bedrijfs- en politieke vorming. Het doel van de educatieve en adviesdiensten is de participatie van mensen in de wereld van werk en leven te versterken en rekening te houden met de perspectieven en belangen van werknemers. De organisatie richt zich in het bijzonder op jongeren en volwassenen die vanwege hun specifieke leef- en werkomstandigheden als onderwijsachterstand worden beschouwd. Het hoofdkantoor van de Bundesarbeitskreis Arbeit und Leben heeft momenteel 16 medewerkers in dienst. Met name de afdeling Politieke Jeugdeducatie is bij dit project betrokken. Door haar werk moedigt zij jongeren aan hun eigen sociale positie te herkennen en te reflecteren, om zo passend te kunnen participeren in het sociale en politieke leven. Met de tweejarige thematische focus op de kansen van digitalisering in de politieke vorming onderzoekt de organisatie de mogelijkheden die digitalisering biedt in de politieke jeugdeducatie. De centrale vraag is hoe medezeggenschap en participatie door digitale processen kunnen worden bevorderd."
+    },
+    "HTL": {
+      "content": "De Höhere Technische Lehranstalt (HTL) Wien West is een technische middelbare school die afsluit met een eindexamen en diploma. De hoofdrichtingen zijn: informatietechnologie, elektrotechniek, elektronica en werktuigbouwkunde. De opleidingen worden zowel overdag als 's avonds aangeboden. De school telt ongeveer 1100 dagstudenten en 600 avondstudenten, die worden onderwezen door ongeveer 170 docenten. Als beroepsopleidingscentrum voor tieners en jongvolwassenen besteedt de HTL Wien West al lange tijd aandacht aan actuele sociaal-politieke ontwikkelingen in haar onderwijs. Vooral democratische processen en hun betekenis spelen een centrale rol. Als technische school zijn nieuwe ontwikkelingen in (informatie)technologie voortdurend aanwezig en beïnvloeden ze de inhoud en vormen van het onderwijs op de school. Zo krijgen de onderwerpen cloud computing, actuele frameworks voor webontwikkeling, netwerkbeveiliging en machine learning momenteel meer aandacht. Het gebied van machine learning is momenteel voornamelijk vertegenwoordigd in de vorm van studentenprojecten die zich bezighouden met patroon- en gebarenherkenning."
+    },
+    "DemoWien": {
+      "content": "Het Democratiecentrum Wenen is een interdisciplinaire non-profitorganisatie, sterk gericht op het toepassen en overbrengen van kennis. Het is een onderzoeksinstituut en een virtueel kenniscentrum met een breed scala aan multimedia-inhoud dat zich bezighoudt met burgerschapseducatie, digitaal burgerschap en politieke cultuur; het houdt zich bezig met democratiserings- en participatieprocessen, actuele sociaal-politieke debatten met betrekking tot het maatschappelijk middenveld, herinneringsculturen, verschillende concepten van burgerschap en migratie, democratische burgerschapseducatie, de Europese Unie, de mediamaatschappij, evenals met technologische transformatie en de kennissamenleving. Het Democratiecentrum Wenen is een academisch instituut met een toepassingsgericht profiel, gelegen op het snijvlak van de academische en publieke sfeer."
+    },
+    "OEAW": {
+      "content": "De Oostenrijkse Academie van Wetenschappen (ÖAW) is de centrale niet-universitaire instelling voor wetenschap en onderzoek in Oostenrijk. Ze heeft de wettelijke taak \"de wetenschap in alle opzichten te bevorderen\". De Academie beheert 25 onderzoeksinstituten op het gebied van innovatief, toepassingsgericht fundamenteel onderzoek in de geestes-, cultuur-, sociale en natuurwetenschappen. Ze geeft impulsen door toekomstgerichte onderzoeksthema's op te nemen en verantwoordelijkheid te nemen voor het behoud en de interpretatie van cultureel erfgoed. Het Instituut voor Technologiebeoordeling (ITA) heeft ongeveer 25 onderzoekers in dienst en is als interdisciplinair instituut aan de ÖAW toegewezen. Het is lid van het European Parliamentary Technology Assessment (EPTA)-netwerk, het Network for Technology Assessment (NTA) en het GlobalTA-netwerk. Het ITA begeleidt en ondersteunt het project wetenschappelijk met technische expertise op het gebied van digitalisering, algoritmische besluitvormingssystemen en kunstmatige intelligentie voor de planning en ontwikkeling van het in het project beoogde blended learning concept."
+    },
+    "LUCA": {
+      "content": "De LUCA School of Arts is een multidisciplinaire onderwijs- en onderzoeksomgeving waarin creatief talent zich kan ontwikkelen op artistiek, performatief en technisch niveau. Op haar vier locaties in Brussel, Genk, Gent en Leuven bevordert LUCA de beoefening van kunst en creatief design en de ontwikkeling van innovatieve inzichten door meer dan 4.500 kunstenaars, musici, theater- en filmmakers, fotografen en ontwerpers. Binnen dit project zullen de hoofdactiviteiten plaatsvinden op de C-mine campus in Genk, die twee masteropleidingen in animatie huisvest. Het project zal gekoppeld worden aan de onderzoekseenheid Inter-Actions binnen het onderzoekscluster \"Critical Reflection of and through animation.\""
+    }
+  },
+  "AboutPage": {
+    "title": "AI.D - Kunstmatige Intelligentie en de Vormgeving van Democratie",
+    "description": {
+      "para1": "Dit door Erasmus+ gefinancierde project richt zich op de uitdagingen die het gebruik van algoritmen en geautomatiseerde besluitvormingssystemen (ADM, automated decision making) in de samenleving met zich meebrengt. Het overkoepelende doel van AI.D is om het publiek bewust te maken en zo transparantie voor burgers te creëren: Op welke gebieden worden AI-technologieën ingezet – en welke voordelen en risico's zijn daaraan verbonden? Het project draagt bij aan de ontwikkeling van geavanceerde digitale vaardigheden, de bevordering van volledige deelname aan democratische processen en de versterking van kritisch denken.",
+      "para2": "Hiertoe richt AI.D zich op het verbeteren van de digitale competenties van docenten en studenten in het beroepsonderwijs en stelt hen in staat om AI- en ADM-technologieën te begrijpen en hier kritisch mee om te gaan. Vier animatievideo's en webinars zullen specifieke toepassingsgebieden van AI en ADM belichten en bijdragen aan het bevorderen van geïnformeerde discussies over de impact ervan. Daarnaast wordt er een trainingsconcept voor docenten ontwikkeld, bestaande uit drie leer materialen, didactisch materiaal voor gebruik in de klas en een train-the-trainer curriculum. Op basis van de projectervaring en de expertise van het consortium zullen aan het einde van het project beleidsaanbevelingen worden geformuleerd voor het gebruik van 'software voor algoritmische besluitvorming', waarin de perspectieven van zowel de partnerorganisaties als de studenten in het beroepsonderwijs worden weerspiegeld."
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "issue3": {
+        "title": "Uitgave 3 - Zomer 2025",
+        "file": "Newsletter Uitgave 3 - NL.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Uitgave_3_-_NL.pdf"
+      },
+      "issue2": {
+        "title": "Uitgave 2 - Lente 2025",
+        "file": "Newsletter Uitgave 2 - NL.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Uitgave_2_-_NL.pdf"
+      },
+      "issue1": {
+        "title": "Uitgave 1 - Winter 2024",
+        "file": "Newsletter Uitgave 1 - NL.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Uitgave_1_-_NL.pdf"
+      }
+    },
+    "flyer": {
+      "title": "Flyer",
+      "file": "Flyer - NL.pdf",
+      "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/AI.D_Flyer_-_NL.pdf"
+    },
+    "meetings": {
+      "meeting2": {
+        "title": "Vergadering januari 2025 Genk",
+        "alt1": "Projectleden voor het gebouw van LUCA School of Arts",
+        "alt2": "Oude mijnsite in Genk",
+        "text1": "Van 28 tot en met 29 januari vond onze tweede AI.D-projectbijeenkomst plaats in Genk, België, bij de LUCA School of Arts. De bijeenkomst bood een waardevolle gelegenheid voor samenwerking, reflectie en planning bij de verdere ontwikkeling van onze onderzoeks- en creatieve resultaten.",
+        "text2": "De bijeenkomst omvatte een rondleiding over de LUCA-campus, die zich bevindt in de regio Vlaanderen in België. Dit gaf de deelnemers de kans om de faciliteiten te verkennen en inzicht te krijgen in de levendige academische en artistieke omgeving die als achtergrond dient voor het visuele werk bij AI.D.",
+        "text3": "De rondleiding werd gevolgd door de productieve fase van de bijeenkomst, waarin de partners de huidige voortgang en de komende doelen voor AI.D bespraken. De bijeenkomst werd gekenmerkt door een levendige uitwisseling van ideeën, gezamenlijke probleemoplossing en strategische planning.",
+        "text4": "Dank aan iedereen die aanwezig was, bijdroeg en hielp bij het organiseren van zo'n dynamische en waardevolle bijeenkomst."
+      },
+      "meeting1": {
+        "title": "Kick-Off meeting april 2024 Hannover",
+        "alt1": "Projectleden voor het IDD-gebouw",
+        "alt2": "Vergaderruimte bij IDD",
+        "text1": "In april 2024 organiseerde het Instituut voor Didactiek van Democratie in Hannover de Kick-Off Meeting van het AI.D-consortium, na een eerste virtuele projectbijeenkomst in februari. De bijeenkomst stelde alle partners in staat om elkaar persoonlijk te ontmoeten, de doelstellingen van het project te bespreken en te beginnen met het werk aan de eerste deliverables gedurende twee dagen.",
+        "text2": "De bijeenkomst begon met een presentatie van de coördinator over het werkplan en een uitgebreid overzicht van de projecttijdlijn. In daaropvolgende workshopsessies gingen de deelnemers in detail in op de projectdoelen en legden zij de basis voor het creëren van geanimeerde video's en online webinars.",
+        "text3": "De activiteiten van de dag werden afgesloten met een stadsrondleiding door Hannover en een partnerdiner, wat de samenwerking tussen de leden van het consortium bevorderde."
+      }
+    }
+  },
+  "MaterialsPage": {
+    "title": "AI.D - Leer materialen",
+    "description": " De leermaterialen bieden een verzameling van ideeën, inhoud en didactische materialen waaruit u kunt kiezen, afhankelijk van uw context. De leermaterialen zijn gestructureerd in drie grote modules: 'Niet alles is AI', 'AI - individuele en maatschappelijke impact' en 'AI Governance, Ethiek, Mensenrechten en Democratie'.",
+    "pillars": {
+      "material1": {
+        "title": "Leer materiaal 1: Niet alles is AI",
+        "description": "Om adequaat over technische systemen en hun effecten te kunnen praten, moet een basisbegrip worden gecreëerd. Gaat het om zogenaamd 'machine learning' of eenvoudigere software? Wat zijn de voor- en nadelen van enge en brede definities van 'kunstmatige intelligentie'?"
+      },
+      "material2": {
+        "title": "Leer materiaal 2: AI - individuele en maatschappelijke impact",
+        "description": "Interactie tussen technologieontwerp, specifieke toepassingscontexten en individuele, institutionele, sociale en ethische vereisten. Voorbeeld: Om te voorkomen dat racistische enz. content zich snel verspreidt via ChatGPT. Om te voorkomen dat ChatGPT razendsnel racistische content verspreidt, laat OpenAI enorme hoeveelheden data handmatig opschonen door onderbetaalde werknemers in Kenia. Zij moeten urenlang naar seksistische, racistische (enz.) en gewelddadige content kijken."
+      },
+      "material3": {
+        "title": "Leer materiaal 3: AI Governance, Ethiek, Mensenrechten en Democratie",
+        "description": "Huidige status van de AI Act [COM (2021) 206 final]: Conformiteitsbeoordeling door inspectie-instanties zou alleen verplicht moeten zijn voor één hoogrisico AI-systeem: biometrische identificatie op afstand. Dit is niet vereist voor andere hoogrisicosystemen, ook al worden ze gebruikt in gevoelige gebieden: politiewerk, migratiecontrole, rekrutering. Volgens de AI-verordening is het voldoende dat de systeemontwikkelaars zelf de impactbeoordeling uitvoeren. Dit geldt niet voor autoriteiten enz. die deze systemen daadwerkelijk gebruiken."
+      },
+      "material4": {
+        "title": "Didactische materialen",
+        "description": "Een verzameling didactische materialen en methodes, waaronder BIAS, Mega Prompts, Positioneren in de ruimte, Matchingsspel, AI.Dialogue en AI Pub Quiz/Trivia."
+      }
+    }
+  },
+  "CurriculumPage": {
+    "title": "Curriculum en beleidsaanbevelingen",
+    "download": "PDF downloaden",
+    "descriptions": {
+      "curriculumDescription": "Het AI.D Curriculum dient als een theoretische inleiding op het onderwerp en informeert gebruikers over de verschillende materialen en hoe deze te gebruiken. Het biedt in het bijzonder train-de-trainer-instructies om verdere verspreiding en brede implementatie van de materialen in alle velden van het (beroeps)onderwijs mogelijk te maken. Daarom bevat dit document gedetailleerde instructies over hoe een workshop gestructureerd kan worden met behulp van de AI.D-projectresultaten en hoe materialen geselecteerd kunnen worden met het oog op de individuele leerdoelen.",
+      "policyDescription": "AI.D combineert inter- en transdisciplinair onderzoek, waaronder onderwijswetenschappen, technologietoetsing, sociale en computerwetenschappen evenals de onderwijspraktijk. De in dit project opgedane kennis en geproduceerde materialen dragen bij aan het opzetten van een toekomstbestendige aanpak om betekenis te geven aan AI in leren, lesgeven en onderwijs. Het doel van deze korte policy paper is 1) het belichten van enkele centrale uitdagingen bij de omgang met AI in de onderwijssector; en 2) het schetsen van basisaanbevelingen over hoe om te gaan met AI en het stimuleren van kritische AI-geletterdheid in het onderwijsbeleid en de onderwijspraktijk."
+    },
+    "labels": {
+      "curriculumLabel": "AI.D Curriculum",
+      "policyLabel": "AI.D Beleidsaanbevelingen"
+    }
+  },
+  "Navigation": {
+    "legal-notice": {
+      "title": "Juridische kennisgeving",
+      "operator": "Websitebeheerder",
+      "coordinator": "Projectcoördinatie",
+      "school-project": "De website werd geïmplementeerd als onderdeel van een schoolproject.",
+      "github-sources": "Bronbestanden voor de geanimeerde video's en de website"
+    },
+    "privacy": {
+      "title": "Privacyverklaring"
+    },
+    "partners": {
+      "title": "Partners"
+    },
+    "cookies": {
+      "title": "Cookies"
+    },
+    "quiz": {
+      "title": "Quiz"
+    },
+    "memoryquiz": {
+      "title": "Geheugenquiz"
+    },
+    "webinars": "Webinars",
+    "fundamentals-of-ai": {
+      "title": "Basisprincipes van AI",
+      "introduction": "Introductie",
+      "eu-ai-act": "AI & de EU AI Act",
+      "open-questions": "Open vragen",
+      "quiz": "Quiz"
+    },
+    "gen-ai-and-critical-ai-literacy": {
+      "title": "GenAI & Kritische AI-geletterdheid",
+      "area": "Toepassingsgebied",
+      "specifics": "Specifieke kenmerken van GENAI/LLMs",
+      "impact": "Effect & Implicaties",
+      "quiz": "Quiz",
+      "prompting-guide": "Promptgids"
+    },
+    "algorithms-in-e-recruiting-software": {
+      "title": "Algoritmen in E-recruitment",
+      "area": "Toepassingsgebied",
+      "specifics": "Specifieke kenmerken van AI",
+      "impact": "Effect"
+    },
+    "ai-tutors-between-equality-and-inequality": {
+      "title": "AI-tutoren & Gelijkheid",
+      "introduction": "Introductie",
+      "specifics": "Specifieke kenmerken",
+      "implications": "Implicaties",
+      "quiz": "Quiz"
+    },
+    "ai-tutors": {
+      "title": "AI-tutoren & Gelijkheid"
+    },
+    "webinar-demo": {
+      "title": "Webinar 1: Basisprincipes van AI"
+    },
+    "materials": "Leer materialen",
+    "material1": {
+      "title": "Leer materiaal 1: Niet alles is AI"
+    },
+    "material2": {
+      "title": "Leer materiaal 2: AI - individuele en maatschappelijke impact"
+    },
+    "material3": {
+      "title": "Leer materiaal 3: AI Governance, Ethiek, Mensenrechten en Democratie"
+    },
+    "material4": {
+      "title": "Didactische materialen"
+    },
+    "curriculum": {
+      "title": "Curriculum en beleidsaanbevelingen"
+    }
+  },
+  "AITutorsIntroductionCarousel": {
+    "title": "AI-Tutors",
+    "chapter": "Introductie",
+    "slide1": {
+      "alt": "Wat is een AI-tutor?",
+      "listHeadline": "Wat is een AI-tutor?",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Voorbeelden van AI-tutors",
+      "listHeadline": "Voorbeelden van AI-tutors",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Afbeelding 2",
+      "listHeadline": "Goed gedaan!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Volgende sectie</a>"]
+    }
+  },
+  "AITutorsSpecificsCarousel": {
+    "title": "AI-Tutors",
+    "chapter": "Specificaties",
+    "slide1": {
+      "alt": "Technologie achter AI-tutors",
+      "listHeadline": "Technologie achter AI-tutors",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Wat kunnen AI-tutors doen voor onderwijs en leren?",
+      "listHeadline": "Wat kunnen AI-tutors doen voor onderwijs en leren?",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Goed gedaan!",
+      "listHeadline": "Goed gedaan!",
+      "listContent": ["<a href='./implications' style='color:inherit'>Volgende sectie</a>"]
+    }
+  },
+  "AITutorsImplicationsCarousel": {
+    "title": "AI-Tutors",
+    "chapter": "Implicaties",
+    "slide1": {
+      "alt": "Hoe AI-tutors kunnen helpen nadelen te verminderen",
+      "listHeadline": "Hoe AI-tutors kunnen helpen nadelen te verminderen",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Waar AI-tutors tekortschieten: de menselijke kwaliteiten die ze missen:",
+      "listHeadline": "Waar AI-tutors tekortschieten: de menselijke kwaliteiten die ze missen:",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Toegankelijkheid",
+      "listHeadline": "Toegankelijkheid",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Risico's van het gebruik van AI-tutors: biases en privacykwesties",
+      "listHeadline": "Risico's van het gebruik van AI-tutors: biases en privacykwesties",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "AI-kompas voor goed en verantwoord gebruik van AI-tutors in de onderwijscontext (1/3)",
+      "listHeadline": "AI-kompas voor goed en verantwoord gebruik van AI-tutors in de onderwijscontext (1/3)",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "AI-kompas voor goed en verantwoord gebruik van AI-tutors in de onderwijscontext (2/3)",
+      "listHeadline": "AI-kompas voor goed en verantwoord gebruik van AI-tutors in de onderwijscontext (2/3)",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "AI-kompas voor goed en verantwoord gebruik van AI-tutors in de onderwijscontext (3/3)",
+      "listHeadline": "AI-kompas voor goed en verantwoord gebruik van AI-tutors in de onderwijscontext (3/3)",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Gefeliciteerd!",
+      "listHeadline": "Gefeliciteerd!",
+      "listContent": ["<a href='./quiz' style='color:inherit'>Doe de Quiz</a>"]
+    }
+  },
+  "FundamentalsOfAIIntroductionCarousel": {
+    "title": "Basisprincipes van AI",
+    "chapter": "Introduction",
+    "slide1": {
+      "alt": "Zeven mensen en een hond zijn in aquarel geïllustreerd, staand tegen een lichtblauwe achtergrond, in verschillende houdingen maar allemaal intensief naar hun mobiele telefoons kijkend. Ze zijn blauw gekleurd met gele details en werpen blauwe schaduwen. Hun telefoons zijn allemaal verbonden via een webachtig netwerk in de lucht, met verschillende verbindingspunten. De afbeelding is staand en laat ruimte voor tekst in de linkerbovenhoek.",
+      "listHeadline": "AI: een overkoepelende term",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "AI-toepassingen",
+      "listHeadline": "AI-toepassingen",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "AI in verschillende gebieden",
+      "listHeadline": "AI in verschillende gebieden",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Kunnen machines leren?",
+      "listHeadline": "Kunnen machines leren?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Deep Learning: een voorbeeld",
+      "listHeadline": "Deep Learning: een voorbeeld",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "De intelligentie van AI",
+      "listHeadline": "De intelligentie van AI",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Afbeelding 7",
+      "listHeadline": "Hoe werken AI-systemen?",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "AI: onze automatische piloot?",
+      "listHeadline": "AI: onze automatische piloot?",
+      "listContent": []
+    },
+    "slide9": {
+      "alt": "Weet u waar AI wordt gebruikt?",
+      "listHeadline": "Weet u waar AI wordt gebruikt?",
+      "listContent": []
+    },
+    "slide10": {
+      "alt": "Goed gedaan!",
+      "listHeadline": "Goed gedaan!",
+      "listContent": ["<a href='./eu-ai-act' style='color:inherit'>Volgende sectie</a>"]
+    }
+  },
+  "FundamentalsOfAISpecificsCarousel": {
+    "title": "Fundamenten van AI",
+    "chapter": "Potentie, Uitdagingen en de EU AI Act",
+    "slide1": {
+      "alt": "Het potentieel van AI",
+      "listHeadline": "Het potentieel van AI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Uitdagingen: privacy en veiligheid",
+      "listHeadline": "Uitdagingen: privacy en veiligheid",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Uitdagingen: ethiek en biases",
+      "listHeadline": "Uitdagingen: ethiek en biases",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Uitdagingen: menselijke connectie, afhankelijkheid, banenverlies",
+      "listHeadline": "Uitdagingen: menselijke connectie, afhankelijkheid, banenverlies",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Politieke regulering van AI",
+      "listHeadline": "Politieke regulering van AI",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "De EU-aanpak",
+      "listHeadline": "De EU-aanpak",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "De risiconiveaus van AI in de EU AI Act",
+      "listHeadline": "De risiconiveaus van AI in de EU AI Act",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Goed gedaan!",
+      "listHeadline": "Goed gedaan!",
+      "listContent": ["<a href='./open-questions' style='color:inherit'>Volgende sectie</a>"]
+    }
+  },
+  "FundamentalsOfAIImplicationsCarousel": {
+    "title": "Fundamenten van AI",
+    "chapter": "Open Vragen: Sociale en ecologische implicaties",
+    "slide1": {
+      "alt": "Bekijk de afbeelding",
+      "listHeadline": "Bekijk de afbeelding",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "AI en Mensenrechten",
+      "listHeadline": "AI en Mensenrechten",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Milieu-impact van AI",
+      "listHeadline": "Milieu-impact van AI",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "AI: welke taken voor de democratie?",
+      "listHeadline": "AI: welke taken voor de democratie?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Democratische controles",
+      "listHeadline": "Democratische controles",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Democratische ontwikkelingen",
+      "listHeadline": "Democratische ontwikkelingen",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Gefeliciteerd!",
+      "listHeadline": "Gefeliciteerd!",
+      "listContent": ["<a href='quiz' style='color:inherit'>Quiz</a>"]
+    }
+  },
+  "AlgorithmsAreaCarousel": {
+    "title": "Algoritmen in e-recruitmentsoftware",
+    "chapter": "Toepassingsgebied",
+    "slide1": {
+      "alt": "Geautomatiseerde besluitvorming (ADM) en de invloed op het arbeidsleven",
+      "listHeadline": "Geautomatiseerde besluitvorming (ADM) en de invloed op het arbeidsleven",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Voorbeelden van AI-gestuurde tools voor personeelswerving",
+      "listHeadline": "Voorbeelden van AI-gestuurde tools voor personeelswerving",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Goed gedaan!",
+      "listHeadline": "Goed gedaan!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Volgende sectie</a>"]
+    }
+  },
+  "AlgorithmsSpecificsCarousel": {
+    "title": "Algoritmen in E-Recruiting-Software",
+    "chapter": "Besonderheiten van AI",
+    "slide1": {
+      "alt": "Algemene vertekeningsproblemen bij machinaal leren",
+      "listHeadline": "Algemene vertekeningsproblemen bij machinaal leren",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Onbewuste vertekeningen bij machinaal leren",
+      "listHeadline": "Onbewuste vertekeningen bij machinaal leren",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Datageneratie voor de modelopbouw",
+      "listHeadline": "Datageneratie voor de modelopbouw",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Modelopbouw",
+      "listHeadline": "Modelopbouw",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Hoe werkt e-recruiting?",
+      "listHeadline": "Hoe werkt e-recruiting?",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Eerlijke AI ter ondersteuning van HR",
+      "listHeadline": "Eerlijke AI ter ondersteuning van HR",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Praktijk: oefening",
+      "listHeadline": "Praktijk: oefening",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Goed gedaan!",
+      "listHeadline": "Goed gedaan!",
+      "listContent": ["<a href='./impact' style='color:inherit'>Volgende sectie</a>"]
+    }
+  },
+  "AlgorithmsImpactCarousel": {
+    "title": "Algoritmen in E-Recruiting-Software",
+    "chapter": "Impact – Kompas voor goed en eerlijk gebruik",
+    "slide1": {
+      "alt": "Hoe kan AI in recruitment zowel effectief als eerlijk zijn?",
+      "listHeadline": "Hoe kan AI in recruitment zowel effectief als eerlijk zijn?",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "De digitale transformatie in de arbeidswereld vormgeven",
+      "listHeadline": "De digitale transformatie in de arbeidswereld vormgeven",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Gegevensbescherming en regulering",
+      "listHeadline": "Gegevensbescherming en regulering",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Hoe zou een goed en eerlijk AI-gebruik in een professionele context eruit kunnen zien?",
+      "listHeadline": "Hoe zou een goed en eerlijk AI-gebruik in een professionele context eruit kunnen zien?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "AI-kompas voor goed en eerlijk gebruik van AI in de beroepspraktijk",
+      "listHeadline": "AI-kompas voor goed en eerlijk gebruik van AI in de beroepspraktijk",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Principe 1: Overwogen inzetten",
+      "listHeadline": "Principe 1: Overwogen inzetten",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Principe 2: Samen in het team",
+      "listHeadline": "Principe 2: Samen in het team",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Principe 3: Transparantie",
+      "listHeadline": "Principe 3: Transparantie",
+      "listContent": []
+    },
+    "slide9": {
+      "alt": "Principe 4: Voortdurend omgaan met vertekening en verleden",
+      "listHeadline": "Principe 4: Voortdurend omgaan met vertekening en verleden",
+      "listContent": []
+    },
+    "slide10": {
+      "alt": "Principe 5: Met hoge gegevensbescherming",
+      "listHeadline": "Principe 5: Met hoge gegevensbescherming",
+      "listContent": []
+    },
+    "slide11": {
+      "alt": "Principe 6: Met leergierigheid",
+      "listHeadline": "Principe 6: Met leergierigheid",
+      "listContent": []
+    },
+    "slide12": {
+      "alt": "AI-kompas voor het goede en eerlijke gebruik van AI in jouw organisatie",
+      "listHeadline": "AI-kompas voor het goede en eerlijke gebruik van AI in jouw organisatie",
+      "listContent": []
+    },
+    "slide13": {
+      "alt": "Hartelijk gefeliciteerd!",
+      "listHeadline": "Hartelijk gefeliciteerd!",
+      "listContent": [
+        "<a href='../ai-tutors-between-equality-and-inequality' style='color:inherit'>Naar het volgende webinar</a>"
+      ]
+    }
+  },
+  "GenAIAreaCarousel": {
+    "title": "GenAI & Kritische AI-geletterdheid",
+    "chapter": "Toepassingsgebied",
+    "slide1": {
+      "alt": "Video-samenvatting: Potentie en beperkingen van GenAI",
+      "listHeadline": "Video-samenvatting: Potentie en beperkingen van GenAI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "GenAI is overal! Of toch niet?",
+      "listHeadline": "GenAI is overal! Of toch niet?",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "GenAI – Toepassingsgebieden",
+      "listHeadline": "GenAI – Toepassingsgebieden",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Relevantie in verschillende gebieden",
+      "listHeadline": "Relevantie in verschillende gebieden",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Goed gedaan!",
+      "listHeadline": "Goed gedaan!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Volgende sectie</a>"]
+    }
+  },
+  "GenAISpecificsCarousel": {
+    "title": "GenAI en Kritische AI-geletterdheid",
+    "chapter": "Specificaties van GenAI",
+    "slide1": {
+      "alt": "Basisfuncties van GenAI",
+      "listHeadline": "Basisfuncties van GenAI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Van input naar output",
+      "listHeadline": "Van input naar output",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Waarschijnlijkheden",
+      "listHeadline": "Waarschijnlijkheden",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "GenAI kan hallucineren",
+      "listHeadline": "GenAI kan hallucineren",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Goed gedaan!",
+      "listHeadline": "Goed gedaan!",
+      "listContent": ["<a href='./impact' style='color:inherit'>Volgende sectie</a>"]
+    }
+  },
+  "GenAIImpactCarousel": {
+    "title": "GenAI en Kritische AI-geletterdheid",
+    "chapter": "Impact en implicaties voor goed en verantwoord gebruik",
+    "slide1": {
+      "alt": "Culturele impact",
+      "listHeadline": "Culturele impact",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Politieke impact",
+      "listHeadline": "Politieke impact",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Impact op het onderwijs",
+      "listHeadline": "Impact op het onderwijs",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Kritische vragen over GenAI – Een onvolledige lijst",
+      "listHeadline": "Kritische vragen over GenAI – Een onvolledige lijst",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Regulerende impact",
+      "listHeadline": "Regulerende impact",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Hartelijk gefeliciteerd!",
+      "listHeadline": "Hartelijk gefeliciteerd!",
+      "listContent": ["<a href='./quiz' style='color:inherit'>Quiz</a>"]
+    }
+  },
+  "GenAIPromptingGuide": {
+    "title": "GenAI en Kritische AI-geletterdheid",
+    "chapter": "Prompting-gids",
+    "slide1": {
+      "alt": "Tips voor goed prompting",
+      "listHeadline": "Tips voor goed prompting",
+      "listContent": [
+        "Een LLM heeft geen geheugen, maar gebruikt patronen om antwoorden te voorspellen.",
+        "Het herinnert zich je vorige vraag of antwoord niet.",
+        "Een deel van het vorige gesprek wordt bij elk verzoek opnieuw verzonden.",
+        "Als het te veel tekens zijn, vergeet de bot delen van je gesprek."
+      ]
+    },
+    "slide2": {
+      "alt": "Tips voor goed prompting",
+      "listHeadline": "Tips voor goed prompting",
+      "listContent": [
+        "Vertel de bot iets over de context van je vraag, zodat deze de toon en stijl kan aanpassen.",
+        "Vraag de bot welke informatie deze nodig heeft om je beter te helpen.",
+        "Geef de bot een duidelijke rol en taak (zie voorbeelden op de volgende dia).",
+        "Wees specifiek over hoe het antwoord eruit moet zien (bijv. voorbeelden, lengte, formaat, toonzetting of trefwoorden).",
+        "Schrijf indien nodig in het Engels (gebruik tools zoals Deepl of Google Translate).",
+        "Laat de bot voorbeelden zien van goede antwoorden.",
+        "Ga stap voor stap te werk.",
+        "Verdeel grote taken in kleinere stappen.",
+        "Bewerk en pas de tekst aan totdat je tevreden bent."
+      ]
+    },
+    "slide3": {
+      "alt": "Voorbeelden van rollen van je bot",
+      "listHeadline": "Voorbeelden van rollen van je bot",
+      "listContent": [
+        "Social media-expert, nieuwsbriefschrijver, marketingassistent enz.",
+        "Redacteur",
+        "Proofreader",
+        "Data-analist",
+        "Creatieve denker",
+        "Coach",
+        "Trainer (voor ...)",
+        "Docent (voor ...)",
+        "Adviseur (voor ...)",
+        "Journalist",
+        "Wetenschapper",
+        "Persoonlijke assistent"
+      ]
+    },
+    "slide4": {
+      "alt": "Voorbeelden van taken van je bot",
+      "listHeadline": "Voorbeelden van taken van je bot",
+      "listContent": [
+        "Informatie samenvatten",
+        "Eerste ideeën leveren",
+        "Feedback geven op je ideeën",
+        "Optreden als iemand uit je doelgroep",
+        "Je adviseren of interviewen"
+      ]
+    }
+  },
+  "Quiz1": {
+    "title": "Quiz: Grondslagen van KI",
+    "question": "Vraag",
+    "backToCourse": "Terug naar het webinar",
+    "next": "Verder",
+    "toast": {
+      "correctTitle": "JUIST!",
+      "correctDescription": "Je hebt de vraag correct beantwoord.",
+      "incorrectTitle": "NIET HELEMAAL JUIST!",
+      "incorrectDescription": "Oeps, dat was helaas niet correct. Probeer het nog een keer!"
+    }
+  },
+  "Quiz2": {
+    "title": "Quiz: GenAI & Kritische KI-geletterdheid",
+    "question": "Vraag",
+    "backToCourse": "Terug naar het webinar",
+    "next": "Verder",
+    "toast": {
+      "correctTitle": "JUIST!",
+      "correctDescription": "Je hebt de vraag correct beantwoord.",
+      "incorrectTitle": "NIET HELEMAAL JUIST!",
+      "incorrectDescription": "Oeps, dat was helaas niet correct. Probeer het nog een keer!"
+    }
+  },
+  "Quiz4": {
+    "title": "Quiz: KI-tutoren & Gelijkheid",
+    "question": "Vraag",
+    "backToCourse": "Terug naar het webinar",
+    "next": "Verder",
+    "toast": {
+      "correctTitle": "JUIST!",
+      "correctDescription": "Je hebt de vraag correct beantwoord.",
+      "incorrectTitle": "NIET HELEMAAL JUIST!",
+      "incorrectDescription": "Oeps, dat was helaas niet correct. Probeer het nog een keer!"
+    }
+  },
+  "QuizSummary": {
+    "title": "Quizresultaten",
+    "yourScore": "Jouw score",
+    "feedback": {
+      "excellent": "👏 Uitstekende prestatie! Je hebt het onderwerp erg goed begrepen. Ga zo door! 👏",
+      "good": "👍 Heel goed gedaan! Blijf zo doorgaan! 👍",
+      "tryAgain": "😊 Goede poging! Oefen verder om je resultaat te verbeteren. 😊"
+    },
+    "table": {
+      "number": "Nr.",
+      "questionAndAnswer": "Vraag & correct antwoord",
+      "yourAnswer": "Jouw antwoord"
+    },
+    "backToHome": "Terug naar het webinar"
+  },
+  "Breadcrumbs": {
+    "home": "Startpagina",
+    "webinars": "Webinars",
+    "materials": "Leer materialen",
+    "quiz": "Quiz",
+    "course": {
+      "aiTutors": "AI-tutoren tussen gelijkheid en ongelijkheid"
+    },
+    "sections": {
+      "introduction": "Introductie",
+      "specifics": "Specifieke kenmerken",
+      "implications": "Implicaties",
+      "area": "Toepassingsgebied"
+    }
+  },
+  "Bibliography": {
+    "heading": "Bibliografie en downloads",
+    "bibliography": "Bibliografie",
+    "photoCredits": "Bronvermelding foto's",
+    "retrievedText": "Laatst bekeken op",
+    "w1": {
+      "heading": "Grondslagen van KI",
+      "fundamentals": "Grondslagen",
+      "ai-act": "EU AI Act",
+      "environmental-impact": "De sociale en ecologische implicaties",
+      "democracy-ai": "Democratie en KI",
+      "clickworkers": "Clickworker"
+    },
+    "w2": {
+      "heading": "GenAI & Kritische KI-geletterdheid"
+    },
+    "w3": {
+      "heading": "Algoritmen in e-recruitment"
+    },
+    "w4": {
+      "heading": "KI-tutoren & Gelijkheid"
+    }
+  },
+  "Funding": {
+    "eu": {
+      "logo": "NL_Co-fundedbytheEU_RGB_POS.png",
+      "alt": "EU medegefinancierd logo",
+      "text": "Gefinancierd door de Europese Unie. De hier geuite ideeën en meningen komen echter uitsluitend voor rekening van de auteur(s) en geven niet noodzakelijkerwijs die van de Europese Unie of het Europese Uitvoerende Agentschap onderwijs en cultuur (EACEA) weer. Noch de Europese Unie, noch het EACEA kan ervoor aansprakelijk worden gesteld."
+    },
+    "cif": {
+      "logo": "CIF_logo_black_rgb.png",
+      "alt": "CIF logo",
+      "text": "Het project 'AI.D - Kunstmatige Intelligentie en de Vormgeving van Democratie' werd medegefinancierd door het <u><a href='https://thecivics.eu/projects/civic-innovation-fund/' target='_blank'>Civic Innovation Fund (CIF)</a></u>, een uniek Europees gepoolde fonds van THE CIVICS Innovation Hub. CIF wordt ondersteund door de Koning Boudewijnstichting."
+    }
+  },
+  "Copyright": {
+    "copyright": "Copyright © 2025-2026 door het partnerconsortium van het project “AID – Artificial Intelligence and the Shaping of Democracy”.",
+    "license": "Dit werk is gelicenseerd onder"
+  },
+  "MemoryGame": {
+    "title": "Geheugenquiz",
+    "description": "Vind overeenkomende paren van AI-termen en hun definities",
+    "congratulations": "Gefeliciteerd! Je hebt alle paren gevonden!",
+    "moves": "Zetten",
+    "matched": "Gevonden",
+    "time": "Tijd",
+    "backToWebinars": "Terug naar webinars",
+    "playAgain": "Opnieuw spelen",
+    "resetGame": "Spel opnieuw starten",
+    "showExplanations": true,
+    "terms": [
+      {
+        "id": 1,
+        "term": "Machine Learning",
+        "definition": "Een methode van AI-ontwikkeling die grote hoeveelheden gegevens gebruikt om er regels uit af te leiden.",
+        "explanation": "Bij machine learning ontwikkelen AI-systemen hun eigen processen en structuren door te proberen regels en patronen af te leiden uit grote hoeveelheden data. Zo kunnen dergelijke systemen methoden leren om zelfstandig kattenfoto's te herkennen, door getraind te worden met een enorme hoeveelheid afbeeldingen van katten. Bij het zogenaamde \"deep learning\" kan hiervoor ongestructureerde data worden gebruikt. Meestal worden bij machine learning echter datasets gebruikt die al voorzien zijn van labels (\"labels\") en contextinformatie (\"annotations\"). Hierbij is dus veel meer menselijke input en interventie nodig, wat de reden is dat men spreekt van \"supervised\" (begeleid) machine learning."
+      },
+      {
+        "id": 2,
+        "term": "Artificial Intelligence",
+        "definition": "Een tak van de informatica die zich bezighoudt met \"intelligente\", \"autonome\" en \"zelflerend\" machines.",
+        "explanation": "\"Kunstmatige intelligentie\" is geen scherp gedefinieerd begrip, dus dit is slechts één mogelijke definitie. Naast het onderzoeksveld van de informatica kan het ook verwijzen naar de \"intelligente\" eigenschappen van bepaalde systemen of de feitelijke machines zelf - en dus zeer verschillende dingen beschrijven. In het samenspel van media, onderzoek en investeringsgelden heeft dit veld al vele afwisselende fasen van hype en nuchterheid doorgemaakt. Er wordt ook vaak onderscheid gemaakt tussen \"zwakke AI\" en \"sterke AI\": terwijl \"zwakke AI\" alleen voor heel specifieke taken getraind en ingezet kan worden, zou \"sterke AI\" een heel algemene intelligentie moeten beschrijven, vergelijkbaar met het menselijk verstand - maar dit is tot nu toe uitsluitend sciencefiction gebleken."
+      },
+      {
+        "id": 3,
+        "term": "Algoritme",
+        "definition": "Een reeks instructies om van een specifieke invoer een specifieke uitvoer te produceren.",
+        "explanation": "Tegenwoordig wordt de term algoritme vaak gebruikt om heel verschillende dingen te beschrijven, van het sorteren van berichten op sociale mediaplatforms tot de processen van neurale netwerken bij machine learning. De meeste van deze dingen bevatten algoritmen, maar vaak ook nog veel meer. Een algoritme op zich is niets meer dan een eindige reeks instructies om een specifieke taak te vervullen, oftewel om vanuit een bepaalde input een bepaalde output te genereren. Met deze eenvoudige definitie kunnen zelfs kookrecepten als algoritmen worden beschouwd: als je de stappen precies volgt, kun je van je rauwe ingrediënten een heerlijke pizza maken."
+      },
+      {
+        "id": 4,
+        "term": "Gegevens",
+        "definition": "(Numerieke) waarden en informatie uit metingen of waarnemingen om dingen of personen te beschrijven.",
+        "explanation": "Of het nu gaat om specifieke numerieke waarden, strikte categoriseringen of onbestemde tekstafkortingen: data worden in uiteenlopende vormen geproduceerd, bijvoorbeeld bij het gebruik van technische apparaten, het invullen van formulieren, het verzamelen van meetgegevens, enzovoort. Ze proberen beschrijvingen en uitspraken te doen over verschillende zaken, personen of processen. Hoewel ze vaak zo worden gepresenteerd, zijn data nooit volledig neutraal of objectief; de perspectieven en belangen van de besluitvormers zitten immers al verweven in de beslissing over wat er precies op welke manier moet worden vastgelegd. Zodoende weerspiegelen niet alleen de data zelf, maar ook de productie en het gebruik ervan, de (macht)verhoudingen in onze samenleving."
+      },
+      {
+        "id": 5,
+        "term": "Annotatie & Labeling",
+        "definition": "De voorbereiding van ongestructureerde gegevens door labeling en categorisering voor zelflerend systemen.",
+        "explanation": "Het tijdrovende, handmatige werk van data-annotatie is essentieel om zelflerende systemen überhaupt te laten leren. Hiervoor moeten de gegevens waarvan het AI-systeem later moet leren, speciaal worden voorbereid: op afbeeldingen moet bijvoorbeeld worden gemarkeerd hoe zaken als fietsen, stoplichten of zebrapaden eruitzien. Grote techbedrijven laten dit werk vaak uitvoeren via informeel \"clickwork\" of door bedrijven in het mondiale zuiden om hun winsten te verhogen door gebruik te maken van de meestal zwakkere arbeidswetgeving. Tegelijkertijd wordt dit werk hierdoor vaker verborgen gehouden, wat de indruk van de technologische bijzonderheid van AI versterkt en de menselijke arbeid die erin zit onzichtbaarder maakt."
+      },
+      {
+        "id": 6,
+        "term": "Geautomatiseerde Beslissingssystemen",
+        "definition": "Technische systemen die complexe beslissingen autonoom nemen of ondersteuning bij beslissingen bieden.",
+        "explanation": "Of een aanvraag voor bijstand wordt goedgekeurd, een lening wordt verstrekt of een alarm wordt geactiveerd op basis van beelden van bewakingscamera's, kan vaak afhangen van geautomatiseerde besluitvormingssystemen. Ze komen tot hun resultaat door te worden getraind met grote hoeveelheden gegevens uit bewaking, administratie en enquêtes. Veel systemen nemen dergelijke beslissingen echter niet alleen, maar ondersteunen enkel door aanbevelingen voor actieopties te geven – wat bij een beslissing tegen de aanbeveling in echter vaak een hoge rechtvaardigingsdruk met zich meebrengt. Of en in hoeverre geautomatiseerde systemen invloed hebben gehad, is voor de mensen die door de uiteindelijke beslissingen worden getroffen vaak helemaal niet transparant of navolgbaar."
+      },
+      {
+        "id": 7,
+        "term": "Socio-technische Systemen",
+        "definition": "Technologie bestaat niet alleen uit machines en programma's; het is altijd ingebed in sociale en politieke contexten.",
+        "explanation": "De term \"socio-technisch\" vindt zijn oorsprong in de technieksociologie en beschrijft dat het niet volstaat om alleen naar de tandwielen, algoritmen en kabels van een machine te kijken om deze te begrijpen. In plaats daarvan is het essentieel om de sociale en politieke inbedding in onze samenleving te beschouwen. Tegelijkertijd vormen de technische details van machines ook de gemeenschappen waarin ze worden gebruikt, door bepaalde manieren van leven mogelijk te maken en andere juist te verhinderen. We moeten ons dus afvragen: wie heeft de machine op welke manier ontwikkeld of aan de ontwikkeling ervan bijgedragen? Wat doet een machine met de mensen die hem gebruiken? Welke impact heeft hij op het sociale en politieke samenleven? Vooral bij \"zelflerende\" AI-systemen is het belangrijk om deze menselijke component niet uit het oog te verliezen."
+      },
+      {
+        "id": 8,
+        "term": "Human-In-The-Loop",
+        "definition": "Mensen blijven centraal staan op veel punten bij het maken en gebruik van AI-systemen.",
+        "explanation": "Van het ontwikkelings- en trainingsproces tot de uitvoering van de resultaten blijven mensen op veel punten centraal staan in AI-systemen. Voor sommige van deze posities is de term \"Human in the Loop\" ingeburgerd geraakt. Soms wordt dit gebruikt om te beschrijven dat voor bepaalde vormen van \"supervised\" of \"begeleid machine learning\" constante menselijke begeleiding en aanpassing nodig zijn. Aan de andere kant wordt de term ook gebruikt om te onderstrepen dat bijzonder ernstige of gevoelige beslissingen niet alleen door geautomatiseerde besluitvormingssystemen mogen worden genomen. In plaats daarvan zou een mens de uiteindelijke beslissing moeten nemen om institutionele verantwoordelijkheid te waarborgen."
+      },
+      {
+        "id": 9,
+        "term": "Large Language Model",
+        "definition": "Een generatieve AI die, door training op grote hoeveelheden tekst, nu zelf plausibele tekst kan genereren.",
+        "explanation": "Door te trainen op zeer grote tekstverzamelingen kunnen Large Language Models (LLMs) statistische regels afleiden, waarmee ze zelf nieuwe teksten kunnen maken op basis van specifieke instructies (\"prompts\"). Daarbij begrijpen deze modellen echter niet waarover ze schrijven; ze kunnen enkel op een zeer complexe manier berekenen welk woord in een bepaalde context het meest waarschijnlijk op een ander woord volgt om een geloofwaardige tekst te creëren. Op deze manier kunnen ook samenvattingen of vertalingen van bestaande teksten worden gemaakt, of kunnen vragen in een dialoogvorm worden beantwoord."
+      }
+    ]
+  }
+}

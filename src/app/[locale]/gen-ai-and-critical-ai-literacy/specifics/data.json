@@ -1,0 +1,25 @@
+{
+  "chapter": "GenAISpecificsCarousel",
+  "carouselData": [
+    {
+      "src": "/ai-generic/07m.jpg",
+      "markdownSource": "w2_specifics_s1"
+    },
+    {
+      "src": "/ai-generic/01m.jpg",
+      "markdownSource": "w2_specifics_s2"
+    },
+    {
+      "src": "/ai-generic/02m.jpg",
+      "markdownSource": "w2_specifics_s3"
+    },
+    {
+      "src": "/ai-generic/03m.jpg",
+      "markdownSource": "w2_specifics_s4"
+    },
+    {
+      "src": "/ai-generic/04m.jpg",
+      "markdownSource": "w2_specifics_s5"
+    }
+  ]
+}

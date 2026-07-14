@@ -1,0 +1,110 @@
+[
+  {
+    "heading": "",
+    "items": [
+      {
+        "id": "w3-1",
+        "author": "Business Punk",
+        "date": "2024",
+        "title": "Die Zukunft des Recruitings: Wie Unilever durch KI die Mitarbeitersuche revolutioniert",
+        "link": {
+          "text": "https://www.business-punk.com/2024/05/die-zukunft-des-recruitings-wie-unilever-durch-ki-die-mitarbeitersuche-revolutioniert/",
+          "url": "https://www.business-punk.com/2024/05/die-zukunft-des-recruitings-wie-unilever-durch-ki-die-mitarbeitersuche-revolutioniert/"
+        }
+      },
+      {
+        "id": "w3-2",
+        "author": "Deichmann+Fuchs",
+        "date": "n.d.",
+        "title": "Was ist beim Einsatz künstlicher Intelligenz (KI) im Einstellungsverfahren zu beachten? Fokus Datenschutz",
+        "link": {
+          "text": "https://www.fokus-datenschutz.de/was-ist-beim-einsatz-kuenstlicher-intelligenz-ki-im-einstellungsverfahren-zu-beachten",
+          "url": "https://www.fokus-datenschutz.de/was-ist-beim-einsatz-kuenstlicher-intelligenz-ki-im-einstellungsverfahren-zu-beachten"
+        }
+      },
+      {
+        "id": "w3-3",
+        "author": "Harwell, D.",
+        "date": "2019",
+        "title": "A face-scanning algorithm increasingly decides whether you deserve the job",
+        "link": {
+          "text": "https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/",
+          "url": "https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/"
+        }
+      },
+      {
+        "id": "w3-4",
+        "author": "IQB Career Services",
+        "date": "2023, Juni 14",
+        "title": "KI in Bewerbungsprozessen – Vor- und Nachteile beim Einsatz künstlicher Intelligenz",
+        "source": "IQB Karrieremagazin",
+        "link": {
+          "text": "https://www.iqb-career-services.com/articles/ki-in-bewerbungsprozessen-vor-und-nachteile-beim-einsatz-kuenstlicher-intelligenz",
+          "url": "https://www.iqb-career-services.com/articles/ki-in-bewerbungsprozessen-vor-und-nachteile-beim-einsatz-kuenstlicher-intelligenz"
+        }
+      },
+      {
+        "id": "w3-5",
+        "author": "Junge, J.",
+        "date": "2023",
+        "title": "KI-Kompass für NGOs – Mein Vorschlag für einen Code of Good Practice",
+        "link": {
+          "text": "https://www.juliajunge.de/ki-kompass-fuer-ngos-mein-vorschlag-fuer-einen-code-of-good-practice",
+          "url": "https://www.juliajunge.de/ki-kompass-fuer-ngos-mein-vorschlag-fuer-einen-code-of-good-practice"
+        }
+      },
+      {
+        "id": "w3-6",
+        "author": "Kock, A.",
+        "date": "2024",
+        "title": "KI und Arbeitsrecht: Das bedeutet der AI Act für den HR-Bereich",
+        "link": {
+          "text": "https://kpmg-law.de/ki-und-arbeitsrecht-das-bedeutet-der-ai-act-fuer-den-hr-bereich",
+          "url": "https://kpmg-law.de/ki-und-arbeitsrecht-das-bedeutet-der-ai-act-fuer-den-hr-bereich"
+        }
+      },
+      {
+        "id": "w3-7",
+        "author": "Learning Collider",
+        "date": "2022",
+        "title": "Algorithms in Hiring. How they work…and how they don’t",
+        "link": {
+          "text": "https://blog.learningcollider.org/algorithms-in-hiring-6760ea8869b",
+          "url": "https://blog.learningcollider.org/algorithms-in-hiring-6760ea8869b"
+        }
+      },
+      {
+        "id": "w3-8",
+        "author": "Salesforce",
+        "date": "2023",
+        "title": "More than Half of Generative AI Adopters Use Unapproved Tools at Work",
+        "link": {
+          "text": "https://www.salesforce.com/news/stories/more-than-half-of-generative-ai-adopters-use-unapproved-tools-at-work",
+          "url": "https://www.salesforce.com/news/stories/more-than-half-of-generative-ai-adopters-use-unapproved-tools-at-work"
+        }
+      },
+      {
+        "id": "w3-9",
+        "author": "Suresh, H., & Guttag, J.",
+        "date": "2021",
+        "title": "A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle",
+        "source": "ACM Digital Library",
+        "link": {
+          "text": "https://dl.acm.org/doi/fullHtml/10.1145/3465416.3483305",
+          "url": "https://dl.acm.org/doi/fullHtml/10.1145/3465416.3483305"
+        }
+      },
+      {
+        "id": "w3-10",
+        "author": "Wilke, F.",
+        "date": "2018",
+        "title": "Künstliche Intelligenz diskriminiert (noch)",
+        "source": "Zeit Online",
+        "link": {
+          "text": "https://www.zeit.de/arbeit/2018-10/bewerbungsroboter-kuenstliche-intelligenz-amazon-frauen-diskriminierung",
+          "url": "https://www.zeit.de/arbeit/2018-10/bewerbungsroboter-kuenstliche-intelligenz-amazon-frauen-diskriminierung"
+        }
+      }
+    ]
+  }
+]

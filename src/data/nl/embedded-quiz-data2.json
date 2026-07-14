@@ -1,0 +1,19 @@
+[
+  {
+    "questionTitle": "",
+    "text": "Hoe leren AI-systemen taken uit te voeren?",
+    "correctAnswer": "Door getraind te worden met data die door mensen is aangeleverd",
+    "options": [
+      "Door andere AI-systemen te kopiëren",
+      "Door geprogrammeerd te worden met regels",
+      "Door getraind te worden met data die door mensen is aangeleverd",
+      "Door menselijk gedrag te observeren"
+    ]
+  },
+  {
+    "questionTitle": "",
+    "text": "De EU AI Act is aangenomen in 2024.",
+    "correctAnswer": "Waar",
+    "options": ["Waar", "Niet waar"]
+  }
+]

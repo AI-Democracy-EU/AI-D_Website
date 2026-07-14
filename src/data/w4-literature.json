@@ -1,0 +1,85 @@
+[
+  {
+    "heading": "",
+    "items": [
+      {
+        "id": "w4-1",
+        "author": "Alam, A.",
+        "date": "2023",
+        "title": "Harnessing the power of AI to create intelligent tutoring systems for enhanced classroom experience and improved learning outcomes",
+        "journal": "Intelligent communication technologies and virtual mobile networks",
+        "editors": ["G. Rajakumar", "K. L. Du", "Á. Rocha"],
+        "volume": "171",
+        "pages": "571-591",
+        "publisher": "Springer",
+        "link": {
+          "text": "https://doi.org/10.1007/978-981-99-1767-9_42",
+          "url": "https://doi.org/10.1007/978-981-99-1767-9_42"
+        }
+      },
+      {
+        "id": "w4-2",
+        "author": "De Witt, C., Gloerfeld, C., & Wrede, S. E.",
+        "date": "2023",
+        "title": "Künstliche Intelligenz in der Bildung",
+        "edition": "1st",
+        "publisher": "Springer Fachmedien Wiesbaden",
+        "link": {
+          "text": "https://link.springer.com/book/10.1007/978-3-658-40079-8",
+          "url": "https://link.springer.com/book/10.1007/978-3-658-40079-8"
+        }
+      },
+      {
+        "id": "w4-3",
+        "author": "Gligorea, I., Cioca, M., Oancea, R., Gorski, A.-T., Gorski, H., & Tudorache, P.",
+        "date": "2023",
+        "title": "Adaptive learning using artificial intelligence in e-learning: A literature review",
+        "journal": "Education Sciences",
+        "volume": "13",
+        "issue": "12",
+        "number": "1216",
+        "link": {
+          "text": "https://doi.org/10.3390/educsci13121216",
+          "url": "https://doi.org/10.3390/educsci13121216"
+        }
+      },
+      {
+        "id": "w4-4",
+        "author": "Gonzales, S.",
+        "date": "August 6, 2024",
+        "title": "AI literacy and the new digital divide: A global call for action",
+        "source": "UNESCO",
+        "link": {
+          "text": "https://www.unesco.org/en/articles/ai-literacy-and-new-digital-divide-global-call-action",
+          "url": "https://www.unesco.org/en/articles/ai-literacy-and-new-digital-divide-global-call-action"
+        }
+      },
+      {
+        "id": "w4-5",
+        "author": "Lin, C. C., Huang, A. Y. Q., & Lu, O. H. T.",
+        "date": "2023",
+        "title": "Artificial intelligence in intelligent tutoring systems toward sustainable education: A systematic review",
+        "journal": "Smart Learning Environments",
+        "volume": "10",
+        "pages": "41",
+        "link": {
+          "text": "https://doi.org/10.1186/s40561-023-00260-y",
+          "url": "https://doi.org/10.1186/s40561-023-00260-y"
+        }
+      },
+      {
+        "id": "w4-6",
+        "author": "Abdul Rahim, S. K. N., Jaafar, A. H., & Baskaran, G.",
+        "date": "2023",
+        "title": "Investigating AI-powered tutoring systems that adapt to individual student needs, providing personalized guidance and assessments",
+        "journal": "The Eurasia Proceedings of Educational & Social Sciences (EPESS)",
+        "volume": "31",
+        "pages": "67-73",
+        "link": {
+          "text": "https://doi.org/10.55549/epess.1381518",
+          "url": "https://doi.org/10.55549/epess.1381518"
+        }
+      }
+    ]
+  }
+]

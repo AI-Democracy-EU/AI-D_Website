@@ -1,0 +1,19 @@
+{
+  "code": "Curriculum",
+  "titleKey": "title",
+  "image": "/icons/curriculum/curriculum3.jpg",
+  "items": [
+    {
+      "titleKey": "labels.curriculumLabel",
+      "descriptionKey": "descriptions.curriculumDescription",
+      "fileBase": "AI.D_Curriculum",
+      "fileExtension": ["pdf"]
+    },
+    {
+      "titleKey": "labels.policyLabel",
+      "descriptionKey": "descriptions.policyDescription",
+      "fileBase": "AI.D_Policy-Recommendations",
+      "fileExtension": ["pdf"]
+    }
+  ]
+}

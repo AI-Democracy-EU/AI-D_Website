@@ -1,0 +1,129 @@
+[
+  {
+    "questionTitle": "Nauwkeurigheid van AI-tutoren",
+    "text": "Welke van de volgende beweringen over AI-tutoren zijn nauwkeurig?",
+    "correctAnswer": [
+      "AI-tutoren integreren Natural Language Processing en Machine Learning om instructie te personaliseren en mensachtige interacties in realtime te simuleren.",
+      "Adaptieve leertechnologieën in AI-tutoren kunnen het niveau van beheersing van een student in realtime beoordelen."
+    ],
+    "options": [
+      "AI-tutoren integreren Natural Language Processing en Machine Learning om instructie te personaliseren en mensachtige interacties in realtime te simuleren.",
+      "De primaire functie van de AI-tutor is om traditionele lesmethoden, inclusief klassikale interactie, op de lange termijn te vervangen.",
+      "Adaptieve leertechnologieën in AI-tutoren kunnen het niveau van beheersing van een student in realtime beoordelen.",
+      "AI-tutoren zijn afhankelijk van grote, statische datasets, waardoor hun vermogen om te reageren op veranderende behoeften van studenten traag en reactief is in plaats van proactief."
+    ]
+  },
+  {
+    "questionTitle": "AI-tutoren en Onderwijsgelijkheid",
+    "text": "Welke van de volgende beweringen over de impact van AI-tutoren op onderwijsgelijkheid zijn correct?",
+    "correctAnswer": [
+      "AI-tutoren kunnen bestaande onderwijsachterstanden versterken.",
+      "Het potentieel om leerkloven voor kansarme studenten te dichten is significant, maar alleen als de AI-tutoren specifiek zijn ontworpen om individuele sociaaleconomische en taalkundige behoeften aan te pakken."
+    ],
+    "options": [
+      "AI-tutoren kunnen bestaande onderwijsachterstanden versterken.",
+      "Het potentieel om leerkloven voor kansarme studenten te dichten is significant, maar alleen als de AI-tutoren specifiek zijn ontworpen om individuele sociaaleconomische en taalkundige behoeften aan te pakken.",
+      "AI-tutoren zullen waarschijnlijk geen invloed hebben op onderwijsongelijkheid omdat hun toepassing uniform is over verschillende studentengroepen en onderwijscontexten."
+    ]
+  },
+  {
+    "questionTitle": "Ethische Kwesties bij AI-tutoring",
+    "text": "Welke van de volgende potentiële ethische kwesties hoeven niet te worden overwogen bij de implementatie van AI-tutoren in het onderwijs?",
+    "correctAnswer": [
+      "AI-tutoren zouden theoretisch de rol van leraren in alle contexten kunnen vervangen, waardoor de behoefte aan menselijke docenten volledig verdwijnt."
+    ],
+    "options": [
+      "AI-tutoren kunnen leerachterstanden verergeren als ze alleen beschikbaar zijn in bepaalde geografische gebieden of voor studenten met een hogere sociaaleconomische status.",
+      "Aangezien AI-tutoren gegevens verzamelen over het gedrag van studenten, kunnen privacykwesties ontstaan, vooral als de gegevens verkeerd worden behandeld of worden gebruikt om besluitvorming op niet-gerelateerde gebieden te beïnvloeden.",
+      "AI-tutoren zouden theoretisch de rol van leraren in alle contexten kunnen vervangen, waardoor de behoefte aan menselijke docenten volledig verdwijnt.",
+      "De introductie van AI-tutoren in klaslokalen zou discussies over machtsverhoudingen moeten omvatten, aangezien het gebruik van AI bestaande vooroordelen binnen onderwijsinstellingen kan versterken als dit niet zorgvuldig wordt gemonitord."
+    ]
+  },
+  {
+    "questionTitle": "AI-gestuurde Toegankelijkheidstools",
+    "text": "Welke van de volgende beweringen over AI-gestuurde toegankelijkheidstools zijn correct?",
+    "correctAnswer": [
+      "AI-applicaties kunnen realtime beschrijvingen van de omgeving bieden aan visueel gehandicapte personen via gespecialiseerde brillen.",
+      "AI-systemen zijn in staat gesproken taal en geschreven tekst naar meerdere talen te vertalen.",
+      "Sommige AI-applicaties kunnen mensen met dyslexie helpen door aangepaste opdrachten te geven."
+    ],
+    "options": [
+      "AI-applicaties kunnen realtime beschrijvingen van de omgeving bieden aan visueel gehandicapte personen via gespecialiseerde brillen.",
+      "AI-systemen zijn in staat gesproken taal en geschreven tekst naar meerdere talen te vertalen.",
+      "AI-gestuurde vertaalapps kunnen alleen tekstgebaseerde vertalingen verwerken en hebben moeite met het interpreteren van spraak of afbeeldingen.",
+      "Sommige AI-applicaties kunnen mensen met dyslexie helpen door aangepaste opdrachten te geven."
+    ]
+  },
+  {
+    "questionTitle": "Beperkingen van AI-applicaties",
+    "text": "Welke van de volgende beweringen over AI-applicaties en hun beperkingen zijn niet correct?",
+    "correctAnswer": [
+      "AI-gestuurde slimme brillen kunnen visueel gehandicapte mensen in alle omgevingen nauwkeurig begeleiden."
+    ],
+    "options": [
+      "Hoewel AI kan helpen bij leren en toegankelijkheid, kan het het empathische begrip en de genuanceerde communicatie die mensen kunnen bieden niet vervangen.",
+      "AI-gestuurde slimme brillen kunnen visueel gehandicapte mensen in alle omgevingen nauwkeurig begeleiden.",
+      "AI-systemen kunnen moeite hebben met het leveren van betrouwbare beschrijvingen voor visueel gehandicapten.",
+      "De beschikbaarheid van AI-toegankelijkheidstools kan beperkt zijn door economische en politieke ongelijkheden."
+    ]
+  },
+  {
+    "questionTitle": "AI-tutortechnologieën",
+    "text": "Welke technologie wordt gebruikt door AI-tutoren?",
+    "correctAnswer": [
+      "Natural Language Processing (NLP)",
+      "Adaptieve Leertechnologie",
+      "Machine Learning en Deep Learning"
+    ],
+    "options": [
+      "Natural Language Processing (NLP)",
+      "Adaptieve Leertechnologie",
+      "Machine Learning en Deep Learning",
+      "Slechts één: Deep Learning"
+    ]
+  },
+  {
+    "questionTitle": "Stappen in Adaptieve Leersoftware",
+    "text": "Welke van de volgende zijn geen stappen in het proces van adaptieve leersoftware?",
+    "correctAnswer": ["Alleen realtime feedback van docenten verzamelen"],
+    "options": [
+      "Dynamische aanpassing van de volgende les of oefening.",
+      "Analyse van de data met machine learning algoritmen",
+      "Personalisatie van content, aanpassing van tempo en voortgang",
+      "Alleen realtime feedback van docenten verzamelen"
+    ]
+  },
+  {
+    "questionTitle": "Kwaliteiten van Menselijke Docenten",
+    "text": "Welke onvervangbare kwaliteiten van menselijke docenten hebben AI-tutoren niet?",
+    "correctAnswer": [
+      "Empathie en begrip bieden, reageren op de persoonlijke situaties van studenten.",
+      "Sociale kwaliteiten herkennen."
+    ],
+    "options": [
+      "Empathie en begrip bieden, reageren op de persoonlijke situaties van studenten.",
+      "Sociale kwaliteiten herkennen.",
+      "De kennis van de studenten meten.",
+      "De inhoud aanpassen aan de behoeften van de student."
+    ]
+  },
+  {
+    "questionTitle": "Mobiele Telefoonbezit",
+    "text": "Hoeveel mensen van 10 jaar of ouder bezitten wereldwijd een mobiele telefoon?",
+    "correctAnswer": ["78 %"],
+    "options": ["93 %", "69 %", "78 %", "48 %"]
+  },
+  {
+    "questionTitle": "Definitie van de AI-kloof",
+    "text": "Wat betekent de term \"AI-kloof\"?",
+    "correctAnswer": [
+      "Ongelijke toegang, voordelen en mogelijkheden op het gebied van AI-technologie tussen verschillende regio's, gemeenschappen en sociaaleconomische groepen."
+    ],
+    "options": [
+      "Ongelijke toegang, voordelen en mogelijkheden op het gebied van AI-technologie tussen verschillende regio's, gemeenschappen en sociaaleconomische groepen.",
+      "Het toenemende aantal verschillende soorten AI-technologieën dat wereldwijd wordt ontwikkeld.",
+      "De scheiding tussen door mensen geleide en door AI geleide besluitvormingsprocessen in verschillende industrieën.",
+      "De technische incompatibiliteit tussen oudere computersystemen en nieuwe AI-algoritmen."
+    ]
+  }
+]

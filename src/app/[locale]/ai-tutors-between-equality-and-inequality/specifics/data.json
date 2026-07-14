@@ -1,0 +1,17 @@
+{
+  "chapter": "AITutorsSpecificsCarousel",
+  "carouselData": [
+    {
+      "src": "/ai-generic/07m.jpg",
+      "markdownSource": "w4_specifics_s1"
+    },
+    {
+      "src": "/ai-generic/01m.jpg",
+      "markdownSource": "w4_specifics_s2"
+    },
+    {
+      "src": "/ai-generic/02m.jpg",
+      "markdownSource": "w4_specifics_s3"
+    }
+  ]
+}

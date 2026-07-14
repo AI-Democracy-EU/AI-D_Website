@@ -1,0 +1,45 @@
+{
+  "code": "DM",
+  "titleKey": "didacticMaterials",
+  "descriptionKey": "didacticMaterialsDescription",
+  "image": "/icons/materials/material1-v1.jpg",
+  "assetGroups": [
+    {
+      "assets": [
+        {
+          "titleKey": "labels.15MinutesNews",
+          "fileBase": "AID_DM_15-Minutes-News"
+        },
+        {
+          "titleKey": "labels.aiDialogue",
+          "fileBase": "AID_DM_AIDialogue"
+        },
+        {
+          "titleKey": "labels.aiDialogueSlides",
+          "fileBase": "AID_DM_AIDialogue_Slides",
+          "fileExtension": ["pdf", "pptx"]
+        },
+        {
+          "titleKey": "labels.matchingGame",
+          "fileBase": "AID_DM_Matching_Game"
+        },
+        {
+          "titleKey": "labels.meAndAI",
+          "fileBase": "AID_DM_Me-and-AI"
+        },
+        {
+          "titleKey": "labels.bias",
+          "fileBase": "AID_DM_BIAS"
+        },
+        {
+          "titleKey": "labels.megaPrompts",
+          "fileBase": "AID_DM_Mega_Prompts"
+        },
+        {
+          "titleKey": "labels.aiPubQuizTrivia",
+          "fileBase": "AID_DM_Pub-Quiz"
+        }
+      ]
+    }
+  ]
+}

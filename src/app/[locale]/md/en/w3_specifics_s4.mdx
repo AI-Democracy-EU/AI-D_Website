@@ -1,0 +1,16 @@
+<p align="center">
+  <img class="mdimages" src="/w3/w3_figure_2_bias_creation.png" alt="Bias in data generation" />
+</p>
+A model is defined and optimized on the training data. Test data is used to evaluate it, and the
+final model is then integrated into a real-world context. This process is naturally cyclic, and
+decisions influenced by models affect the state of the world that exists the next time data is
+collected, or decisions are applied. The orange boxes indicate where in this pipeline different
+sources of downstream harm might arise.
+
+Learning bias happens when model decisions make performance differences between different data examples worse.
+
+Aggregation bias happens when one model is used for data with different groups, assuming the same patterns apply to everyone. This can lead to a model that doesn't work well for any group or mostly benefits the largest group.
+
+Evaluation bias happens when the test data used to check a model's performance doesn't match the real-world users the model is meant for.
+
+Deployment bias happens when a model is designed for one problem but is used in a different way, especially when it’s treated as fully automatic but actually works within a complex system involving people and organizations.

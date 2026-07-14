@@ -1,0 +1,17 @@
+{
+  "chapter": "AlgorithmsAreaCarousel",
+  "carouselData": [
+    {
+      "src": "/ai-generic/07m.jpg",
+      "markdownSource": "w3_area_s1"
+    },
+    {
+      "src": "/ai-generic/02m.jpg",
+      "markdownSource": "w3_area_s2"
+    },
+    {
+      "src": "/ai-generic/03m.jpg",
+      "markdownSource": "w3_area_s3"
+    }
+  ]
+}

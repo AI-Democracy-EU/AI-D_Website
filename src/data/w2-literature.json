@@ -1,0 +1,150 @@
+[
+  {
+    "heading": "",
+    "items": [
+      {
+        "id": "w2-1",
+        "author": "Bastian, M.",
+        "date": "2024",
+        "title": "Halluzinationen in großen Sprachmodellen: Bug oder Feature?",
+        "link": {
+          "text": "https://the-decoder.de/halluzinationen-in-grossen-sprachmodellen-bug-oder-feature/",
+          "url": "https://the-decoder.de/halluzinationen-in-grossen-sprachmodellen-bug-oder-feature/"
+        }
+      },
+      {
+        "id": "w2-2",
+        "author": "Bundesamt für Sicherheit in der Informationstechnik",
+        "title": "Deepfakes - Threats and Countermeasures",
+        "link": {
+          "text": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html",
+          "url": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html"
+        }
+      },
+      {
+        "id": "w2-3",
+        "author": "Edwards, L.",
+        "date": "2022",
+        "title": "The EU AI Act: a summary of its significance and scope",
+        "publisher": "Ada Lovelace Institute",
+        "link": {
+          "text": "https://www.adalovelaceinstitute.org/wp-content/uploads/2022/04/Expert-explainer-The-EU-AI-Act-11-April-2022.pdf",
+          "url": "https://www.adalovelaceinstitute.org/wp-content/uploads/2022/04/Expert-explainer-The-EU-AI-Act-11-April-2022.pdf"
+        },
+        "retrieved": "September 13, 2024"
+      },
+      {
+        "id": "w2-4",
+        "author": "European Commission",
+        "date": "2024",
+        "title": "AI for teaching and learning",
+        "link": {
+          "text": "https://school-education.ec.europa.eu/en/discover/news/ai-teaching-and-learning",
+          "url": "https://school-education.ec.europa.eu/en/discover/news/ai-teaching-and-learning"
+        }
+      },
+      {
+        "id": "w2-5",
+        "author": "Funke, J.",
+        "date": "2024",
+        "title": "Halluzination in ChatGPT und Co: Wenn Künstliche Intelligenz (KI) beginnt zu halluzinieren",
+        "link": {
+          "text": "https://www.it-p.de/blog/ki-halluzination/",
+          "url": "https://www.it-p.de/blog/ki-halluzination/"
+        }
+      },
+      {
+        "id": "w2-6",
+        "author": "McCallum, S.",
+        "date": "2024",
+        "title": "New material found by AI could reduce lithium use in batteries",
+        "source": "BBC News",
+        "link": {
+          "text": "https://www.bbc.com/news/technology-67912033",
+          "url": "https://www.bbc.com/news/technology-67912033"
+        }
+      },
+      {
+        "id": "w2-7",
+        "author": "Gengler, E., Kraus, A., Bodrožić-Brnić, K.",
+        "date": "2024",
+        "title": "Faires KI-Prompting – Ein Leitfaden für Unternehmen",
+        "publisher": "BSP Business and Law School – Hochschule für Management und Recht",
+        "link": {
+          "text": "https://www.digitalzentrum-zukunftskultur.de/wp-content/uploads/2024/05/Faires-KI-Prompting-Ein-Leitfaden-fuer-Unternehmen.pdf",
+          "url": "https://www.digitalzentrum-zukunftskultur.de/wp-content/uploads/2024/05/Faires-KI-Prompting-Ein-Leitfaden-fuer-Unternehmen.pdf"
+        }
+      },
+      {
+        "id": "w2-8",
+        "author": "Junge, J.",
+        "date": "2024",
+        "title": "KI für besseren Jugendaustausch - Mit Bots zum Erfolg?",
+        "source": "Präsentation aus der KI-Werkstatt zum Prototypenbau erster Bots für bessere Förderung und Beratung von Jugendaustausch der Stiftung Deutsch-Russischer Jugendaustausch vom 10.-12. Juni 2024 in Berlin (unpublished)"
+      },
+      {
+        "id": "w2-9",
+        "author": "OpenAI",
+        "title": "What are tokens and how to count them?",
+        "link": {
+          "text": "https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them",
+          "url": "https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them"
+        }
+      },
+      {
+        "id": "w2-10",
+        "author": "PastryClass",
+        "date": "2024",
+        "title": "The Impact of AI in the Bakery Industry: A Simple Overview",
+        "link": {
+          "text": "https://www.pastryclass.com/articles/ai-impact-bakery-industry-overview",
+          "url": "https://www.pastryclass.com/articles/ai-impact-bakery-industry-overview"
+        }
+      },
+      {
+        "id": "w2-11",
+        "author": "Pesheva, E.",
+        "date": "2024",
+        "title": "A New Artificial Intelligence Tool for Cancer",
+        "source": "Harvard Medical School",
+        "link": {
+          "text": "https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer",
+          "url": "https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer"
+        }
+      },
+      {
+        "id": "w2-12",
+        "author": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024",
+        "date": "July 12, 2024",
+        "title": "Laying down harmonised rules on artificial intelligence and amending various regulations (Artificial Intelligence Act)",
+        "source": "Official Journal of the European Union (L Series)",
+        "link": {
+          "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:202401689",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:202401689"
+        }
+      },
+      {
+        "id": "w2-13",
+        "author": "Tompa, R.",
+        "date": "2024",
+        "title": "Generative AI develops potential new drugs for antibiotic-resistant bacteria",
+        "source": "Stanford Medicine",
+        "link": {
+          "text": "https://med.stanford.edu/news/all-news/2024/03/ai-drug-development.html",
+          "url": "https://med.stanford.edu/news/all-news/2024/03/ai-drug-development.html"
+        }
+      },
+      {
+        "id": "w2-14",
+        "author": "Vigen, T.",
+        "date": "2024",
+        "title": "Spurious Correlations #1,080",
+        "source": "Spurious Correlations",
+        "link": {
+          "text": "https://tylervigen.com/spurious/correlation/1080_popularity-of-the-first-name-tyler_correlates_with_gasoline-pumped-in-italy#datadetail",
+          "url": "https://tylervigen.com/spurious/correlation/1080_popularity-of-the-first-name-tyler_correlates_with_gasoline-pumped-in-italy#datadetail"
+        }
+      }
+    ]
+  }
+]

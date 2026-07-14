@@ -1,0 +1,129 @@
+[
+  {
+    "questionTitle": "AI Tutors Accuracy",
+    "text": "Which of the following statements about AI tutors are accurate?",
+    "correctAnswer": [
+      "AI tutors integrate Natural Language Processing and Machine Learning to personalize instruction and simulate human-like interactions in real-time.",
+      "Adaptive Learning Technologies in AI tutors can assess a student's mastery in real-time."
+    ],
+    "options": [
+      "AI tutors integrate Natural Language Processing and Machine Learning to personalize instruction and simulate human-like interactions in real-time.",
+      "The AI tutor's primary function is to replace traditional teaching methods, including classroom interaction, in the long term.",
+      "Adaptive Learning Technologies in AI tutors can assess a student's mastery in real-time.",
+      "AI tutors are dependent on large, static datasets, making their ability to respond to evolving student needs slow and reactive rather than proactive."
+    ]
+  },
+  {
+    "questionTitle": "AI Tutors and Educational Equity",
+    "text": "Which of the following statements about the impact of AI tutors on educational equity are correct?",
+    "correctAnswer": [
+      "AI tutors may reinforce existing educational inequalities.",
+      "The potential to close learning gaps for disadvantaged students is significant, but only if the AI tutors are specifically designed to address individual socioeconomic and linguistic needs."
+    ],
+    "options": [
+      "AI tutors may reinforce existing educational inequalities.",
+      "The potential to close learning gaps for disadvantaged students is significant, but only if the AI tutors are specifically designed to address individual socioeconomic and linguistic needs.",
+      "AI tutors are unlikely to influence educational inequality because their application is uniform across different student groups and educational contexts."
+    ]
+  },
+  {
+    "questionTitle": "Ethical Issues in AI Tutoring",
+    "text": "Which of the following potential ethical issues must not be considered when implementing AI tutors in education?",
+    "correctAnswer": [
+      "AI tutors could theoretically replace the role of teachers in all contexts, eliminating the need for human educators altogether."
+    ],
+    "options": [
+      "AI tutors may exacerbate learning inequalities if they are only available in certain geographic areas or to students with higher socioeconomic status.",
+      "As AI tutors gather data on student behavior, privacy concerns could arise, especially if the data is mishandled or used to influence decision-making in unrelated areas.",
+      "AI tutors could theoretically replace the role of teachers in all contexts, eliminating the need for human educators altogether.",
+      "The introduction of AI tutors into classrooms should involve discussions of power dynamics, as the use of AI could reinforce existing biases within educational institutions if not carefully monitored."
+    ]
+  },
+  {
+    "questionTitle": "AI-Driven Accessibility Tools",
+    "text": "Which of the following statements about AI-driven accessibility tools are correct?",
+    "correctAnswer": [
+      "AI applications can offer real-time descriptions of the environment to visually impaired individuals through specialized glasses.",
+      "AI systems are capable of translating spoken language and written text into multiple languages.",
+      "Some AI applications can help people with dyslexia by providing customized assignments."
+    ],
+    "options": [
+      "AI applications can offer real-time descriptions of the environment to visually impaired individuals through specialized glasses.",
+      "AI systems are capable of translating spoken language and written text into multiple languages.",
+      "AI-powered translation apps can only handle text-based translations and struggle with interpreting voice or images.",
+      "Some AI applications can help people with dyslexia by providing customized assignments."
+    ]
+  },
+  {
+    "questionTitle": "AI Applications Limitations",
+    "text": "Which of the following statements about AI applications and their limitations are not correct?",
+    "correctAnswer": [
+      "AI-powered smart glasses can accurately direct visually impaired people in all environments."
+    ],
+    "options": [
+      "While AI can help with learning and accessibility, it cannot replace the empathetic understanding and nuanced communication that humans can provide.",
+      "AI-powered smart glasses can accurately direct visually impaired people in all environments.",
+      "AI systems can struggle with providing reliable descriptions for the visually impaired.",
+      "The availability of AI accessibility tools may be limited by economic and political inequalities."
+    ]
+  },
+  {
+    "questionTitle": "AI Tutor Technologies",
+    "text": "Which technology is used by AI tutors?",
+    "correctAnswer": [
+      "Natural Language Processing (NLP)",
+      "Adaptive Learning Technology",
+      "Machine Learning and Deep Learning"
+    ],
+    "options": [
+      "Natural Language Processing (NLP)",
+      "Adaptive Learning Technology",
+      "Machine Learning and Deep Learning",
+      "Just one: Deep Learning"
+    ]
+  },
+  {
+    "questionTitle": "Adaptive Learning Software Steps",
+    "text": "Which of the following are not steps in the process of adaptive learning software?",
+    "correctAnswer": ["Collecting real-time feedback from teachers only"],
+    "options": [
+      "Dynamic adjustment of the next lesson or practice.",
+      "Analysis of the data with machine learning algorithms",
+      "Personalising content, adjusting pace and progression",
+      "Collecting real-time feedback from teachers only"
+    ]
+  },
+  {
+    "questionTitle": "Human Teachers' Qualities",
+    "text": "Which are irreplaceable qualities of human teachers that AI tutors do not have?",
+    "correctAnswer": [
+      "Offer empathy and understanding, reacting to students' personal situations.",
+      "Recognise social qualities."
+    ],
+    "options": [
+      "Offer empathy and understanding, reacting to students' personal situations.",
+      "Recognise social qualities.",
+      "Measure the students' knowledge.",
+      "Adjust the content to the student's needs."
+    ]
+  },
+  {
+    "questionTitle": "Mobile Phone Ownership",
+    "text": "How many people aged 10 or older own a mobile phone worldwide?",
+    "correctAnswer": ["78 %"],
+    "options": ["93 %", "69 %", "78 %", "48 %"]
+  },
+  {
+    "questionTitle": "AI Divide Definition",
+    "text": "What does the term \"AI divide\" mean?",
+    "correctAnswer": [
+      "Unequal access, benefits, and opportunities in AI technology across various regions, communities, and socioeconomic groups."
+    ],
+    "options": [
+      "Unequal access, benefits, and opportunities in AI technology across various regions, communities, and socioeconomic groups.",
+      "The increasing number of different types of AI technologies being developed globally.",
+      "The separation between human-led and AI-led decision-making processes in various industries.",
+      "The technical incompatibility between older computer systems and new AI algorithms."
+    ]
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "questionTitle": "Merkmale von KI-Systemen",
+    "text": "Welche der folgenden Aussagen über KI-Systeme sind richtig? (Wählen Sie alle zutreffenden aus)",
+    "correctAnswer": [
+      "KI-Systeme sind darauf ausgelegt, menschliche kognitive Fähigkeiten nachzuahmen.",
+      "Die automatisierte Entscheidungsfindung (ADM) ermöglicht es Algorithmen, Entscheidungen ohne menschliches Eingreifen zu treffen.",
+      "Neuronale Netze werden häufig als Modell bei der Entwicklung von KI-Systemen verwendet."
+    ],
+    "options": [
+      "KI-Systeme sind darauf ausgelegt, menschliche kognitive Fähigkeiten nachzuahmen.",
+      "KI ist eine Form der Automatisierung, die für ihre ordnungsgemäße Funktion ausschließlich auf menschliche Entscheidungsfindung angewiesen ist.",
+      "Die automatisierte Entscheidungsfindung (ADM) ermöglicht es Algorithmen, Entscheidungen ohne menschliches Eingreifen zu treffen.",
+      "Neuronale Netze werden häufig als Modell bei der Entwicklung von KI-Systemen verwendet."
+    ]
+  },
+  {
+    "questionTitle": "KI-Technologieübersicht",
+    "text": "Welche der folgenden Aussagen über KI sind richtig? (Wählen Sie alle zutreffenden aus)",
+    "correctAnswer": [
+      "KI verwendet mathematische und statistische Methoden zur Verarbeitung von Informationen und stützt sich dabei oft auf maschinelle Lernverfahren.",
+      "KI ist ein Oberbegriff, der verschiedene Technologien umfasst, die darauf abzielen, menschliche Denkprozesse wie Lernen, Planen und Entscheidungsfindung nachzuahmen.",
+      "KI-Systeme sind eine spezifische Anwendung von KI-Technologien, die in realen Kontexten eingesetzt werden, wie z. B. Gesichtserkennung und autonome Fahrzeuge."
+    ],
+    "options": [
+      "KI verwendet mathematische und statistische Methoden zur Verarbeitung von Informationen und stützt sich dabei oft auf maschinelle Lernverfahren.",
+      "KI konzentriert sich ausschließlich auf die Automatisierung von Aufgaben, ohne Rücksicht auf menschliche kognitive Funktionen.",
+      "KI ist ein Oberbegriff, der verschiedene Technologien umfasst, die darauf abzielen, menschliche Denkprozesse wie Lernen, Planen und Entscheidungsfindung nachzuahmen.",
+      "KI-Systeme sind eine spezifische Anwendung von KI-Technologien, die in realen Kontexten eingesetzt werden, wie z. B. Gesichtserkennung und autonome Fahrzeuge."
+    ]
+  },
+  {
+    "questionTitle": "Maschinelles Lernen in KI",
+    "text": "Welche Aussage ist nicht richtig?",
+    "correctAnswer": ["Maschinelles Lernen und Deep Learning sind dasselbe."],
+    "options": [
+      "Maschinelles Lernen ist ein Studienbereich der Künstlichen Intelligenz.",
+      "Maschinelles Lernen und Deep Learning sind dasselbe.",
+      "Deep Learning ist eine spezielle Form des maschinellen Lernens.",
+      "Deep Learning eignet sich für große Datensätze."
+    ]
+  },
+  {
+    "questionTitle": "Der Mensch im Regelkreis in der KI",
+    "text": "Wie beeinflusst das Konzept des 'Menschen im Regelkreis' die KI-Entscheidungsfindung?",
+    "correctAnswer": [
+      "Es stellt sicher, dass Menschen immer die endgültige Entscheidung kontrollieren, insbesondere wenn das Vertrauen der KI gering ist."
+    ],
+    "options": [
+      "Es eliminiert die menschliche Aufsicht in KI-Systemen.",
+      "Es stellt sicher, dass Menschen immer die endgültige Entscheidung kontrollieren, insbesondere wenn das Vertrauen der KI gering ist.",
+      "Es begrenzt die Fähigkeit der KI zu lernen und sich anzupassen.",
+      "Es automatisiert Entscheidungsprozesse vollständig."
+    ]
+  },
+  {
+    "questionTitle": "KI-Risikoklassifizierung in der EU",
+    "text": "Wie werden KI-Systeme nach ihren Risiken im EU-KI-Gesetz klassifiziert?",
+    "correctAnswer": [
+      "Unannehmbares, hohes, begrenztes und minimales Risiko basierend auf dem potenziellen gesellschaftlichen Einfluss."
+    ],
+    "options": [
+      "Unannehmbares, hohes, begrenztes und minimales Risiko basierend auf dem potenziellen gesellschaftlichen Einfluss.",
+      "Niedriges, mäßiges und hohes Risiko, das ausschließlich auf potenziellen wirtschaftlichen Auswirkungen basiert.",
+      "KI-Systeme werden nach ihrer technologischen Komplexität klassifiziert.",
+      "Das Gesetz klassifiziert keine KI-Risiken."
+    ]
+  },
+  {
+    "questionTitle": "Umweltauswirkungen von KI",
+    "text": "Welche Aussagen sind richtig?",
+    "correctAnswer": [
+      "Es wird prognostiziert, dass die Rechenzentren, die KI-Anwendungen in Europa beherbergen, ihren Energieverbrauch bis 2030 um 28 % steigern werden.",
+      "Trotz ihres erheblichen CO2-Fußabdrucks können KI-Systeme positiv zur Umwelt beitragen, indem sie bei der Entwicklung erneuerbarer Energielösungen helfen."
+    ],
+    "options": [
+      "KI-Systeme benötigen nur minimal Energie, wodurch ihre Umweltauswirkungen vernachlässigbar sind.",
+      "Es wird prognostiziert, dass die Rechenzentren, die KI-Anwendungen in Europa beherbergen, ihren Energieverbrauch bis 2030 um 28 % steigern werden.",
+      "Trotz ihres erheblichen CO2-Fußabdrucks können KI-Systeme positiv zur Umwelt beitragen, indem sie bei der Entwicklung erneuerbarer Energielösungen helfen.",
+      "Große KI-Modelle haben keine praktische Anwendung im Kampf gegen den Klimawandel, sondern tragen nur zu seiner Beschleunigung bei."
+    ]
+  },
+  {
+    "questionTitle": "Verabschiedung des EU-KI-Gesetzes",
+    "text": "Wann und von wem wurde das EU-KI-Gesetz verabschiedet?",
+    "correctAnswer": ["im Jahr 2024 vom Europäischen Parlament und dem Rat der EU."],
+    "options": [
+      "im Jahr 2023 vom Europäischen Parlament und dem Rat der EU.",
+      "im Jahr 2024 von Österreich und Deutschland.",
+      "im Jahr 2024 vom Europäischen Parlament und dem Rat der EU.",
+      "im Jahr 2023 von Österreich."
+    ]
+  },
+  {
+    "questionTitle": "Potenzial von KI-Systemen",
+    "text": "Welches Potenzial haben KI-Systeme?",
+    "correctAnswer": [
+      "Unterstützung von Menschen bei der Entscheidungsfindung für komplexe Aufgaben."
+    ],
+    "options": [
+      "Übernahme von Aufgaben durch Automatisierung.",
+      "Optimierung von Prozessen durch Visualisierung und Analyse.",
+      "Übernahme der Entscheidungsfindung für komplexe Aufgaben.",
+      "Unterstützung von Menschen bei der Entscheidungsfindung für komplexe Aufgaben."
+    ]
+  },
+  {
+    "questionTitle": "Identifizierung von KI-Risiken",
+    "text": "Welches Risiko geht nicht von KI aus?",
+    "correctAnswer": ["Ersetzen aller menschlichen Arbeitskraft"],
+    "options": [
+      "Voreingenommenheit und Diskriminierung",
+      "Vertiefung der wirtschaftlichen Ungleichheit",
+      "Fehlinformation und Manipulation",
+      "Ersetzen aller menschlichen Arbeitskraft"
+    ]
+  },
+  {
+    "questionTitle": "Fähigkeiten von KI",
+    "text": "Was kann KI?",
+    "correctAnswer": ["Logische Entscheidungsfindung"],
+    "options": [
+      "Echtes Einfühlungsvermögen zeigen",
+      "Logische Entscheidungsfindung",
+      "Über ethische Fragen nachdenken",
+      "Beurteilen"
+    ]
+  }
+]

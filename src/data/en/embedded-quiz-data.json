@@ -1,0 +1,31 @@
+[
+  {
+    "questionTitle": "",
+    "text": "2How do AI systems learn to perform tasks?",
+    "correctAnswer": "By being trained with data provided by humans",
+    "options": [
+      "By copying other AI systems",
+      "By being programmed with rules",
+      "By being trained with data provided by humans",
+      "By observing human behavior"
+    ]
+  },
+  {
+    "questionTitle": "",
+    "text": "The EU AI Act was passed in 2024.",
+    "correctAnswer": "True",
+    "options": ["True", "False"]
+  },
+  {
+    "questionTitle": "",
+    "text": "AI systems with an unacceptable risk, such as classifying people based on socio-economic status, are permitted under the EU AI Act.",
+    "correctAnswer": "False",
+    "options": ["True", "False"]
+  },
+  {
+    "questionTitle": "Ethical Considerations",
+    "text": "40% of electricity in data centers is used for air conditioning.",
+    "correctAnswer": "True",
+    "options": ["True", "False"]
+  }
+]

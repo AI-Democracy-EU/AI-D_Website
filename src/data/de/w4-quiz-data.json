@@ -1,0 +1,129 @@
+[
+  {
+    "questionTitle": "Genauigkeit von KI-Tutoren",
+    "text": "Welche der folgenden Aussagen über KI-Tutoren sind zutreffend?",
+    "correctAnswer": [
+      "KI-Tutoren integrieren die Verarbeitung natürlicher Sprache und maschinelles Lernen, um den Unterricht zu personalisieren und menschenähnliche Interaktionen in Echtzeit zu simulieren.",
+      "Adaptive Lerntechnologien in KI-Tutoren können den Kenntnisstand eines Schülers in Echtzeit einschätzen."
+    ],
+    "options": [
+      "KI-Tutoren integrieren die Verarbeitung natürlicher Sprache und maschinelles Lernen, um den Unterricht zu personalisieren und menschenähnliche Interaktionen in Echtzeit zu simulieren.",
+      "Die Hauptfunktion des KI-Tutors besteht langfristig darin, traditionelle Lehrmethoden, einschließlich des Unterrichts im Klassenzimmer, zu ersetzen.",
+      "Adaptive Lerntechnologien in KI-Tutoren können den Kenntnisstand eines Schülers in Echtzeit einschätzen.",
+      "KI-Tutoren sind von großen, statischen Datensätzen abhängig, wodurch ihre Fähigkeit, auf sich entwickelnde Schülerbedürfnisse zu reagieren, langsam und reaktiv statt proaktiv ist."
+    ]
+  },
+  {
+    "questionTitle": "KI-Tutoren und Bildungsgerechtigkeit",
+    "text": "Welche der folgenden Aussagen über die Auswirkungen von KI-Tutoren auf die Bildungsgerechtigkeit sind richtig?",
+    "correctAnswer": [
+      "KI-Tutoren können bestehende Bildungsungleichheiten verstärken.",
+      "Das Potenzial, Lernlücken für benachteiligte Schüler zu schließen, ist erheblich, aber nur, wenn die KI-Tutoren speziell auf die individuellen sozioökonomischen und sprachlichen Bedürfnisse zugeschnitten sind."
+    ],
+    "options": [
+      "KI-Tutoren können bestehende Bildungsungleichheiten verstärken.",
+      "Das Potenzial, Lernlücken für benachteiligte Schüler zu schließen, ist erheblich, aber nur, wenn die KI-Tutoren speziell auf die individuellen sozioökonomischen und sprachlichen Bedürfnisse zugeschnitten sind.",
+      "KI-Tutoren werden die Bildungsungleichheit wahrscheinlich nicht beeinflussen, da ihre Anwendung über verschiedene Schülergruppen und Bildungskontexte hinweg einheitlich ist."
+    ]
+  },
+  {
+    "questionTitle": "Ethische Fragen beim KI-Tutoring",
+    "text": "Welche der folgenden potenziellen ethischen Fragen muss bei der Implementierung von KI-Tutoren im Bildungswesen nicht berücksichtigt werden?",
+    "correctAnswer": [
+      "KI-Tutoren könnten theoretisch die Rolle von Lehrern in allen Kontexten ersetzen und die Notwendigkeit menschlicher Pädagogen vollständig eliminieren."
+    ],
+    "options": [
+      "KI-Tutoren können Lernungleichheiten verschärfen, wenn sie nur in bestimmten geografischen Gebieten oder für Schüler mit höherem sozioökonomischem Status verfügbar sind.",
+      "Da KI-Tutoren Daten über das Schülerverhalten sammeln, könnten Datenschutzbedenken aufkommen, insbesondere wenn die Daten falsch gehandhabt oder zur Beeinflussung von Entscheidungen in nicht verwandten Bereichen verwendet werden.",
+      "KI-Tutoren könnten theoretisch die Rolle von Lehrern in allen Kontexten ersetzen und die Notwendigkeit menschlicher Pädagogen vollständig eliminieren.",
+      "Die Einführung von KI-Tutoren in Klassenzimmer sollte Diskussionen über Machtdynamiken beinhalten, da der Einsatz von KI bestehende Vorurteile innerhalb von Bildungseinrichtungen verstärken könnte, wenn er nicht sorgfältig überwacht wird."
+    ]
+  },
+  {
+    "questionTitle": "KI-gestützte Barrierefreiheitstools",
+    "text": "Welche der folgenden Aussagen über KI-gestützte Barrierefreiheitstools sind richtig?",
+    "correctAnswer": [
+      "KI-Anwendungen können sehbehinderten Personen durch spezielle Brillen Echtzeit-Beschreibungen der Umgebung bieten.",
+      "KI-Systeme sind in der Lage, gesprochene Sprache und geschriebenen Text in mehrere Sprachen zu übersetzen.",
+      "Einige KI-Anwendungen können Menschen mit Legasthenie helfen, indem sie angepasste Aufgaben bereitstellen."
+    ],
+    "options": [
+      "KI-Anwendungen können sehbehinderten Personen durch spezielle Brillen Echtzeit-Beschreibungen der Umgebung bieten.",
+      "KI-Systeme sind in der Lage, gesprochene Sprache und geschriebenen Text in mehrere Sprachen zu übersetzen.",
+      "KI-gestützte Übersetzungs-Apps können nur textbasierte Übersetzungen verarbeiten und haben Schwierigkeiten bei der Interpretation von Sprache oder Bildern.",
+      "Einige KI-Anwendungen können Menschen mit Legasthenie helfen, indem sie angepasste Aufgaben bereitstellen."
+    ]
+  },
+  {
+    "questionTitle": "Einschränkungen von KI-Anwendungen",
+    "text": "Welche der folgenden Aussagen über KI-Anwendungen und ihre Einschränkungen ist nicht richtig?",
+    "correctAnswer": [
+      "KI-gestützte Smart Glasses können sehbehinderte Menschen in allen Umgebungen präzise führen."
+    ],
+    "options": [
+      "Obwohl KI beim Lernen und bei der Barrierefreiheit helfen kann, kann sie das empathische Verständnis und die nuancierte Kommunikation, die Menschen bieten können, nicht ersetzen.",
+      "KI-gestützte Smart Glasses können sehbehinderte Menschen in allen Umgebungen präzise führen.",
+      "KI-Systeme können Schwierigkeiten haben, zuverlässige Beschreibungen für Sehbehinderte zu liefern.",
+      "Die Verfügbarkeit von KI-Barrierefreiheitstools kann durch wirtschaftliche und politische Ungleichheiten begrenzt sein."
+    ]
+  },
+  {
+    "questionTitle": "KI-Tutoren-Technologien",
+    "text": "Welche Technologie wird von KI-Tutoren verwendet?",
+    "correctAnswer": [
+      "Verarbeitung natürlicher Sprache (NLP)",
+      "Adaptive Lerntechnologie",
+      "Maschinelles Lernen und Deep Learning"
+    ],
+    "options": [
+      "Verarbeitung natürlicher Sprache (NLP)",
+      "Adaptive Lerntechnologie",
+      "Maschinelles Lernen und Deep Learning",
+      "Nur eine: Deep Learning"
+    ]
+  },
+  {
+    "questionTitle": "Schritte adaptiver Lernsoftware",
+    "text": "Welche der folgenden Punkte sind keine Schritte im Prozess adaptiver Lernsoftware?",
+    "correctAnswer": ["Ausschließliche Erfassung von Echtzeit-Feedback von Lehrern"],
+    "options": [
+      "Dynamische Anpassung der nächsten Lektion oder Übung.",
+      "Analyse der Daten mit Algorithmen des maschinellen Lernens",
+      "Personalisierung von Inhalten, Anpassung von Tempo und Fortschritt",
+      "Ausschließliche Erfassung von Echtzeit-Feedback von Lehrern"
+    ]
+  },
+  {
+    "questionTitle": "Qualitäten menschlicher Lehrer",
+    "text": "Welche unersetzlichen Qualitäten menschlicher Lehrer haben KI-Tutoren nicht?",
+    "correctAnswer": [
+      "Empathie und Verständnis anbieten und auf die persönlichen Situationen der Schüler eingehen.",
+      "Soziale Qualitäten erkennen."
+    ],
+    "options": [
+      "Empathie und Verständnis anbieten und auf die persönlichen Situationen der Schüler eingehen.",
+      "Soziale Qualitäten erkennen.",
+      "Das Wissen der Schüler messen.",
+      "Den Inhalt an die Bedürfnisse des Schülers anpassen."
+    ]
+  },
+  {
+    "questionTitle": "Besitz von Mobiltelefonen",
+    "text": "Wie viele Menschen ab 10 Jahren besitzen weltweit ein Mobiltelefon?",
+    "correctAnswer": ["78 %"],
+    "options": ["93 %", "69 %", "78 %", "48 %"]
+  },
+  {
+    "questionTitle": "Definition der KI-Kluft",
+    "text": "Was bedeutet der Begriff „KI-Kluft“?",
+    "correctAnswer": [
+      "Ungleicher Zugang, Nutzen und Chancen in der KI-Technologie über verschiedene Regionen, Gemeinschaften und sozioökonomische Gruppen hinweg."
+    ],
+    "options": [
+      "Ungleicher Zugang, Nutzen und Chancen in der KI-Technologie über verschiedene Regionen, Gemeinschaften und sozioökonomische Gruppen hinweg.",
+      "Die zunehmende Anzahl verschiedener Arten von KI-Technologien, die weltweit entwickelt werden.",
+      "Die Trennung zwischen von Menschen geführten und von KI geführten Entscheidungsprozessen in verschiedenen Branchen.",
+      "Die technische Inkompatibilität zwischen älteren Computersystemen und neuen KI-Algorithmen."
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "questionTitle": "Was ist Generative KI (GenKI)?",
+    "text": "Was ist Generative KI (GenKI)?",
+    "correctAnswer": "KI, die Inhalte wie Text, Bilder und Musik basierend auf statistischen Mustern aus Daten generiert",
+    "options": [
+      "KI, die Informationen aus dem Internet abruft",
+      "KI, die Inhalte wie Text, Bilder und Musik basierend auf statistischen Mustern aus Daten generiert",
+      "KI, die nur bestehende Inhalte bearbeitet",
+      "KI, die eine eigene Denkfähigkeit besitzt"
+    ]
+  },
+  {
+    "questionTitle": "Hauptbeschränkung von Generativer KI",
+    "text": "Was ist eine Hauptbeschränkung von Generativer KI?",
+    "correctAnswer": "Es fehlt an Denkvermögen und kann inkorrekte oder voreingenommene Informationen erzeugen",
+    "options": [
+      "Es kann keine großen Mengen an Inhalten generieren",
+      "Es liefert immer perfekte Ergebnisse",
+      "Es fehlt an Denkvermögen und kann inkorrekte oder voreingenommene Informationen erzeugen",
+      "Es kann nicht ohne menschliche Aufsicht arbeiten"
+    ]
+  },
+  {
+    "questionTitle": "Antwortgenerierung in großen Sprachmodellen (LLMs)",
+    "text": "Wie generieren große Sprachmodelle (LLMs) Antworten?",
+    "correctAnswer": "Durch das Erraten des nächsten wahrscheinlichsten Wortes basierend auf Mustern in den Daten",
+    "options": [
+      "Durch das Erraten des nächsten wahrscheinlichsten Wortes basierend auf Mustern in den Daten",
+      "Durch das Erinnern an frühere Gespräche",
+      "Durch die Suche im Internet nach der richtigen Antwort",
+      "Durch das Kopieren von Text aus anderen Dokumenten"
+    ]
+  },
+  {
+    "questionTitle": "Ethische Bedenken bezüglich GenKI",
+    "text": "Welche gängigen ethischen Bedenken gibt es bezüglich GenKI?",
+    "correctAnswer": "Das Risiko von Desinformation, Deepfakes und die Verwendung urheberrechtlich geschützter Werke ohne Zustimmung",
+    "options": [
+      "Die Geschwindigkeit, mit der es arbeitet",
+      "Das Risiko von Desinformation, Deepfakes und die Verwendung urheberrechtlich geschützter Werke ohne Zustimmung",
+      "Seine Fähigkeit, Daten zu analysieren",
+      "Seine Unfähigkeit, Inhalte in mehreren Sprachen zu erstellen"
+    ]
+  },
+  {
+    "questionTitle": "Rolle des menschlichen Feedbacks in KI-Tools",
+    "text": "Welche Rolle spielt menschliches Feedback bei der effektiven Nutzung von KI-Tools?",
+    "correctAnswer": "Es wird verwendet, um KI-Ausgaben zu lenken und zu verfeinern, um sicherzustellen, dass sie ethischen und Qualitätsstandards entsprechen",
+    "options": [
+      "Es ist unnötig, da KI immer korrekte Antworten generiert",
+      "Es wird verwendet, um KI-Ausgaben zu lenken und zu verfeinern, um sicherzustellen, dass sie ethischen und Qualitätsstandards entsprechen",
+      "Es verlangsamt die Reaktionszeit der KI",
+      "Es wird nur bei der Verwendung von KI in der Forschung benötigt"
+    ]
+  },
+  {
+    "questionTitle": "KI-Halluzination",
+    "text": "Was bedeutet „KI-Halluzination“?",
+    "correctAnswer": "Wenn KI überzeugende, aber falsche Informationen liefert",
+    "options": [
+      "Wenn KI völlig neue und kreative Ideen generiert",
+      "Wenn KI überzeugende, aber falsche Informationen liefert",
+      "Wenn KI frühere Eingaben aus dem Gespräch vergisst",
+      "Wenn KI menschliche Emotionen nachahmt"
+    ]
+  },
+  {
+    "questionTitle": "Vorsicht bei der Verwendung von GenKI für Sachfragen",
+    "text": "Warum ist es wichtig, bei der Verwendung von GenKI für Sachfragen vorsichtig zu sein?",
+    "correctAnswer": "GenKI rät Antworten, was zu Fehlinformationen führen kann",
+    "options": [
+      "GenKI kann keine schnellen Antworten liefern",
+      "GenKI rät Antworten, was zu Fehlinformationen führen kann",
+      "GenKI gibt immer perfekte und zuverlässige Antworten",
+      "GenKI kann keine langen Gespräche führen"
+    ]
+  },
+  {
+    "questionTitle": "Prompt im Kontext von GenKI",
+    "text": "Was ist ein Prompt im Kontext von GenKI?",
+    "correctAnswer": "Spezifische Anweisungen oder Eingaben, die der KI gegeben werden, um ihre Antwort zu steuern",
+    "options": [
+      "Ein Teil des Gesprächs, den KI vergisst",
+      "Spezifische Anweisungen oder Eingaben, die der KI gegeben werden, um ihre Antwort zu steuern",
+      "Ein Fehler, den KI beim Verständnis von Daten macht",
+      "Eine Feedbackschleife zwischen Mensch und KI"
+    ]
+  },
+  {
+    "questionTitle": "Aufgaben, bei denen GenKI helfen kann",
+    "text": "Bei welchen Arten von Aufgaben kann GenKI helfen?",
+    "correctAnswer": "Inhaltserstellung, Bearbeitung, Recherche, Sortierung und Analyse von Daten",
+    "options": [
+      "Nur Datenanalyse",
+      "Inhaltserstellung, Bearbeitung, Recherche, Sortierung und Analyse von Daten",
+      "Mahlzeiten kochen",
+      "Nur Vorhersagen treffen"
+    ]
+  },
+  {
+    "questionTitle": "Aufteilen komplexer Aufgaben für KI",
+    "text": "Warum ist es notwendig, komplexe Aufgaben bei der Arbeit mit KI in kleinere Schritte zu unterteilen?",
+    "correctAnswer": "KI kann genauere und handhabbarere Ergebnisse liefern, wenn Aufgaben aufgeschlüsselt werden",
+    "options": [
+      "KI arbeitet bei komplexen Aufgaben langsamer",
+      "KI kann genauere und handhabbarere Ergebnisse liefern, wenn Aufgaben aufgeschlüsselt werden",
+      "KI kann nicht mehr als eine Aufgabe gleichzeitig bearbeiten",
+      "KI kann keine Inhalte erstellen"
+    ]
+  }
+]

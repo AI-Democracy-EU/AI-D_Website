@@ -1,0 +1,112 @@
+[
+  {
+    "questionTitle": "Wat is Generatieve AI (GenAI)?",
+    "text": "Wat is Generatieve AI (GenAI)?",
+    "correctAnswer": "AI die content genereert zoals tekst, afbeeldingen en muziek op basis van statistische patronen uit data",
+    "options": [
+      "AI die informatie van het internet ophaalt",
+      "AI die content genereert zoals tekst, afbeeldingen en muziek op basis van statistische patronen uit data",
+      "AI die alleen bestaande content bewerkt",
+      "AI die een eigen redeneervermogen heeft"
+    ]
+  },
+  {
+    "questionTitle": "Belangrijkste Beperking van Generatieve AI",
+    "text": "Wat is een belangrijke beperking van Generatieve AI?",
+    "correctAnswer": "Het mist redeneervermogen en kan incorrecte of bevooroordeelde informatie produceren",
+    "options": [
+      "Het kan geen grote hoeveelheden content genereren",
+      "Het produceert altijd perfecte resultaten",
+      "Het mist redeneervermogen en kan incorrecte of bevooroordeelde informatie produceren",
+      "Het kan niet werken zonder menselijk toezicht"
+    ]
+  },
+  {
+    "questionTitle": "Responsgeneratie in Grote Taalmodellen (LLMs)",
+    "text": "Hoe genereren Grote Taalmodellen (LLMs) responses?",
+    "correctAnswer": "Door het volgende meest waarschijnlijke woord te raden op basis van patronen in de data",
+    "options": [
+      "Door het volgende meest waarschijnlijke woord te raden op basis van patronen in de data",
+      "Door eerdere gesprekken te herinneren",
+      "Door het internet te doorzoeken naar het correcte antwoord",
+      "Door tekst uit andere documenten te kopiëren"
+    ]
+  },
+  {
+    "questionTitle": "Ethische Bezwaren Rondom GenAI",
+    "text": "Wat zijn enkele veelvoorkomende ethische bezwaren rondom GenAI?",
+    "correctAnswer": "Het risico op desinformatie, deepfakes en het gebruik van auteursrechtelijk beschermd werk zonder toestemming",
+    "options": [
+      "De snelheid waarmee het opereert",
+      "Het risico op desinformatie, deepfakes en het gebruik van auteursrechtelijk beschermd werk zonder toestemming",
+      "Het vermogen om data te analyseren",
+      "Het onvermogen om content in meerdere talen te creëren"
+    ]
+  },
+  {
+    "questionTitle": "Rol van Menselijke Feedback in AI-tools",
+    "text": "Wat is de rol van menselijke feedback bij het effectief gebruiken van AI-tools?",
+    "correctAnswer": "Het wordt gebruikt om AI-output te begeleiden en te verfijnen, zodat deze voldoet aan ethische en kwaliteitsnormen",
+    "options": [
+      "Het is onnodig omdat AI altijd correcte responses genereert",
+      "Het wordt gebruikt om AI-output te begeleiden en te verfijnen, zodat deze voldoet aan ethische en kwaliteitsnormen",
+      "Het vertraagt de responstijd van de AI",
+      "Het is alleen nodig bij het gebruik van AI in onderzoek"
+    ]
+  },
+  {
+    "questionTitle": "AI-hallucinatie",
+    "text": "Wat betekent “AI-hallucinatie”?",
+    "correctAnswer": "Wanneer AI overtuigende maar incorrecte informatie geeft",
+    "options": [
+      "Wanneer AI volledig nieuwe en creatieve ideeën genereert",
+      "Wanneer AI overtuigende maar incorrecte informatie geeft",
+      "Wanneer AI eerdere input uit het gesprek vergeet",
+      "Wanneer AI menselijke emoties nabootst"
+    ]
+  },
+  {
+    "questionTitle": "Voorzichtigheid bij het Gebruik van GenAI voor Feitelijke Vragen",
+    "text": "Waarom is het belangrijk om voorzichtig te zijn bij het gebruik van GenAI voor feitelijke vragen?",
+    "correctAnswer": "GenAI raadt antwoorden, wat kan leiden tot misinformatie",
+    "options": [
+      "GenAI kan geen snelle responses geven",
+      "GenAI raadt antwoorden, wat kan leiden tot misinformatie",
+      "GenAI geeft altijd perfecte en betrouwbare antwoorden",
+      "GenAI kan geen lange gesprekken voeren"
+    ]
+  },
+  {
+    "questionTitle": "Prompt in de Context van GenAI",
+    "text": "Wat is een prompt in de context van GenAI?",
+    "correctAnswer": "Specifieke instructies of input die aan AI wordt gegeven om de respons te sturen",
+    "options": [
+      "Een deel van het gesprek dat AI vergeet",
+      "Specifieke instructies of input die aan AI wordt gegeven om de respons te sturen",
+      "Een fout die AI maakt bij het begrijpen van data",
+      "Een feedbackloop tussen mens en AI"
+    ]
+  },
+  {
+    "questionTitle": "Taken Waarbij GenAI Kan Helpen",
+    "text": "Met wat voor soort taken kan GenAI helpen?",
+    "correctAnswer": "Contentcreatie, bewerking, onderzoek, sorteren en analyseren van data",
+    "options": [
+      "Alleen data analyseren",
+      "Contentcreatie, bewerking, onderzoek, sorteren en analyseren van data",
+      "Maaltijden koken",
+      "Alleen voorspellingen doen"
+    ]
+  },
+  {
+    "questionTitle": "Complexe Taken Opsplitsen voor AI",
+    "text": "Waarom is het nodig om complexe taken op te splitsen in kleinere stappen bij het werken met AI?",
+    "correctAnswer": "AI kan nauwkeurigere en beheersbaardere resultaten leveren wanneer taken worden opgesplitst",
+    "options": [
+      "AI werkt langzamer met complexe taken",
+      "AI kan nauwkeurigere en beheersbaardere resultaten leveren wanneer taken worden opgesplitst",
+      "AI kan niet meer dan één taak tegelijk verwerken",
+      "AI kan geen content creëren"
+    ]
+  }
+]

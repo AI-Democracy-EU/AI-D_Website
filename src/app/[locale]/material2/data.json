@@ -1,0 +1,36 @@
+{
+  "code": "M2",
+  "titleKey": "modules.m2.title",
+  "descriptionKey": "modules.m2.description",
+  "image": "/icons/materials/material2-v2.jpg",
+  "instruction": {
+    "titleKey": "labels.moduleInstructions",
+    "fileBase": "AID_M2_Instructions"
+  },
+  "teachingUnits": [
+    {
+      "code": "TU1",
+      "labelKey": "labels.teachingUnit1",
+      "titleKey": "modules.m2.tu1",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M2_TU1_Slides",
+          "fileExtension": ["pdf", "pptx"]
+        }
+      ]
+    },
+    {
+      "code": "TU2",
+      "labelKey": "labels.teachingUnit2",
+      "titleKey": "modules.m2.tu2",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M2_TU2_Slides",
+          "fileExtension": ["pdf", "pptx"]
+        }
+      ]
+    }
+  ]
+}

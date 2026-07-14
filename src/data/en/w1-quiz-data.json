@@ -1,0 +1,127 @@
+[
+  {
+    "questionTitle": "AI Systems Characteristics",
+    "text": "Which of the following statements about AI systems are correct? (Choose all that apply)",
+    "correctAnswer": [
+      "AI systems are designed to imitate human cognitive capabilities.",
+      "Automated Decision Making (ADM) allows algorithms to make decisions without human intervention.",
+      "Neural Networks are often used as a model in designing AI systems."
+    ],
+    "options": [
+      "AI systems are designed to imitate human cognitive capabilities.",
+      "AI is a form of automation that only relies on human decision-making to function properly.",
+      "Automated Decision Making (ADM) allows algorithms to make decisions without human intervention.",
+      "Neural Networks are often used as a model in designing AI systems."
+    ]
+  },
+  {
+    "questionTitle": "AI Technology Overview",
+    "text": "Which of the following statements about AI are correct? (Choose all that apply)",
+    "correctAnswer": [
+      "AI uses mathematical and statistical methods to process information, often relying on machine learning techniques.",
+      "AI is an umbrella term that includes various technologies intended to mimic human thinking processes like learning, planning, and decision-making.",
+      "AI systems are a specific application of AI technologies used in real-world contexts, such as facial recognition and autonomous vehicles."
+    ],
+    "options": [
+      "AI uses mathematical and statistical methods to process information, often relying on machine learning techniques.",
+      "AI is solely focused on the automation of tasks, with no regard to human cognitive functions.",
+      "AI is an umbrella term that includes various technologies intended to mimic human thinking processes like learning, planning, and decision-making.",
+      "AI systems are a specific application of AI technologies used in real-world contexts, such as facial recognition and autonomous vehicles."
+    ]
+  },
+  {
+    "questionTitle": "Machine Learning in AI",
+    "text": "Which statement is not correct?",
+    "correctAnswer": ["Machine Learning and Deep Learning are the same thing."],
+    "options": [
+      "Machine Learning is a field of study in Artificial Intelligence.",
+      "Machine Learning and Deep Learning are the same thing.",
+      "Machine Learning is a specialised form of machine learning.",
+      "Deep Learning is suited for large data sets."
+    ]
+  },
+  {
+    "questionTitle": "Human in the Loop in AI",
+    "text": "How does the 'Human in the Loop' concept impact AI decision-making?",
+    "correctAnswer": [
+      "It ensures humans always control the final decision, especially when AI confidence is low."
+    ],
+    "options": [
+      "It eliminates human oversight in AI systems.",
+      "It ensures humans always control the final decision, especially when AI confidence is low.",
+      "It limits AI's capacity to learn and adapt.",
+      "It completely automates decision-making processes."
+    ]
+  },
+  {
+    "questionTitle": "AI Risk Classification in the EU",
+    "text": "How are AI systems classified based on their risks in the EU AI Act?",
+    "correctAnswer": [
+      "Unacceptable, high, limited, and minimal risk based on the potential societal impact."
+    ],
+    "options": [
+      "Unacceptable, high, limited, and minimal risk based on the potential societal impact.",
+      "Low, moderate, and high risk based solely on potential economic impact.",
+      "AI systems are classified based on their technological complexity.",
+      "The Act does not classify AI risks."
+    ]
+  },
+  {
+    "questionTitle": "Environmental Impact of AI",
+    "text": "Which statements are correct?",
+    "correctAnswer": [
+      "Data centers housing AI applications in Europe are projected to increase their energy consumption by 28% by 2030.",
+      "Despite their significant carbon footprint, AI systems can contribute positively to the environment by helping develop renewable energy solutions."
+    ],
+    "options": [
+      "AI systems require minimal energy, making their environmental impact negligible.",
+      "Data centers housing AI applications in Europe are projected to increase their energy consumption by 28% by 2030.",
+      "Despite their significant carbon footprint, AI systems can contribute positively to the environment by helping develop renewable energy solutions.",
+      "Large AI models have no practical application in fighting climate change, only contributing to its acceleration."
+    ]
+  },
+  {
+    "questionTitle": "EU AI Act Passage",
+    "text": "When and by whom was the EU AI Act passed?",
+    "correctAnswer": ["In 2024 by European Parliament and the Council of the EU."],
+    "options": [
+      "In 2023 by European Parliament and the Council of the EU.",
+      "In 2024 by Austria and Germany.",
+      "In 2024 by European Parliament and the Council of the EU.",
+      "In 2023 by Austria."
+    ]
+  },
+  {
+    "questionTitle": "Potential of AI Systems",
+    "text": "Which potential do AI Systems have?",
+    "correctAnswer": ["support humans with decision-making for complex tasks."],
+    "options": [
+      "Take over tasks with automation.",
+      "Optimize processes with visualization and analysis.",
+      "Take over decision-making for complex tasks.",
+      "Support humans with decision-making for complex tasks."
+    ]
+  },
+  {
+    "questionTitle": "AI Risk Identification",
+    "text": "Which risk is not posed by AI?",
+    "correctAnswer": ["replacing all human labour"],
+    "options": [
+      "Bias and Discrimination",
+      "Deepening Economic Inequality",
+      "Misinformation and Manipulation",
+      "Replacing all human labour"
+    ]
+  },
+  {
+    "questionTitle": "Capabilities of AI",
+    "text": "What can AI do?",
+    "correctAnswer": ["Logical decision making"],
+    "options": [
+      "Showing real empathy",
+      "Logical decision making",
+      "Reflecting on ethical questions",
+      "Judging"
+    ]
+  }
+]

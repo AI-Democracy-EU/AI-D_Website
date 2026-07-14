@@ -1,0 +1,1091 @@
+{
+  "WebsiteMetadata": {
+    "title": "AI.D – Künstliche Intelligenz und die Ausgestaltung der Demokratie",
+    "description": "Digitalisierung bringt Algorithmen in unseren Alltag, doch mangelndes Bewusstsein über ihre Nutzung birgt Risiken – Aufklärung ist entscheidend für Transparenz und Verantwortung.",
+    "twitter-title": "Künstliche Intelligenz und die Ausgestaltung der Demokratie"
+  },
+  "HomePage": {
+    "title": "AI.D – Künstliche Intelligenz und die Ausgestaltung der Demokratie",
+    "card-content": "Die digitale Transformation vereinfacht und beschleunigt Prozesse, reduziert Fehler und bringt Algorithmen in unseren Alltag – von der Empfehlung von Inhalten bis hin zur Bewertung der Kreditwürdigkeit. Die Öffentlichkeit ist sich oft nicht bewusst, wie Algorithmen in verschiedenen Lebensbereichen eingesetzt werden, was Fragen zu Datenschutz und Diskriminierung aufwirft. Ein Bewusstsein für die Auswirkungen algorithmischer Entscheidungen ist jedoch entscheidend, um Transparenz und Verantwortlichkeit im digitalen Zeitalter zu fördern.",
+    "pillars": {
+      "webinars": {
+        "title": "Webinare erkunden",
+        "description": "Nutzen Sie die Webinare, um mehr über künstliche Intelligenz und ihre Auswirkungen auf die Demokratie zu erfahren."
+      },
+      "materials": {
+        "title": "Lernmaterialien erkunden",
+        "description": "Wählen Sie aus unseren Lernmaterialien, um technische, soziale und politische Perspektiven auf KI in Ihren Unterricht zu bringen."
+      },
+      "curriculum": {
+        "title": "Curriculum und Handlungsempfehlungen erkunden",
+        "description": "Das Curriculum und die Policy-Empfehlungen bieten einen strukturierten Überblick über unsere Materialien und fördern den verantwortungsvollen Umgang mit KI-Technologien."
+      }
+    },
+    "button_webinars": "Webinare erkunden",
+    "button_quiz": "Memory Quiz",
+    "button_about_project": "Über das Projekt",
+    "button_materials": "Lernmaterialien erkunden"
+  },
+  "LandingPage": {
+    "title": "AI.D – Künstliche Intelligenz und die Ausgestaltung der Demokratie",
+    "pillars": {
+      "fundamentals-of-ai": {
+        "title": "Grundlagen der KI",
+        "description": "Funktionsweise und Bedeutung von Künstlicher Intelligenz (KI), ihr Potenzial und ihre Herausforderungen sowie politische Reaktionen auf diese Entwicklungen."
+      },
+      "gen-ai-critical-ai-literacy": {
+        "title": "GenAI und Kritische KI-Kompetenz",
+        "description": "Potenziale und Grenzen von Generativer KI (GenAI) und großen Sprachmodellen (LLMs) in verschiedenen Arbeitsfeldern, ethische Fragestellungen und Verzerrungen in KI-Modellen sowie praktische Tipps für die effektive Nutzung von KI-Tools."
+      },
+      "algorithms-in-e-recruiting-software": {
+        "title": "Algorithmen in E-Recruiting-Software",
+        "description": "Der Einsatz von KI-Systemen im Bewerbungsprozess und die Kriterien, nach denen KI Bewerbungen bewertet. Wie können diese Prozesse untersucht werden und wie kann KI fair und verantwortungsvoll im beruflichen Kontext eingesetzt werden?"
+      },
+      "ai-tutors-between-equality-and-inequality": {
+        "title": "KI-Tutoren – Zwischen Gleichheit und Ungleichheit",
+        "description": "Einblicke und ethische Überlegungen dazu, wie ein KI-Tutor funktioniert, wo er eingesetzt werden kann, wie er Nutzer:innen kennenlernt und wie er personalisierte Lernmaterialien bereitstellt."
+      }
+    },
+    "button_quiz_pre": "Starten Sie mit einem",
+    "button_quiz": "Memory Quiz",
+    "button_quiz_post": "zu KI-Begriffen und ihren Definitionen."
+  },
+  "W1CoursePage": {
+    "overview": {
+      "heading": "Nach dem Webinar kannst du folgende Fragen beantworten:",
+      "goals": [
+        "Was ist Künstliche Intelligenz (KI) und wie funktioniert sie?",
+        "Welche Potenziale und Herausforderungen bringt KI mit sich?",
+        "Wie reagieren Politik und Demokratie auf die Herausforderungen durch KI?",
+        "Wie kann sichergestellt werden, dass KI bestmöglich eingesetzt wird?",
+        "Diskussion offener Fragen"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Einführung",
+        "content": "fehlender Inhalt",
+        "button": "Mehr"
+      },
+      "useOfAI": {
+        "title": "KI und der EU AI Act",
+        "content": "Potenziale und Herausforderungen der KI und der EU AI Act",
+        "button": "Mehr"
+      },
+      "impact": {
+        "title": "Offene Fragen",
+        "content": "fehlender Inhalt",
+        "button": "Mehr"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Quiz beginnen"
+      }
+    }
+  },
+  "W2CoursePage": {
+    "overview": {
+      "heading": "Nach dem Webinar kannst du folgende Fragen beantworten:",
+      "goals": [
+        "Welche Potenziale und Grenzen haben Generative KI (GenAI) und große Sprachmodelle (LLMs) in verschiedenen Arbeitsbereichen?",
+        "Wie erkennt man Verzerrungen und ethische Fragestellungen in KI-Modellen?",
+        "Welche praktischen Tipps gibt es für die effektive Nutzung von KI-Tools, einschließlich der Formulierung von Prompts und dem Erkennen von Risiken in KI-generierten Inhalten?"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Anwendungsbereich",
+        "content": "fehlender Inhalt",
+        "button": "Mehr"
+      },
+      "useOfAI": {
+        "title": "Besonderheiten von GENAI/LLMs",
+        "content": "fehlender Inhalt",
+        "button": "Mehr"
+      },
+      "impact": {
+        "title": "Wirkung und Implikationen",
+        "content": "Wirkung und Implikationen für einen guten und verantwortungsvollen Einsatz",
+        "button": "Mehr"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Quiz beginnen"
+      }
+    }
+  },
+  "W3CoursePage": {
+    "overview": {
+      "heading": "Nach dem Webinar kannst du folgende Fragen beantworten:",
+      "goals": [
+        "<b>Wie analysieren KI-Systeme Daten im Bewerbungsprozess und wo können dabei Verzerrungen auftreten?</b>",
+        "Du verstehst die Phasen der Datengenerierung, Modellentwicklung und Nutzung und kannst mögliche Schwachstellen in der Technologie erkennen.",
+        "<b>Nach welchen Kriterien bewertet eine KI Bewerbungen und wie können Verzerrungen diesen Prozess beeinflussen?</b>",
+        "Du kannst diese Faktoren kritisch hinterfragen.",
+        "<b>Wie kann KI fair und verantwortungsvoll im beruflichen Kontext eingesetzt werden?</b>",
+        "Du reflektierst ethische Überlegungen und erhältst praktische Orientierung durch einen KI-Kompass."
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Anwendungsbereich",
+        "content": "fehlender Inhalt",
+        "button": "Mehr"
+      },
+      "useOfAI": {
+        "title": "Besonderheiten der KI",
+        "content": "fehlender Inhalt",
+        "button": "Mehr"
+      },
+      "impact": {
+        "title": "Wirkung",
+        "content": "Kompass für guten und fairen Einsatz",
+        "button": "Mehr"
+      }
+    }
+  },
+  "W4CoursePage": {
+    "overview": {
+      "heading": "Nach dem Webinar kannst du folgende Fragen beantworten:",
+      "goals": [
+        "Was ist ein KI-Tutor? (Anwendungsbereich)",
+        "Wie lernt ein KI-Tutor die Nutzer:innen kennen und wie stellt er personalisiertes Material bereit? (Besonderheiten der KI)",
+        "Reflektiere und entwickle eine Haltung zu den ethischen Fragen, die sich im Zusammenhang mit KI-Tutoren stellen (Implikationen)"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Einführung – KI-Tutoren",
+        "content": "KI-Tutoren sind Anwendungen, die menschliches Lehren simulieren. Sie bieten personalisierte Lernerfahrungen mit gezielter Unterstützung, angepassten Lektionen und Feedback für Lernende.",
+        "button": "Mehr"
+      },
+      "useOfAI": {
+        "title": "Besonderheiten von KI-Tutoren",
+        "content": "KI-Tutoren integrieren verschiedene KI-Technologien, um ihre Aufgaben zu erfüllen. In diesem Abschnitt werden Technologien erklärt, die es KI-Tutoren ermöglichen, menschenähnliche Gespräche zu führen und personalisiertes Lernmaterial bereitzustellen.",
+        "button": "Mehr"
+      },
+      "impact": {
+        "title": "Implikationen",
+        "content": "Es ist möglich, qualitativ hochwertige Bildung individuell auf die Bedürfnisse der Lernenden zuzuschneiden. Besonders die Bedürfnisse von Lernenden mit Schwierigkeiten oder Beeinträchtigungen können gut berücksichtigt werden.",
+        "button": "Mehr"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Quiz beginnen"
+      }
+    }
+  },
+  "ModulesPage": {
+    "title": "Modulmaterialien",
+    "eyebrow": "Downloads",
+    "description": "PDF-Downloads für alle Module, ihre Teaching Units, zusätzliche Materialien und didaktische Materialien.",
+    "download": "PDF herunterladen",
+    "additionalMaterials": "Zusätzliche Materialien",
+    "materials": "Materialien",
+    "didacticMaterials": "Didaktische Materialien",
+    "didacticMaterialsDescription": "Diese didaktischen Materialien ergänzen die Lernmaterialien und können in Kombination mit ihnen oder unabhängig davon verwendet werden.",
+    "labels": {
+      "moduleInstructions": "Modulanleitung",
+      "teachingUnit1": "Unterrichtseinheit 1",
+      "teachingUnit2": "Unterrichtseinheit 2",
+      "teachingUnit3": "Unterrichtseinheit 3",
+      "teachingUnit4": "Unterrichtseinheit 4",
+      "slides": "Folien",
+      "handout": "Handout",
+      "genaiImages": "GenAI-Bilder",
+      "aiInEverydayLife": "KI im Alltag",
+      "quotesSheet": "Zitatblatt",
+      "aiEthicsMoralDecisionMakingAndDemocracy": "KI-Ethik, moralisches Entscheiden und Demokratie",
+      "aiQuiz": "AI.D KI-QUIZ",
+      "bias": "BIAS",
+      "megaPrompts": "Mega Prompts",
+      "matchingGame": "Zuordnungsspiel",
+      "aiDialogue": "AI.Dialog",
+      "aiPubQuizTrivia": "AI Pub Quiz/Trivia",
+      "meAndAI": "Ich und KI",
+      "15MinutesNews": "15 Minuten Nachrichten",
+      "aiDialogueSlides": "AI.Dialog Moderationskarten"
+    },
+    "modules": {
+      "m1": {
+        "title": "Nicht alles ist KI - was ist KI und was nicht?",
+        "description": "Dieses Modul des AI.D-Trainingskonzepts konzentriert sich auf die Grundlagen KI-basierter Systeme und führt in wichtige gesellschaftliche Auswirkungen sowie Möglichkeiten ein, diese im Bildungskontext zu behandeln.",
+        "tu1": "Was ist KI?",
+        "tu2": "Besonderheiten KI-basierter Automatisierung",
+        "tu3": "Seltsame KI - Qualität und Verlässlichkeit vs. Vertrauenswürdigkeit"
+      },
+      "m2": {
+        "title": "KI: individuelle und gesellschaftliche Auswirkungen",
+        "description": "Dieses Modul des AI.D-Trainingskonzepts konzentriert sich auf die systemischen Auswirkungen KI-gestützter Systeme im Alltag.",
+        "tu1": "GenAI-Bilder",
+        "tu2": "KI im Alltag",
+        "tu3": "KI-Tutoren"
+      },
+      "m3": {
+        "title": "KI-Governance, Ethik, Menschenrechte und Demokratie",
+        "description": "Dieses Modul des AI.D-Trainingskonzepts konzentriert sich auf Themen der KI-Governance, ethischer Implikationen, Menschenrechtsverletzungen durch KI und den Einfluss der Technologie auf die Demokratie.",
+        "tu1": "Lokal, regional, national und europäisch: KI-Governance im Überblick",
+        "tu2": "KI in Digital Citizenship Education und Global Learning",
+        "tu3": "KI-Ethik, moralisches Entscheiden und Demokratie",
+        "tu4": "KI und Ideologie"
+      }
+    }
+  },
+  "PartnersPage": {
+    "LUH": {
+      "content": "Mit rund 28.000 Studierenden und fast 5.300 Mitarbeitenden ist die Leibniz Universität Hannover die größte Hochschule im deutschen Bundesland Niedersachsen. Sie ist national und international hervorragend vernetzt und pflegt unter anderem Kooperationen in Lehre und Forschung. Die LUH hat die Internationalisierung in einem Leitbild verankert: Einerseits schafft sie vor Ort hervorragende Bedingungen für ein internationales Lern-, Lehr- und Forschungsumfeld, andererseits trägt sie aktiv zur stärkeren internationalen Vernetzung in diesen Bereichen bei. Das Institut für Didaktik der Demokratie (IDD), das zur Philosophischen Fakultät der Universität gehört, verfolgt folgende Ziele: Forschung und Wissenstransfer in den Bereichen „politische Bildung und Demokratiepädagogik“, „Geschichte und Erinnerungskultur“ sowie „gesellschaftliche Herausforderungen der Zivilgesellschaft im 21. Jahrhundert“. Das Institut beschäftigt insgesamt 27 Mitarbeitende. Zu den Kernaufgaben des IDD gehören die Erstellung von Lehr-/Lernmaterialien, Schulbüchern und Bildungsmedien sowie die Konzeption und Durchführung von Fortbildungen für Lehrkräfte zu Themen der politischen und historisch-politischen Bildung. Auf diese Weise kann die langjährige Expertise in Ausbildung und Lehrpraxis mit nachhaltiger Innovation in der Fachdidaktik verbunden werden. Das Institut ist in allen relevanten Netzwerken für politische und historische Bildung integriert und versteht sich als Vermittler zwischen wissenschaftlichem Diskurs und Zivilgesellschaft."
+    },
+    "DGB": {
+      "content": "Der Bundesarbeitskreis Arbeit und Leben ist eine bundesweit tätige Organisation für Weiterbildung, die seit 1956 in der beruflichen, betrieblichen und politischen Bildung aktiv ist. Ziel der Bildungs- und Beratungsangebote ist es, die Teilhabe der Menschen an Arbeitswelt und Gesellschaft zu stärken und dabei die Perspektiven und Interessen der Beschäftigten zu berücksichtigen. Die Organisation richtet sich insbesondere an junge Menschen und Erwachsene, die aufgrund ihrer spezifischen Lebens- und Arbeitsbedingungen als bildungsbenachteiligt gelten. Die Bundesgeschäftsstelle von Arbeit und Leben beschäftigt derzeit 16 Mitarbeitende. In diesem Projekt ist insbesondere der Fachbereich Politische Jugendbildung aktiv. Durch seine Arbeit ermutigt er junge Menschen, ihre eigene gesellschaftliche Position zu erkennen und zu reflektieren, um entsprechend an gesellschaftlichem und politischem Leben teilhaben zu können. Mit dem zweijährigen thematischen Schwerpunkt auf den Chancen der Digitalisierung in der politischen Bildung richtet die Organisation den Blick auf die Möglichkeiten, die die Digitalisierung in der politischen Jugendbildung bietet. Die zentrale Frage ist, wie Mitbestimmung und Partizipation durch digitale Prozesse gefördert werden können."
+    },
+    "HTL": {
+      "content": "Die Höhere Technische Lehranstalt (HTL) Wien West ist eine technische berufsbildende höhere Schule, die mit einer Reife- und Diplomprüfung abschließt. Die Hauptfächer sind: Informationstechnologie, Elektrotechnik, Elektronik und Maschinenbau. Die Ausbildung wird sowohl in Tages- als auch in Abendform angeboten. An der Schule lernen rund 1100 Tagesschüler:innen und 600 Abendschüler:innen, unterrichtet von etwa 170 Lehrkräften. Als Ausbildungszentrum für Jugendliche und junge Erwachsene greift die HTL Wien West in ihrer Lehre seit Langem aktuelle gesellschaftspolitische Entwicklungen auf. Insbesondere demokratische Prozesse und deren Bedeutung spielen dabei eine zentrale Rolle. Als technische Schule sind neue Entwicklungen im Bereich (Informations-)Technologie ständig präsent und beeinflussen Inhalte und Formen des Unterrichts. So stehen aktuell etwa die Themen Cloud-Computing, moderne Frameworks für Webentwicklung, Netzwerksicherheit und Maschinelles Lernen im Fokus. Letzteres wird derzeit vor allem in Form von Schülerprojekten behandelt, die sich mit Muster- und Gestenerkennung beschäftigen."
+    },
+    "DemoWien": {
+      "content": "Das Demokratiezentrum Wien ist eine interdisziplinäre Non-Profit-Organisation mit starkem Anwendungs- und Vermittlungsfokus. Es ist eine Forschungseinrichtung und ein virtuelles Wissenszentrum mit einer breiten Palette multimedialer Inhalte, die sich mit politischer Bildung, digitaler Bürgerschaft und politischer Kultur befassen. Es beschäftigt sich mit Demokratisierungs- und Beteiligungsprozessen, aktuellen gesellschaftspolitischen Debatten mit Blick auf Zivilgesellschaft, Erinnerungskulturen, unterschiedlichen Konzepten von Staatsbürgerschaft und Migration, demokratischer Bildung, der Europäischen Union, der Mediengesellschaft sowie mit technologischer Transformation und der Wissensgesellschaft. Das Demokratiezentrum Wien ist ein akademisches Institut mit anwendungsorientiertem Profil an der Schnittstelle zwischen Wissenschaft und Öffentlichkeit."
+    },
+    "OEAW": {
+      "content": "Die Österreichische Akademie der Wissenschaften (ÖAW) ist Österreichs zentrale außeruniversitäre Einrichtung für Wissenschaft und Forschung. Sie hat den gesetzlichen Auftrag, „Wissenschaft in jeder Hinsicht zu fördern“. Die Akademie betreibt 25 Forschungsinstitute im Bereich innovativer, anwendungsorientierter Grundlagenforschung in den Geistes-, Kultur-, Sozial- und Naturwissenschaften. Sie setzt Impulse, indem sie zukunftsweisende Forschungsthemen aufgreift und Verantwortung für die Bewahrung und Interpretation des kulturellen Erbes übernimmt. Das Institut für Technikfolgen-Abschätzung beschäftigt rund 25 Forschende und ist der ÖAW als interdisziplinäres Institut zugeordnet. Es ist Mitglied im Netzwerk der europäischen Technikfolgen-Abschätzung (EPTA), im Netzwerk für Technikfolgen-Abschätzung (NTA) sowie im GlobalTA-Netzwerk. Das ITA begleitet und unterstützt das Projekt wissenschaftlich mit technischer Expertise zu Digitalisierung, algorithmischen Entscheidungssystemen und Künstlicher Intelligenz für die Planung und Entwicklung des geplanten Blended-Learning-Konzepts."
+    },
+    "LUCA": {
+      "content": "Die LUCA School of Arts ist ein multidisziplinäres Bildungs- und Forschungsumfeld, in dem sich kreatives Talent auf künstlerischer, performativer und technischer Ebene entfalten kann. An ihren vier Standorten in Brüssel, Genk, Gent und Löwen fördert LUCA die künstlerische Praxis und das kreative Design sowie die Entwicklung innovativer Sichtweisen von über 4.500 Künstler:innen, Musiker:innen, Theater- und Filmemacher:innen, Fotograf:innen und Designer:innen. Im Rahmen dieses Projekts finden die zentralen Aktivitäten am Campus C-mine in Genk statt, wo zwei Masterstudiengänge im Bereich Animation angesiedelt sind. Das Projekt ist mit der Forschungsgruppe Inter-Actions innerhalb des Forschungsschwerpunkts „Critical Reflection of and through Animation“ verbunden."
+    }
+  },
+  "AboutPage": {
+    "title": "AI.D – Künstliche Intelligenz und die Ausgestaltung der Demokratie",
+    "description": {
+      "para1": "Dieses durch Erasmus+ finanzierte Projekt befasst sich mit den Herausforderungen, die der Einsatz von Algorithmen und Systemen zur automatisierten Entscheidungsfindung (ADM, automated-decision making) für die Gesellschaft mit sich bringt. Das übergeordnete Ziel von AI.D ist es, die Öffentlichkeit zu sensibilisieren und somit Transparenz für die Bürgerinnen und Bürger zu schaffen: In welchen Bereichen werden KI-Technologien eingesetzt – und welche Chancen und Risiken sind damit verbunden? Das Projekt trägt zur Entwicklung fortgeschrittener digitaler Kompetenzen, zur Förderung der umfassenden Teilhabe an demokratischen Prozessen und zur Stärkung des kritischen Denkens bei.",
+      "para2": "Zu diesem Zweck konzentriert sich AI.D auf die Verbesserung der digitalen Kompetenzen von Lehrkräften und Lernenden an Berufsschulen und befähigt sie, KI- und ADM-Technologien zu verstehen und sich kritisch mit ihnen auseinanderzusetzen. Vier Animationsvideos und Webinare werden spezifische Anwendungsbereiche von KI und ADM beleuchten und dazu beitragen, fundierte Diskussionen über deren Auswirkungen zu fördern. Darüber hinaus wird ein Fortbildungskonzept für Lehrkräfte entwickelt, das aus drei Lernmaterialien, didaktischen Materialien für den Einsatz im Unterricht und einem Train-the-Trainer-Curriculum besteht. Basierend auf den Projekterfahrungen und der Expertise des Konsortiums werden zum Abschluss des Projekts politische Handlungsempfehlungen für den Einsatz von „Software zur algorithmischen Entscheidungsfindung“ formuliert, die sowohl die Perspektiven der Partnerorganisationen als auch die der Berufsschülerinnen und -schüler widerspiegeln."
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "issue3": {
+        "title": "Ausgabe 3 - Sommer 2025",
+        "file": "Newsletter Ausgabe 3 - DEU.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Ausgabe_3_-_DEU.pdf"
+      },
+      "issue2": {
+        "title": "Ausgabe 2 - Frühling 2025",
+        "file": "Newsletter Ausgabe 2 - DEU.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Ausgabe_2_-_DEU.pdf"
+      },
+      "issue1": {
+        "title": "Ausgabe 1 - Winter 2024",
+        "file": "Newsletter Ausgabe 1 - DEU.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Ausgabe_1_-_DEU.pdf"
+      }
+    },
+    "flyer": {
+      "title": "Flyer",
+      "file": "Flyer - DEU.pdf",
+      "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/AI.D_Flyer_-_DE.pdf"
+    },
+    "meetings": {
+      "meeting2": {
+        "title": "Projekttreffen Jänner 2025 Genk",
+        "alt1": "Projektmitglieder vor dem Gebäude der LUCA School of Arts",
+        "alt2": "Alte Bergbaustätte in Genk",
+        "text1": "Vom 28. bis 29. Januar fand unser zweites AI.D-Projekttreffen in Genk, Belgien, an der LUCA School of Arts statt. Das Treffen bot eine wertvolle Gelegenheit zur Zusammenarbeit, Reflexion und Planung, während wir weiterhin unsere Forschungs- und Kreativleistungen entwickelten.",
+        "text2": "Das Treffen beinhaltete eine Führung über den LUCA-Campus, der sich in der Region Flandern in Belgien befindet. Dies gab den Teilnehmern die Möglichkeit, die Einrichtungen zu erkunden und Einblicke in das lebendige akademische und künstlerische Umfeld zu gewinnen, das als Kulisse für die visuelle Arbeit bei AI.D dient.",
+        "text3": "Auf die Führung folgte die produktive Phase des Treffens, während der die Partner den aktuellen Fortschritt und die kommenden Ziele für AI.D diskutierten. Das Treffen war geprägt von einem lebhaften Ideenaustausch, gemeinsamer Problemlösung und strategischer Planung.",
+        "text4": "Vielen Dank an alle, die teilgenommen, beigetragen und geholfen haben, ein so dynamisches und bereicherndes Treffen zu organisieren."
+      },
+      "meeting1": {
+        "title": "Kick-Off Meeting April 2024 Hannover",
+        "alt1": "Projektmitglieder vor dem IDD Gebäude",
+        "alt2": "Konferenzraum am IDD",
+        "text1": "Im April 2024 veranstaltete das Institut für Didaktik der Demokratie in Hannover das Kick-Off-Meeting des AI.D-Konsortiums, nach einem ersten virtuellen Projekttreffen im Februar. Die Zusammenkunft ermöglichte es allen Partnern, sich persönlich zu treffen, die Projektziele zu besprechen und in zwei Tagen mit der Arbeit an den ersten Ergebnissen zu beginnen.",
+        "text2": "Das Treffen begann mit einer Präsentation des Arbeitsplans und einem umfassenden Überblick über den Projektzeitplan durch den Koordinator. In anschließenden Workshops diskutierten die Teilnehmer ausführlich die Projektziele und legten die Grundlagen für die Erstellung von animierten Videos und Online-Webinaren.",
+        "text3": "Die Aktivitäten des Tages endeten mit einer Stadtführung durch Hannover und einem Partnerabendessen, was die Zusammenarbeit unter den Konsortiumsmitgliedern förderte."
+      }
+    }
+  },
+  "MaterialsPage": {
+    "title": "AI.D – Lernmaterialien",
+    "description": "Die Lernmaterialien bieten eine Sammlung von Ideen, Inhalten und didaktischen Materialien, aus denen Sie je nach Ihrem Kontext auswählen können. Die Lernmaterialien sind in drei große Module gegliedert: 'Nicht alles ist KI', 'KI: individuelle und gesellschaftliche Auswirkungen' und 'KI-Governance, Ethik, Menschenrechte und Demokratie'.",
+    "pillars": {
+      "material1": {
+        "title": "Lernmaterial 1: Nicht alles ist KI",
+        "description": "Um angemessen über technische Systeme und ihre Auswirkungen sprechen zu können, muss ein grundlegendes Verständnis geschaffen werden. Handelt es sich um sogenanntes 'maschinelles Lernen' oder einfachere Software? Was sind die Vor- und Nachteile enger und weiter Definitionen von 'künstlicher Intelligenz'?"
+      },
+      "material2": {
+        "title": "Lernmaterial 2: KI - individuelle und gesellschaftliche Auswirkungen",
+        "description": "Wechselwirkung zwischen Technologiegestaltung, spezifischen Anwendungskontexten und individuellen, institutionellen, sozialen und ethischen Anforderungen. Beispiel: Um zu verhindern, dass rassistische etc. Inhalte sich schnell über ChatGPT verbreiten. Um zu verhindern, dass ChatGPT rassistische Inhalte in rasantem Tempo verbreitet, lässt OpenAI riesige Datenmengen manuell von unterbezahlten Arbeitskräften in Kenia bereinigen. Diese müssen stundenlang sexistische, rassistische (etc.) und gewalttätige Inhalte ansehen."
+      },
+      "material3": {
+        "title": "Lernmaterial 3: KI-Governance, Ethik, Menschenrechte und Demokratie",
+        "description": "Aktueller Stand des KI-Gesetzes [COM (2021) 206 final]: Die Konformitätsbewertung durch Prüfstellen soll nur für ein einziges Hochrisiko-KI-System verpflichtend sein: die biometrische Fernidentifizierung. Für andere Hochrisiko-Systeme ist dies nicht erforderlich, obwohl sie in sensiblen Bereichen eingesetzt werden: Polizeiarbeit, Migrationskontrolle, Rekrutierung. Gemäß der KI-Verordnung reicht es aus, wenn die Systementwickler die Folgenabschätzung selbst durchführen. Dies gilt nicht für Behörden usw., die diese Systeme tatsächlich nutzen."
+      },
+      "material4": {
+        "title": "Didaktische Materialien",
+        "description": "Eine Sammlung didaktischer Materialien und Methoden, darunter BIAS, Mega Prompts, Positionsspiel im Raum, Zuordnungsspiel, AI.Dialogue und AI Pub Quiz/Trivia."
+      }
+    }
+  },
+  "CurriculumPage": {
+    "title": "Curriculum und Handlungsempfehlungen",
+    "download": "PDF herunterladen",
+    "descriptions": {
+      "curriculumDescription": "Das AI.D-Curriculum dient als theoretische Einführung in das Thema und informiert die Nutzenden über die verschiedenen Materialien und deren Verwendung. Es bietet insbesondere Anleitungen für die Ausbildung von Trainern („Train-the-Trainer“), um eine weitere Verbreitung und breite Umsetzung der Materialien in allen Bereichen der (beruflichen) Bildung zu ermöglichen. Daher enthält dieses Dokument detaillierte Anweisungen dazu, wie ein Workshop unter Nutzung der AI.D-Projektergebnisse strukturiert und Materialien im Hinblick auf die individuellen Lernziele ausgewählt werden können.",
+      "policyDescription": "AI.D verbindet inter- und transdisziplinäre Forschung, darunter Erziehungswissenschaften, Technikfolgenabschätzung, Sozial- und Computerwissenschaften sowie die Bildungspraxis. Die in diesem Projekt gewonnenen Erkenntnisse und erstellten Materialien tragen dazu bei, einen zukunftssicheren Ansatz zu etablieren, um KI beim Lernen, Lehren und in der Bildung sinnvoll zu nutzen. Das Ziel dieses kurzen Policy Papers ist es, 1) einige zentrale Herausforderungen im Umgang mit KI im Bildungssektor aufzuzeigen und 2) grundlegende Empfehlungen für den Umgang mit KI und die Förderung einer kritischen KI-Literacy in der Bildungspolitik und Bildungspraxis zu skizzieren."
+    },
+    "labels": {
+      "curriculumLabel": "AI.D Curriculum",
+      "policyLabel": "AI.D Handlungsempfehlungen"
+    }
+  },
+  "Navigation": {
+    "legal-notice": {
+      "title": "Impressum",
+      "operator": "Webseitenbetreiber",
+      "coordinator": "Projektkoordination",
+      "school-project": "Diese Website wurde als Teil eines Schulprojektes implementiert.",
+      "github-sources": "Quelldateien für die animierten Videos und die Website"
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung"
+    },
+    "partners": {
+      "title": "Partner"
+    },
+    "cookies": {
+      "title": "Cookies"
+    },
+    "quiz": {
+      "title": "Quiz"
+    },
+    "memoryquiz": {
+      "title": "Memory Quiz"
+    },
+    "webinars": "Webinare",
+    "fundamentals-of-ai": {
+      "title": "Grundlagen der KI",
+      "introduction": "Einführung",
+      "eu-ai-act": "KI & der EU AI Act",
+      "open-questions": "Offene Fragen",
+      "quiz": "Quiz"
+    },
+    "gen-ai-and-critical-ai-literacy": {
+      "title": "GenAI & Kritische KI-Kompetenz",
+      "area": "Anwendungsbereich",
+      "specifics": "Besonderheiten von GENAI/LLMs",
+      "impact": "Wirkung & Implikationen",
+      "quiz": "Quiz",
+      "prompting-guide": "Prompting-Leitfaden"
+    },
+    "algorithms-in-e-recruiting-software": {
+      "title": "Algorithmen im E-Recruiting",
+      "area": "Anwendungsbereich",
+      "specifics": "Besonderheiten der KI",
+      "impact": "Wirkung"
+    },
+    "ai-tutors-between-equality-and-inequality": {
+      "title": "KI-Tutoren & Gleichheit",
+      "introduction": "Einführung",
+      "specifics": "Besonderheiten",
+      "implications": "Implikationen",
+      "quiz": "Quiz"
+    },
+    "ai-tutors": {
+      "title": "KI-Tutoren & Gleichheit"
+    },
+    "webinar-demo": {
+      "title": "Webinar 1: Grundlagen der KI"
+    },
+    "materials": "Lernmaterialien",
+    "material1": {
+      "title": "Lernmaterial 1: Nicht alles ist KI"
+    },
+    "material2": {
+      "title": "Lernmaterial 2: KI - individuelle und gesellschaftliche Auswirkungen"
+    },
+    "material3": {
+      "title": "Lernmaterial 3: KI-Governance, Ethik, Menschenrechte und Demokratie"
+    },
+    "material4": {
+      "title": "Didaktische Materialien"
+    },
+    "curriculum": {
+      "title": "Curriculum und Handlungsempfehlungen"
+    }
+  },
+  "AITutorsIntroductionCarousel": {
+    "title": "KI-Tutoren",
+    "chapter": "Einführung",
+    "slide1": {
+      "alt": "Was ist ein KI-Tutor?",
+      "listHeadline": "Was ist ein KI-Tutor?",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Beispiele für KI-Tutoren",
+      "listHeadline": "Beispiele für KI-Tutoren",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Bild 2",
+      "listHeadline": "Gut gemacht!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Nächster Abschnitt</a>"]
+    }
+  },
+  "AITutorsSpecificsCarousel": {
+    "title": "KI-Tutoren",
+    "chapter": "Besonderheiten",
+    "slide1": {
+      "alt": "Technologie hinter KI-Tutoren",
+      "listHeadline": "Technologie hinter KI-Tutoren",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Was können KI-Tutoren für Lehren und Lernen leisten?",
+      "listHeadline": "Was können KI-Tutoren für Lehren und Lernen leisten?",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Gut gemacht!",
+      "listHeadline": "Gut gemacht!",
+      "listContent": ["<a href='./implications' style='color:inherit'>Nächster Abschnitt</a>"]
+    }
+  },
+  "AITutorsImplicationsCarousel": {
+    "title": "KI-Tutoren",
+    "chapter": "Implikationen",
+    "slide1": {
+      "alt": "Wie KI-Tutoren helfen können, Benachteiligungen abzubauen",
+      "listHeadline": "Wie KI-Tutoren helfen können, Benachteiligungen abzubauen",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Worin KI-Tutoren versagen: die menschlichen Qualitäten, die ihnen fehlen",
+      "listHeadline": "Worin KI-Tutoren versagen: die menschlichen Qualitäten, die ihnen fehlen",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Barrierefreiheit",
+      "listHeadline": "Barrierefreiheit",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Risiken beim Einsatz von KI-Tutoren: Verzerrungen und Datenschutzprobleme",
+      "listHeadline": "Risiken beim Einsatz von KI-Tutoren: Verzerrungen und Datenschutzprobleme",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "KI-Kompass für guten und verantwortungsvollen Einsatz von KI-Tutoren im Bildungskontext (1/3)",
+      "listHeadline": "KI-Kompass für guten und verantwortungsvollen Einsatz von KI-Tutoren im Bildungskontext (1/3)",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "KI-Kompass für guten und verantwortungsvollen Einsatz von KI-Tutoren im Bildungskontext (2/3)",
+      "listHeadline": "KI-Kompass für guten und verantwortungsvollen Einsatz von KI-Tutoren im Bildungskontext (2/3)",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "KI-Kompass für guten und verantwortungsvollen Einsatz von KI-Tutoren im Bildungskontext (3/3)",
+      "listHeadline": "KI-Kompass für guten und verantwortungsvollen Einsatz von KI-Tutoren im Bildungskontext (3/3)",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Herzlichen Glückwunsch!",
+      "listHeadline": "Herzlichen Glückwunsch!",
+      "listContent": ["<a href='./quiz' style='color:inherit'>Zum Quiz</a>"]
+    }
+  },
+  "FundamentalsOfAIIntroductionCarousel": {
+    "title": "Grundlagen der KI",
+    "chapter": "Einführung",
+    "slide1": {
+      "alt": "Sieben Personen und ein Hund sind in Aquarellstil vor einem hellblauen Hintergrund dargestellt. Sie stehen in verschiedenen Posen, blicken aber alle intensiv auf ihre Mobiltelefone. Die Figuren sind in Blau mit gelben Details koloriert und werfen blaue Schatten. Ihre Handys sind über ein netzartiges Muster in der Luft miteinander verbunden, das verschiedene Verbindungspunkte zeigt. Das Bild ist im Hochformat und lässt Platz für Text in der linken oberen Ecke.",
+      "listHeadline": "KI: ein Sammelbegriff",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "KI-Anwendungen",
+      "listHeadline": "KI-Anwendungen",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "KI in verschiedenen Bereichen",
+      "listHeadline": "KI in verschiedenen Bereichen",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Können Maschinen lernen?",
+      "listHeadline": "Können Maschinen lernen?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Deep Learning: ein Beispiel",
+      "listHeadline": "Deep Learning: ein Beispiel",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Die Intelligenz der KI",
+      "listHeadline": "Die Intelligenz der KI",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Bild 7",
+      "listHeadline": "Wie funktionieren KI-Systeme?",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "KI: unser Autopilot?",
+      "listHeadline": "KI: unser Autopilot?",
+      "listContent": []
+    },
+    "slide9": {
+      "alt": "Weißt du, wo KI eingesetzt wird?",
+      "listHeadline": "Weißt du, wo KI eingesetzt wird?",
+      "listContent": []
+    },
+    "slide10": {
+      "alt": "Gut gemacht!",
+      "listHeadline": "Gut gemacht!",
+      "listContent": ["<a href='./eu-ai-act' style='color:inherit'>Nächster Abschnitt</a>"]
+    }
+  },
+  "FundamentalsOfAISpecificsCarousel": {
+    "title": "Grundlagen der KI",
+    "chapter": "Potenziale, Herausforderungen und der EU AI Act",
+    "slide1": {
+      "alt": "Das Potenzial der KI",
+      "listHeadline": "Das Potenzial der KI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Herausforderungen: Datenschutz und Sicherheit",
+      "listHeadline": "Herausforderungen: Datenschutz und Sicherheit",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Herausforderungen: Ethik und Verzerrungen",
+      "listHeadline": "Herausforderungen: Ethik und Verzerrungen",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Herausforderungen: Menschliche Verbindung, Abhängigkeit, Arbeitsplatzverlust",
+      "listHeadline": "Herausforderungen: Menschliche Verbindung, Abhängigkeit, Arbeitsplatzverlust",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Politische Regulierung von KI",
+      "listHeadline": "Politische Regulierung von KI",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Der EU-Ansatz",
+      "listHeadline": "Der EU-Ansatz",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Die Risikostufen der KI im EU AI Act",
+      "listHeadline": "Die Risikostufen der KI im EU AI Act",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Gut gemacht!",
+      "listHeadline": "Gut gemacht!",
+      "listContent": ["<a href='./open-questions' style='color:inherit'>Nächster Abschnitt</a>"]
+    }
+  },
+  "FundamentalsOfAIImplicationsCarousel": {
+    "title": "Grundlagen der KI",
+    "chapter": "Offene Fragen: Soziale und ökologische Implikationen",
+    "slide1": {
+      "alt": "Betrachte das Bild",
+      "listHeadline": "Betrachte das Bild",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "KI und Menschenrechte",
+      "listHeadline": "KI und Menschenrechte",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Umweltauswirkungen von KI",
+      "listHeadline": "Umweltauswirkungen von KI",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "KI: Welche Aufgaben für die Demokratie?",
+      "listHeadline": "KI: Welche Aufgaben für die Demokratie?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Demokratische Kontrolle",
+      "listHeadline": "Demokratische Kontrolle",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Demokratische Entwicklungen",
+      "listHeadline": "Demokratische Entwicklungen",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Herzlichen Glückwunsch!",
+      "listHeadline": "Herzlichen Glückwunsch!",
+      "listContent": ["<a href='quiz' style='color:inherit'>Zum Quiz</a>"]
+    }
+  },
+  "AlgorithmsAreaCarousel": {
+    "title": "Algorithmen in E-Recruiting-Software",
+    "chapter": "Anwendungsbereich",
+    "slide1": {
+      "alt": "Automatisierte Entscheidungsfindung (ADM) und der Einfluss auf das Arbeitsleben",
+      "listHeadline": "Automatisierte Entscheidungsfindung (ADM) und der Einfluss auf das Arbeitsleben",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Beispiele für KI-gestützte Tools zur Personalgewinnung",
+      "listHeadline": "Beispiele für KI-gestützte Tools zur Personalgewinnung",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Gut gemacht!",
+      "listHeadline": "Gut gemacht!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Nächster Abschnitt</a>"]
+    }
+  },
+  "AlgorithmsSpecificsCarousel": {
+    "title": "Algorithmen in E-Recruiting-Software",
+    "chapter": "Besonderheiten der KI",
+    "slide1": {
+      "alt": "Allgemeine Verzerrungsprobleme im maschinellen Lernen",
+      "listHeadline": "Allgemeine Verzerrungsprobleme im maschinellen Lernen",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Unbewusste Verzerrungen im maschinellen Lernen",
+      "listHeadline": "Unbewusste Verzerrungen im maschinellen Lernen",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Datengenerierung für den Modellaufbau",
+      "listHeadline": "Datengenerierung für den Modellaufbau",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Modellerstellung",
+      "listHeadline": "Modellerstellung",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Wie funktioniert E-Recruiting?",
+      "listHeadline": "Wie funktioniert E-Recruiting?",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Faire KI als Unterstützung für HR",
+      "listHeadline": "Faire KI als Unterstützung für HR",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Praxis: Übung",
+      "listHeadline": "Praxis: Übung",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Gut gemacht!",
+      "listHeadline": "Gut gemacht!",
+      "listContent": ["<a href='./impact' style='color:inherit'>Nächster Abschnitt</a>"]
+    }
+  },
+  "AlgorithmsImpactCarousel": {
+    "title": "Algorithmen in E-Recruiting-Software",
+    "chapter": "Wirkung – Kompass für guten und fairen Einsatz",
+    "slide1": {
+      "alt": "Wie kann KI im Recruiting sowohl effektiv als auch fair sein?",
+      "listHeadline": "Wie kann KI im Recruiting sowohl effektiv als auch fair sein?",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Die digitale Transformation in der Arbeitswelt gestalten",
+      "listHeadline": "Die digitale Transformation in der Arbeitswelt gestalten",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Datenschutz und Regulierung",
+      "listHeadline": "Datenschutz und Regulierung",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Wie könnte ein guter und fairer KI-Einsatz im Berufskontext aussehen?",
+      "listHeadline": "Wie könnte ein guter und fairer KI-Einsatz im Berufskontext aussehen?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "KI-Kompass für guten und fairen Einsatz von KI im Beruf",
+      "listHeadline": "KI-Kompass für guten und fairen Einsatz von KI im Beruf",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Prinzip 1: Überlegt einsetzen",
+      "listHeadline": "Prinzip 1: Überlegt einsetzen",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Prinzip 2: Gemeinsam im Team",
+      "listHeadline": "Prinzip 2: Gemeinsam im Team",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Prinzip 3: Transparenz",
+      "listHeadline": "Prinzip 3: Transparenz",
+      "listContent": []
+    },
+    "slide9": {
+      "alt": "Prinzip 4: Im ständigen Umgang mit Verzerrung und Vergangenheit",
+      "listHeadline": "Prinzip 4: Im ständigen Umgang mit Verzerrung und Vergangenheit",
+      "listContent": []
+    },
+    "slide10": {
+      "alt": "Prinzip 5: Mit hohem Datenschutz",
+      "listHeadline": "Prinzip 5: Mit hohem Datenschutz",
+      "listContent": []
+    },
+    "slide11": {
+      "alt": "Prinzip 6: Mit Lernbereitschaft",
+      "listHeadline": "Prinzip 6: Mit Lernbereitschaft",
+      "listContent": []
+    },
+    "slide12": {
+      "alt": "KI-Kompass für den guten und fairen Einsatz von KI in deiner Organisation",
+      "listHeadline": "KI-Kompass für den guten und fairen Einsatz von KI in deiner Organisation",
+      "listContent": []
+    },
+    "slide13": {
+      "alt": "Herzlichen Glückwunsch!",
+      "listHeadline": "Herzlichen Glückwunsch!",
+      "listContent": [
+        "<a href='../ai-tutors-between-equality-and-inequality' style='color:inherit'>Zum nächsten Webinar</a>"
+      ]
+    }
+  },
+  "GenAIAreaCarousel": {
+    "title": "GenAI und Kritische KI-Kompetenz",
+    "chapter": "Anwendungsbereich",
+    "slide1": {
+      "alt": "Video-Zusammenfassung: Potenziale und Grenzen von GenAI",
+      "listHeadline": "Video-Zusammenfassung: Potenziale und Grenzen von GenAI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "GenAI ist überall! Oder doch nicht?",
+      "listHeadline": "GenAI ist überall! Oder doch nicht?",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "GenAI – Anwendungsbereiche",
+      "listHeadline": "GenAI – Anwendungsbereiche",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Relevanz in verschiedenen Bereichen",
+      "listHeadline": "Relevanz in verschiedenen Bereichen",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Gut gemacht!",
+      "listHeadline": "Gut gemacht!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Nächster Abschnitt</a>"]
+    }
+  },
+  "GenAISpecificsCarousel": {
+    "title": "GenAI und Kritische KI-Kompetenz",
+    "chapter": "Besonderheiten von GenAI",
+    "slide1": {
+      "alt": "Grundfunktionen von GenAI",
+      "listHeadline": "Grundfunktionen von GenAI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Vom Input zum Output",
+      "listHeadline": "Vom Input zum Output",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Wahrscheinlichkeiten",
+      "listHeadline": "Wahrscheinlichkeiten",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "GenAI kann halluzinieren",
+      "listHeadline": "GenAI kann halluzinieren",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Gut gemacht!",
+      "listHeadline": "Gut gemacht!",
+      "listContent": ["<a href='./impact' style='color:inherit'>Nächster Abschnitt</a>"]
+    }
+  },
+  "GenAIImpactCarousel": {
+    "title": "GenAI und Kritische KI-Kompetenz",
+    "chapter": "Wirkung und Implikationen für guten und verantwortungsvollen Einsatz",
+    "slide1": {
+      "alt": "Kulturelle Wirkung",
+      "listHeadline": "Kulturelle Wirkung",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Politische Wirkung",
+      "listHeadline": "Politische Wirkung",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Bildungswirkung",
+      "listHeadline": "Bildungswirkung",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Kritische Fragen zu GenAI – Eine unvollständige Liste",
+      "listHeadline": "Kritische Fragen zu GenAI – Eine unvollständige Liste",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Regulierende Wirkung",
+      "listHeadline": "Regulierende Wirkung",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Herzlichen Glückwunsch!",
+      "listHeadline": "Herzlichen Glückwunsch!",
+      "listContent": ["<a href='./quiz' style='color:inherit'>Quiz</a>"]
+    }
+  },
+  "GenAIPromptingGuide": {
+    "title": "GenAI und Kritische KI-Kompetenz",
+    "chapter": "Prompting-Leitfaden",
+    "slide1": {
+      "alt": "Tipps für gutes Prompting",
+      "listHeadline": "Tipps für gutes Prompting",
+      "listContent": [
+        "Ein LLM hat kein Gedächtnis, sondern verwendet Muster, um Antworten vorherzusagen.",
+        "Es erinnert sich nicht an deine vorherige Frage oder Antwort.",
+        "Ein Teil des vorherigen Gesprächs wird mit jeder Anfrage erneut gesendet.",
+        "Wenn es zu viele Zeichen sind, vergisst der Bot Teile deiner Unterhaltung."
+      ]
+    },
+    "slide2": {
+      "alt": "Tipps für gutes Prompting",
+      "listHeadline": "Tipps für gutes Prompting",
+      "listContent": [
+        "Erzähle dem Bot etwas über den Kontext deiner Frage, damit er Ton und Stil anpassen kann.",
+        "Frage den Bot, welche Informationen er braucht, um dir besser zu helfen.",
+        "Gib dem Bot eine klare Rolle und Aufgabe (siehe Beispiele auf der nächsten Folie).",
+        "Sei spezifisch, wie die Antwort aussehen soll (z. B. Beispiele, Länge, Format, Tonfall oder Schlüsselwörter).",
+        "Schreibe bei Bedarf auf Englisch (nutze Tools wie Deepl oder Google Translate).",
+        "Zeige dem Bot Beispiele für gute Antworten.",
+        "Gehe Schritt für Schritt vor.",
+        "Teile große Aufgaben in kleinere Schritte.",
+        "Bearbeite und passe den Text an, bis du zufrieden bist."
+      ]
+    },
+    "slide3": {
+      "alt": "Beispiele für Rollen deines Bots",
+      "listHeadline": "Beispiele für Rollen deines Bots",
+      "listContent": [
+        "Social-Media-Experte, Newsletter-Autor:in, Marketinghilfe usw.",
+        "Lektor:in",
+        "Korrekturleser:in",
+        "Datenanalyst:in",
+        "Kreative:r Denker:in",
+        "Coach",
+        "Trainer:in (für ...)",
+        "Lehrer:in (für ...)",
+        "Berater:in (für ...)",
+        "Journalist:in",
+        "Wissenschaftler:in",
+        "Persönliche Assistenz"
+      ]
+    },
+    "slide4": {
+      "alt": "Beispiele für Aufgaben deines Bots",
+      "listHeadline": "Beispiele für Aufgaben deines Bots",
+      "listContent": [
+        "Informationen zusammenfassen",
+        "Erste Ideen liefern",
+        "Feedback zu deinen Ideen geben",
+        "Als jemand aus deiner Zielgruppe agieren",
+        "Dich beraten oder interviewen"
+      ]
+    }
+  },
+  "Quiz1": {
+    "title": "Quiz: Grundlagen der KI",
+    "question": "Frage",
+    "backToCourse": "Zurück zum Webinar",
+    "next": "Weiter",
+    "toast": {
+      "correctTitle": "RICHTIG!",
+      "correctDescription": "Du hast die Frage richtig beantwortet.",
+      "incorrectTitle": "NICHT GANZ RICHTIG!",
+      "incorrectDescription": "Ups, das war leider nicht korrekt. Versuch es noch einmal!"
+    }
+  },
+  "Quiz2": {
+    "title": "Quiz: GenAI und Kritische KI-Kompetenz",
+    "question": "Frage",
+    "backToCourse": "Zurück zum Webinar",
+    "next": "Weiter",
+    "toast": {
+      "correctTitle": "RICHTIG!",
+      "correctDescription": "Du hast die Frage richtig beantwortet.",
+      "incorrectTitle": "NICHT GANZ RICHTIG!",
+      "incorrectDescription": "Ups, das war leider nicht korrekt. Versuch es noch einmal!"
+    }
+  },
+  "Quiz4": {
+    "title": "Quiz: KI-Tutoren",
+    "question": "Frage",
+    "backToCourse": "Zurück zum Webinar",
+    "next": "Weiter",
+    "toast": {
+      "correctTitle": "RICHTIG!",
+      "correctDescription": "Du hast die Frage richtig beantwortet.",
+      "incorrectTitle": "NICHT GANZ RICHTIG!",
+      "incorrectDescription": "Ups, das war leider nicht korrekt. Versuch es noch einmal!"
+    }
+  },
+  "QuizSummary": {
+    "title": "Quiz-Ergebnisse",
+    "yourScore": "Dein Ergebnis",
+    "feedback": {
+      "excellent": "👏 Hervorragende Leistung! Du hast das Thema richtig gut verstanden. Weiter so! 👏",
+      "good": "👍 Sehr gut gemacht! Bleib dran! 👍",
+      "tryAgain": "😊 Guter Versuch! Übe weiter, um dein Ergebnis zu verbessern. 😊"
+    },
+    "table": {
+      "number": "Nr.",
+      "questionAndAnswer": "Frage & richtige Antwort",
+      "yourAnswer": "Deine Antwort"
+    },
+    "backToHome": "Zurück zum Webinar"
+  },
+  "Breadcrumbs": {
+    "home": "Startseite",
+    "webinars": "Webinare",
+    "materials": "Lernmaterialien",
+    "quiz": "Quiz",
+    "course": {
+      "aiTutors": "KI-Tutoren zwischen Gleichheit und Ungleichheit"
+    },
+    "sections": {
+      "introduction": "Einführung",
+      "specifics": "Besonderheiten",
+      "implications": "Implikationen",
+      "area": "Anwendungsbereich"
+    }
+  },
+  "Bibliography": {
+    "heading": "Literaturverzeichnis und Downloads",
+    "bibliography": "Literaturverzeichnis",
+    "photoCredits": "Bildnachweise",
+    "retrievedText": "Zuletzt abgerufen am",
+    "w1": {
+      "heading": "Grundlagen der KI",
+      "fundamentals": "Grundlagen",
+      "ai-act": "EU AI Act",
+      "environmental-impact": "Soziale und ökologische Implikationen",
+      "democracy-ai": "Demokratie & KI",
+      "clickworkers": "Clickworker:innen"
+    },
+    "w2": {
+      "heading": "GenAI & Kritische KI-Kompetenz"
+    },
+    "w3": {
+      "heading": "Algorithmen im E-Recruiting"
+    },
+    "w4": {
+      "heading": "KI-Tutoren & Gleichheit"
+    }
+  },
+  "Funding": {
+    "eu": {
+      "logo": "DE_Co-fundedbytheEU_RGB_POS.png",
+      "alt": "EU kofinanziert Logo",
+      "text": "Von der Europäischen Union finanziert. Die geäußerten Ansichten und Meinungen entsprechen jedoch ausschließlich denen des Autors bzw. der Autoren und spiegeln nicht zwingend die der Europäischen Union oder der Europäischen Exekutivagentur für Bildung und Kultur (EACEA) wider. Weder die Europäische Union noch die EACEA können dafür verantwortlich gemacht werden."
+    },
+    "cif": {
+      "logo": "CIF_logo_black_rgb.png",
+      "alt": "CIF logo",
+      "text": "Das Projekt 'AI.D - Künstliche Intelligenz und die Ausgestaltung der Demokratie' wurde kofinanziert durch den <u><a href='https://thecivics.eu/projects/civic-innovation-fund/' target='_blank'>Civic Innovation Fund (CIF)</a></u>, einen einzigartigen europäischen Gemeinschaftsfonds des THE CIVICS Innovation Hub. Der CIF wird von der König-Baudouin-Stiftung unterstützt."
+    }
+  },
+  "Copyright": {
+    "copyright": "Urheberrecht © 2025-2026 beim Partnerkonsortium des Projekts „AID – Artificial Intelligence and the Shaping of Democracy“.",
+    "license": "Dieses Werk ist lizenziert unter"
+  },
+  "MemoryGame": {
+    "title": "Memory Quiz",
+    "description": "Finde die passenden Paare von KI-Begriffen und ihren Definitionen",
+    "congratulations": "Glückwunsch! Du hast alle Paare gefunden!",
+    "moves": "Züge",
+    "matched": "Gefunden",
+    "time": "Zeit",
+    "backToWebinars": "Zurück zu den Webinaren",
+    "playAgain": "Nochmal spielen",
+    "resetGame": "Spiel zurücksetzen",
+    "showExplanations": true,
+    "terms": [
+      {
+        "id": 1,
+        "term": "Maschinelles Lernen",
+        "definition": "Eine Methode der KI-Entwicklung, die große Datenmengen nutzt, um daraus Regeln abzuleiten.",
+        "explanation": "Beim maschinellen Lernen entwickeln KI-Systeme eigene Abläufe und Strukturen, indem sie aus großen Mengen von Daten versuchen, Regeln und Muster abzuleiten. So können solche Systeme Methoden lernen, die Katzenbilder selbstständig erkennen, in dem sie anhand einer enormen Menge von Katzenbildern trainiert werden. Beim so genannten \"Deep Learning\" können dafür unstrukturierte Daten genutzt werden. Aber meistens werden im maschinellen Lernen eher Datensätze genutzt, die bereits mit Beschriftungen (\"Labels\") und Kontext-Informationen (\"Annotations\") versehen sind. Hier sind also viel mehr menschliche Eingaben und Interventionen nötig, weshalb man auch von \"überwachtem\" maschinellen Lernen spricht."
+      },
+      {
+        "id": 2,
+        "term": "Künstliche Intelligenz",
+        "definition": "Ein Teilbereich der Informatik, der sich mit \"intelligenten\", \"autonomen\" und \"selbstlernenden\" Maschinen beschäftigt.",
+        "explanation": "\"Künstliche Intelligenz\" ist kein scharf definierter Begriff, also ist dies nur eine mögliche Definition. Er kann neben dem Forschungsfeld der Informatik auch die \"intelligente\" Eigenschaften bestimmter Systeme oder die tatsächlichen Maschinen selbst meinen - und somit sehr unterschiedliche Dinge beschreiben. Im Wechselspiel von Medien, Forschung und Investitionsgeldern hat dieses Feld bereits viele abwechselnde Phasen von Hype und Ernüchterung durchgemacht. Es wird auch oft zwischen \"schwacher KI\" und \"starker KI\" unterschieden: Während \"schwache KI\" nur für ganz spezielle Aufgaben trainiert und eingesetzt werden kann, soll \"starke KI\" eine ganz allgemeine Intelligenz, ähnlich dem menschlichen Verstand beschreiben - hat sich jedoch bisher ausschließlich als Science Fiction herausgestellt."
+      },
+      {
+        "id": 3,
+        "term": "Algorithmus",
+        "definition": "Eine Reihe von Anweisungen, um aus einem bestimmten Input einen bestimmten Output zu erzeugen.",
+        "explanation": "Mit dem Begriff Algorithmus werden heute oft sehr unterschiedliche Dinge beschrieben, von der Sortierung der Beiträge auf Social Media Plattformen bis zu den Prozessen neuronaler Netze beim maschinellen Lernen. Die meisten dieser Dinge beinhalten Algorithmen, aber oft auch noch viel mehr. Ein Algorithmus an sich ist nicht mehr als eine endliche Reihe von Anweisungen, um eine bestimmte Aufgabe zu erfüllen, also aus aus einem bestimmten Input einen bestimmten Output zu erzeugen. Mit dieser einfachen Definition können also auch Kochrezepte als Algorithmen betrachtet werden: Wenn du deren Schritte genau befolgst, kannst du aus deinen rohen Zutaten eine leckere Pizza zubereiten."
+      },
+      {
+        "id": 4,
+        "term": "Daten",
+        "definition": "(Zahlen-)Werte und Angaben aus Messungen oder Beobachtungen, um Dinge oder Personen zu beschreiben.",
+        "explanation": "Ob in Form von konkreten Zahlenwerten, strikten Kategorisierungen oder vagen Textabkürzungen: Daten entstehen in vielfältiger Weise – zum Beispiel bei der Nutzung technischer Geräte, beim Ausfüllen von Formularen, beim Erfassen von Messdaten usw. Daten versuchen, Beschreibungen und Aussagen über verschiedene Dinge, Personen oder Prozesse zu liefern. Auch wenn sie oft so dargestellt werden, sind Daten niemals völlig neutral oder objektiv. Die Perspektiven und Interessen der Verantwortlichen fließen bereits in die Entscheidung ein, was genau und auf welche Weise erfasst werden soll. Somit spiegeln nicht nur die Daten selbst, sondern auch deren Erzeugung und Nutzung die (Macht-)Dynamiken unserer Gesellschaft wider."
+      },
+      {
+        "id": 5,
+        "term": "Annotation & Labelling",
+        "definition": "Die Aufbereitung von unstrukturierten Daten durch Beschriftung und Kategorisierung für selbstlernende Systeme.",
+        "explanation": "Die aufwändige, manuelle Arbeit der Daten-Annotation ist notwendig, um selbstlernenden Systemen das Lernen überhaupt erst zu ermöglichen. Dafür müssen die Daten, aus denen das KI-System später lernen soll, besonders aufbereitet werden: Auf Bildern muss zum Beispiel markiert werden, wie etwa Fahrräder, Ampeln oder Zebrastreifen aussehen. Große Tech-Unternehmen lassen diese Arbeit oft durch informelles Klick-Work oder Firmen im globalen Süden erledigen, um durch die meist schlechteren Arbeitsschutzgesetze ihre Profite zu steigern. Gleichzeitig wird diese Arbeit dadurch auch eher versteckt, was den Eindruck der technologischen Besonderheit von KIs verstärkt und darin steckende menschliche Arbeit unsichtbarer macht."
+      },
+      {
+        "id": 6,
+        "term": "Automatisierte Entscheidungssysteme",
+        "definition": "Technische Systeme, die komplexe Entscheidungen autonom treffen, oder dabei unterstützen.",
+        "explanation": "Ob ein Sozialhilfeantrag zugelassen wird, ob ein Kredit genehmigt wird oder ob aufgrund von Überwachungskamerabildern ein Alarm ausgelöst werden soll, kann oft von automatisierten Entscheidungssystemen abhängen. Sie kommen zu ihrem Ergebnis, indem sie mit vielen Daten aus Überwachung, Verwaltung und Erhebungen trainiert werden. Viele Systeme treffen solche Entscheidungen jedoch nicht allein, sondern unterstützen nur, indem sie Empfehlungen für Handlungsoptionen aussprechen - was bei einer Entscheidung gegen die Empfehlung oft jedoch harten Rechtfertigungsdruck mit sich bringt. Ob und inwiefern automatisierte Systeme Einfluss genommen haben, ist für die Menschen, die von den schlussendlichen Entscheidungen betroffen sind, oft gar nicht transparent oder nachvollziehbar"
+      },
+      {
+        "id": 7,
+        "term": "Sozio-technische Systeme",
+        "definition": "Technologie besteht nicht nur aus Maschinen und Programmen, sie ist immer in soziale und politische Kontexte eingebettet.",
+        "explanation": "Der Begriff \"sozio-technisch\" kommt aus der Techniksoziologie und soll beschreiben, dass es nicht reicht, auf die Zahnräder, Algorithmen und Kabel einer Maschine zu blicken, um sie zu verstehen. Stattdessen ist es wichtig, die soziale und politische Einbettung in unsere Gesellschaft zu betrachtet. Gleichzeitig formen technische Details von Maschinen aber auch die Gemeinschaften, in denen sie benutzt werden, indem sie bestimmte Lebensweisen ermöglichen und andere verhindern. Wir müssen uns also fragen: Wer hat die Maschine wie entwickelt oder zu ihrer Entwicklung beigetragen? Was macht eine Maschine mit den Menschen, die sie benutzen? Welche Auswirkungen hat sie auf das das soziale und politische Zusammenleben? Besonders bei \"selbstlernenden\" KI-Systemen, ist es wichtig, diese menschliche Komponente nicht aus den Augen zu verlieren."
+      },
+      {
+        "id": 8,
+        "term": "Human-In-The-Loop",
+        "definition": "Menschen sind weiterhin an vielen Stellen der Erstellung und Nutzung von KI-Systemen zentral.",
+        "explanation": "Vom Entwicklungs- und Trainingsverfahren bis zur Ausführung der Ergebnisse, Menschen sind weiterhin an vielen Stellen von KI Systemen zentral. Für manche dieser Stellen hat sich der Begriff \"Human in the Loop\" (\"Mensch in Kreislauf\") eingebürgert. Manchmal wird damit beschrieben, dass für bestimmte Formen des \"überwachten\" oder \"begleiteten Maschinellen Lernens\" konstante menschliche Betreuung und Anpassung notwendig sind. Andererseits wird die Phrase auch genutzt, um zu unterstreichen, dass besonders gravierende oder sensible Entscheidungen nicht allein von automatisierten Entscheidungssystemen getroffen werden sollten. Stattdessen sollte ein Mensch die finale Entscheidung treffen, um institutionelle Verantwortlichkeiten zu gewährleisten."
+      },
+      {
+        "id": 9,
+        "term": "Large Language Model",
+        "definition": "Eine generative (\"erstellende\") KI, die durch Training an großen Textmengen nun selbst plausible Texte generiert.",
+        "explanation": "Durch das Training an sehr großen Textsammlungen können Large Language Models (LLMs) statistische Regeln ableiten, mit denen sie selbst neue Text anhand bestimmter Vorgaben (\"Prompts\") erstellen können. Dabei verstehen diese Modelle jedoch nicht, worüber sie schreiben, sondern können lediglich auf eine hoch komplexe Weise berechnen, welches Wort in bestimmten Kontexten am wahrscheinlichsten auf ein anderes Wort folgen wird, um einen plausiblen Text entstehen zu lassen. Auf diese Weise können auch Zusammenfassungen oder Übersetzungen von bestehenden Texten erstellt werden, oder Fragen in einem dialogischen Format beantwortet werden."
+      }
+    ]
+  }
+}

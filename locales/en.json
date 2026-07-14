@@ -1,0 +1,1091 @@
+{
+  "WebsiteMetadata": {
+    "title": "AI.D - Artificial Intelligence and the Shaping of Democracy",
+    "description": "Digital transformation is integrating algorithms into daily life, but a lack of public awareness poses risks—making transparency and accountability essential.",
+    "twitter-title": "Artificial Intelligence and the Shaping of Democracy"
+  },
+  "HomePage": {
+    "title": "AI.D - Artificial Intelligence and the Shaping of Democracy",
+    "card-content": "Digital transformation is simplifying and speeding up processes, reducing errors and bringing algorithms into our daily lives, from recommending content to assessing creditworthiness. The public is often unaware of how algorithms are used in different areas of life, raising issues of privacy and discrimination. However, awareness of the impact of algorithmic decision making is crucial to promoting transparency and accountability in the digital age.",
+    "pillars": {
+      "webinars": {
+        "title": "Explore Webinars",
+        "description": "Use the webinars to learn more about artificial intelligence and its impact on democracy."
+      },
+      "materials": {
+        "title": "Explore Learning Materials",
+        "description": "Pick and choose from our learning materials to bring technical, social and political perspectives on AI into your classroom."
+      },
+      "curriculum": {
+        "title": "Explore Curriculum and Policy Recommendations",
+        "description": "The curriculum and Policy Recommendations offer a structured overview of our materials and promote responsible use of AI technologies."
+      }
+    },
+    "button_webinars": "Explore Webinars",
+    "button_about_project": "About the project",
+    "button_materials": "Explore Learning Materials"
+  },
+  "LandingPage": {
+    "title": "AI.D - Artificial Intelligence and the Shaping of Democracy",
+    "pillars": {
+      "fundamentals-of-ai": {
+        "title": "Fundamentals of AI",
+        "description": "The functioning and significance of AI, its potential and challenges and the political reactions to these developments."
+      },
+      "gen-ai-critical-ai-literacy": {
+        "title": "GenAI and Critical AI Literacy",
+        "description": "Potentials and limitations of Generative AI (GenAI) and large language models (LLMs) in different fields of work, ethical concerns and biases in AI models and practical tips for the effective use of AI tools."
+      },
+      "algorithms-in-e-recruiting-software": {
+        "title": "Algorithms in e-recruiting software",
+        "description": "The use of AI systems in the recruitment process and AI's criteria for evaluating applications. How can these processes be examined and how can AI be used fairly and responsibly in a professional context?"
+      },
+      "ai-tutors-between-equality-and-inequality": {
+        "title": "AI Tutors – Between Equality and Inequality",
+        "description": "Insights and ethical considerations on how an AI tutor works and where it can be used, how it gets to know users and how it provides personalised learning materials."
+      }
+    },
+    "button_quiz_pre": "Start with a",
+    "button_quiz": "Memory Quiz",
+    "button_quiz_post": "on AI terms and their definitions."
+  },
+
+  "W1CoursePage": {
+    "overview": {
+      "heading": "After the Webinar, you will be able to answer these questions:",
+      "goals": [
+        "What is Artificial Intelligence (AI), and how does it work?",
+        "What are the potentials and challenges of AI?",
+        "How do politics and democracy react to AI challenges?",
+        "How do they ensure that AI is used best?",
+        "Discussion of open questions"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Introduction",
+        "content": "missing Content",
+        "button": "More"
+      },
+      "useOfAI": {
+        "title": "AI and the EU AI Act",
+        "content": "Potentials and Challenges of AI and the EU AI Act",
+        "button": "More"
+      },
+      "impact": {
+        "title": "Open Questions ",
+        "content": "missing Content",
+        "button": "More"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Start Quiz"
+      }
+    }
+  },
+  "W2CoursePage": {
+    "overview": {
+      "heading": "After the Webinar, you will be able to answer these questions:",
+      "goals": [
+        "What are the potential and limitations of Generative AI (GenAI) and Large Language Models (LLMs) across various fields of work?",
+        "How can we identify biases and ethical concerns within AI models?",
+        "What are some practical tips for using AI tools effectively, including crafting prompts and recognizing risks in AI-generated content?"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Area of Application",
+        "content": "missing Content",
+        "button": "More"
+      },
+      "useOfAI": {
+        "title": "Specifics of GENAI/LLMS",
+        "content": "missing Content",
+        "button": "More"
+      },
+      "impact": {
+        "title": "Impact and Implications",
+        "content": "Impact and Implications for good and responsible use",
+        "button": "More"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Start Quiz"
+      }
+    }
+  },
+  "W3CoursePage": {
+    "overview": {
+      "heading": "After the Webinar, you will be able to answer these questions:",
+      "goals": [
+        "<b>How do AI systems analyze data in the recruitment process, and where can biases occur?</b>",
+        "You will understand the stages of data generation, model creation, and usage, and identify potential weaknesses in the technology.",
+        "<b>What criteria does an AI use to rank applications, and how can biases influence this process?</b>",
+        "You will be able to critically evaluate these factors.",
+        "<b>How can AI be used fairly and responsibly in a professional context?</b>",
+        "You will reflect on ethical considerations and receive practical guidance through an AI compass."
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Area of Application",
+        "content": "missing Content",
+        "button": "More"
+      },
+      "useOfAI": {
+        "title": "Specifics of AI",
+        "content": "missing Content",
+        "button": "More"
+      },
+      "impact": {
+        "title": "Impact",
+        "content": "Compass for good and fair use ",
+        "button": "More"
+      }
+    }
+  },
+  "W4CoursePage": {
+    "overview": {
+      "heading": "After the Webinar, you will be able to answer these questions:",
+      "goals": [
+        "What is an AI Tutor?  (Area of Application)",
+        "How does an AI Tutor get to know users, and how does it provide personalised material? (Specifics of AI)",
+        "Reflect on and develop a point of view about the ethical questions that arise with an AI Tutor (Implications)"
+      ]
+    },
+    "sections": {
+      "areaOfApplication": {
+        "title": "Introduction – AI Tutors",
+        "content": "AI Tutors are applications that simulate human-like teaching. They provide personalised educational experiences with appropriate instruction support, tailored lessons and student feedback. ",
+        "button": "More"
+      },
+      "useOfAI": {
+        "title": "Specifics of AI Tutors",
+        "content": "AI Tutors integrate multiple AI technologies to perform their tasks. This section will explain technologies that help AI tutors simulate a human-like conversation and provide personalised learning material.",
+        "button": "More"
+      },
+      "impact": {
+        "title": "Implications",
+        "content": "It is possible to provide high-quality education personalised to the students’ needs. Significantly, the needs of students with learning difficulties or impairments can be well met.",
+        "button": "More"
+      },
+      "quiz": {
+        "title": "Quiz",
+        "content": "",
+        "button": "Start Quiz"
+      }
+    }
+  },
+  "ModulesPage": {
+    "title": "Module Materials",
+    "eyebrow": "Downloads",
+    "description": "PDF downloads for all modules, their teaching units, additional materials, and didactic materials.",
+    "download": "Download PDF",
+    "additionalMaterials": "Additional materials",
+    "materials": "Materials",
+    "didacticMaterials": "Didactic materials",
+    "didacticMaterialsDescription": "These didactic materials complement the learning materials and can be used in combination with them or independently.",
+    "labels": {
+      "moduleInstructions": "Module Instructions",
+      "teachingUnit1": "Teaching Unit 1",
+      "teachingUnit2": "Teaching Unit 2",
+      "teachingUnit3": "Teaching Unit 3",
+      "teachingUnit4": "Teaching Unit 4",
+      "slides": "Slides",
+      "handout": "Handout",
+      "genaiImages": "GenAI Images",
+      "aiInEverydayLife": "AI in everyday life",
+      "quotesSheet": "Quotes Sheet",
+      "aiEthicsMoralDecisionMakingAndDemocracy": "AI Ethics, Moral Decision Making, and Democracy",
+      "aiQuiz": "AI.D AI QUIZ",
+      "bias": "BIAS",
+      "megaPrompts": "Mega Prompts",
+      "matchingGame": "Matching Game",
+      "aiDialogue": "AI.Dialogue",
+      "aiPubQuizTrivia": "AI Pub Quiz/Trivia",
+      "meAndAI": "Me and AI",
+      "15MinutesNews": "15 Minutes News",
+      "aiDialogueSlides": "AI.Dialogue Moderation Cards"
+    },
+    "modules": {
+      "m1": {
+        "title": "Not everything is AI - what is AI and what is not?",
+        "description": "This module of the AI.D Training Concept will focus on the fundamentals of AI-based systems and introduce important societal consequences as well as possibilities to address them in educational settings.",
+        "tu1": "What is AI?",
+        "tu2": "Peculiarities of AI-based automation",
+        "tu3": "Weird AI - quality & reliability vs. trustworthiness"
+      },
+      "m2": {
+        "title": "AI: individual and societal impacts",
+        "description": "This module of the AI.D Training Concept will focus on the systemic implications of AI-powered systems in everyday life.",
+        "tu1": "GenAI Images",
+        "tu2": "AI in everyday life",
+        "tu3": "AI Tutors"
+      },
+      "m3": {
+        "title": "AI Governance, Ethics, Human Rights, and Democracy",
+        "description": "This module of the AI.D Training Concept will focus on issues of AI governance, ethical implications, the issue of human rights violations through AI, and the technology’s impact on democracy.",
+        "tu1": "Local, Regional, National, and European: AI Governance at a Glance",
+        "tu2": "AI in Digital Citizenship Education and Global Learning",
+        "tu3": "AI Ethics, Moral Decision Making, and Democracy",
+        "tu4": "AI and Ideology"
+      }
+    }
+  },
+  "PartnersPage": {
+    "LUH": {
+      "content": "With around 28,000 students and almost 5,300 employees, Leibniz Universität Hannover is the largest university in the German state of Lower Saxony. It is excellently networked internationally (and nationally), with cooperation partners in the areas of teaching and research, among others. The LUH has defined internationalization in a mission statement. On the one hand, LUH creates excellent conditions for an international learning, teaching and research environment on site; on the other hand, it actively contributes to stronger international networking in these fields. The Institute for Didactics of Democracy (IDD), which is part of the Faculty of Philosophy of the University, has the following goals set itself: the goal of research and transfer activities in the fields of \"political education and democracy pedagogy\", \"history and culture of memory\" and \"social challenges of civil society in the 21st century\". The institute has a total of 27 employees. The core activities of the IDD include the creation of teaching/learning material, textbooks and educational media, as well as the conception and implementation of teacher training on topics of political and historical-political education. In this way, many years of expertise in training and teaching practice can be combined with sustainable innovation in subject didactics. The Institute is integrated into all relevant networks for political education and historical education. It sees itself as a mediator between scientific discourse and civil society. The institute is experienced in coordination and management as well as in the cooperation as a partner institution in various multilateral EU projects."
+    },
+    "DGB": {
+      "content": "The Bundesarbeitskreis Arbeit und Leben is an organisation for continuing education that has been active nationwide in the field of vocational, in-company and political education since 1956. The aim of the educational and advisory services is to strengthen people’s participation in the world of work and life and to take into account the perspectives and interests of employees. The organisation particularly targets young people and adults who are considered educationally disadvantaged due to their specific living and working conditions. The head office of the Bundesarbeitskreis Arbeit und Leben currently employs 16 people. Its Political Youth Education department is particularly involved in this project. Through its work, it encourages young people to recognize and reflect on their own social position in order to be able to participate in social and political life accordingly. With the two-year thematic focus on the opportunities of digitalisation in political education, the organization is taking a look at the possibilities that digitalisation offers in political youth education. The central question is how co-determination and participation can be promoted through digital processes."
+    },
+    "HTL": {
+      "content": "The Höhere Technische Lehranstalt (HTL) Wien West is a technical upper secondary school and concludes with a school-leaving examination and diploma. The main subjects are: Information technology, electrical engineering, electronics and mechanical engineering. The courses are offered in day and evening form. There are around 1100 day students and 600 evening students at the school, taught by around 170 teachers. As a vocational training centre for teenagers and young adults, HTL Wien West has long addressed current issues of socio-political development in its teaching. In particular, democratic processes and their significance play a central role. As a technical school, new developments in (information) technology are constantly present and influence the content and forms of teaching at the school. For example, the topics of cloud computing, current frameworks for web development, network security, and machine learning are currently receiving increased attention. The area of machine learning is currently mainly represented in the form of student projects that deal with pattern and gesture recognition."
+    },
+    "DemoWien": {
+      "content": "The Democracy Centre Vienna is an interdisciplinary non-profit organisation, strongly oriented to applying and conveying knowledge. It is a research institution and a virtual knowledge centre with a broad range of multimedia content that deals with citizenship education, digital citizenship and political culture; it is concerned with processes of democratization and participation, current socio-political debates with regard to the civil society, commemorative cultures, different concepts of citizenship and migration, democratic citizenship education, the European Union, the media society as well as with technological transformation and the knowledge society. The Democracy Centre Vienna is an academic institute with an application-oriented profile, situated at the junction between the academic and public spheres."
+    },
+    "OEAW": {
+      "content": "The Austrian Academy of Sciences (ÖAW) is Austria's central non-university institution for science and research. It has the statutory task of \"promoting science in every respect\". The Academy operates 25 research institutes in the field of innovative, application-orientated basic research in the humanities, cultural, social, and natural sciences. It provides impetus by taking up forward-looking research topics and assuming responsibility for the preservation and interpretation of cultural heritage. 6 The Institute for Technology Assessment employes around 25 researchers and is assigned to the ÖAW as an interdisciplinary institute . It is a member of the European Parliamentary Technology Assessment (EPTA) network, the Network for Technology Assessment (NTA), and the GlobalTA network. ITA accompanies and supports the project scientifically with technical expertise on digitalisation, algorithmic decision-making systems and artificial intelligence for the planning and development of the blended learning concept envisaged in the project."
+    },
+    "LUCA": {
+      "content": "The LUCA School of Arts is a multidisciplinary educational and research environment in which creative talent can develop on an artistic, performative, and technical level. At its four locations in Brussels, Genk, Ghent, and Leuven, LUCA promotes the practice of art and creative design and the development of innovative insights by over 4,500 artists, musicians, theatre and film makers, photographers and designers. As part of this project, the main activities of the project will take place at the C-mine campus in Genk, which hosts two master’s programmes in animation. The project will be linked to the Inter-Actions research unit within the research cluster “Critical Reflection of and through animation.”"
+    }
+  },
+  "AboutPage": {
+    "title": "AI.D - Artificial Intelligence and the Shaping of Democracy",
+    "description": {
+      "para1": "This Erasmus+-funded project addresses the challenges posed by the use of algorithms and automated decision-making systems (ADM) in society. The overarching aim of AI.D is to sensitise the public and thus create transparency for citizens: In which areas are AI technologies being used - and what benefits and risks are associated with them? The project contributes to the development of advanced digital skills, the promotion of full participation in democratic processes and the strengthening of critical thinking.",
+      "para2": "To this end, AI.D focuses on improving the digital competences of vocational school teachers and students and enabling them to understand and critically engage with AI and ADM technologies. Four animated videos and webinars will highlight specific areas of application of AI and ADM and help to promote informed discussions about the impact of AI and ADM. In addition, a training concept for teachers will be developed, consisting of three learning materials, didactic materials for use in the classroom and a train-the-trainer curriculum. Based on the project experience and the expertise of the consortium, policy recommendations for the use of \"software for algorithmic decision-making\" will be formulated at the end of the project, reflecting the perspectives of both the partner organisations and (vocational) students."
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "issue3": {
+        "title": "Issue 3 - Summer 2025",
+        "file": "Newsletter Issue 3 - ENG.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Issue_3_-_ENG.pdf"
+      },
+      "issue2": {
+        "title": "Issue 2 - Spring 2025",
+        "file": "Newsletter Issue 2 - ENG.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Issue_2_-_ENG.pdf"
+      },
+      "issue1": {
+        "title": "Issue 1 - Winter 2024",
+        "file": "Newsletter Issue 1 - ENG.pdf",
+        "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/Newsletter_Issue_1_-_ENG.pdf"
+      }
+    },
+    "flyer": {
+      "title": "Flyer",
+      "file": "Flyer - ENG.pdf",
+      "url": "https://www.idd.uni-hannover.de/fileadmin/idd/Projekte/AI.D/Dateien/AI.D_Flyer.pdf"
+    },
+    "meetings": {
+      "meeting2": {
+        "title": "Meeting January 2025 Genk",
+        "alt1": "Project members in front of LUCA School of Arts Building",
+        "alt2": "Old mining site in Genk",
+        "text1": "From 28th of January to 29th of January our second AI.D project meeting took place in Genk, Belgium, at the LUCA School of Arts. The meeting provided a valuable opportunity for collaboration, reflection and planning as we continued to develop our research and creative outputs.",
+        "text2": "The meeting included a tour of the LUCA campus, which is located in the Flanders region of Belgium. This gave participants the opportunity to explore the facilities and gain insight into the vibrant academic and artistic environment that serves as a backdrop for the visual work at AI.D.",
+        "text3": "The tour was followed by the productive phase of the meeting, during which the partners discussed the current progress and upcoming aims for AI.D. The meeting was characterised by a lively exchange of ideas, joint problem-solving and strategic planning.",
+        "text4": "Thank you to everyone who attended, contributed and helped to organise such a dynamic and beneficial meeting."
+      },
+      "meeting1": {
+        "title": "Kick-Off Meeting April 2024 Hannover",
+        "alt1": "Project members in front of IDD Building",
+        "alt2": "Conference room at IDD",
+        "text1": "In April 2024, the Institute of Didactics of Democracy in Hannover hosted the AI.D consortium's Kick-Off Meeting, following an initial virtual project meeting in February. The gathering allowed all partners to meet in person, discuss the project's objectives, and begin work on the first deliverables over the span of two days.",
+        "text2": "The meeting started with the coordinator presenting the work plan and a comprehensive overview of the project's timeline. In subsequent workshop sessions, participants engaged in detailed discussions about the project goals and laid the groundwork for creating animated videos and online webinars.",
+        "text3": "The day's activities concluded with a city tour of Hannover and a partner dinner, fostering the collaboration among the consortium members."
+      }
+    }
+  },
+  "MaterialsPage": {
+    "title": "AI.D - Learning Materials",
+    "description": "The learning materials offer a collection of ideas, content and didactic materials for you to pick and choose as appropriate for your context. The learning materials are structure in three large modules: 'Not everything is AI', 'AI: individual and societal impacts', and 'AI Governance, Ethics, Human Rights, and Democracy'.",
+    "pillars": {
+      "material1": {
+        "title": "Learning material 1: Not everything is AI",
+        "description": "In order to talk adequately about technical systems and their effects, a basic understanding must be created. Is it a matter of so-called 'machine learning' or simpler software? What are the advantages and disadvantages of narrow and broad definitions of 'artificial intelligence'?"
+      },
+      "material2": {
+        "title": "Learning material 2: AI: individual and societal impacts",
+        "description": "Interaction between technology design, specific application contexts and individual, institutional, social, and ethical requirements. Example: In order to prevent racist etc. content from being spread rapidly through ChatGPT. To prevent ChatGPT from spreading racist content at a rapid pace, OpenAI has huge amounts of data manually cleaned by underpaid workers in Kenya. They have to spend hours watching sexist, racist (etc.), and violent content."
+      },
+      "material3": {
+        "title": "Learning material 3: AI Governance, Ethics, Human Rights, and Democracy",
+        "description": "Current status of the AI Act [COM (2021) 206 final]: Conformity assessment by inspection bodies should only be mandatory for one high-risk AI system: biometric identification from distance. This is not required for other high-risk systems, even though they are used in sensitive areas: Police work, migration control, recruitment. According to the AI Regulation, it is sufficient for the system developers to carry out the impact assessment themselves. This does not apply to authorities etc. that actually use these systems."
+      },
+      "material4": {
+        "title": "Didactic materials",
+        "description": "A collection of didactic materials and methods, including BIAS, Mega Prompts, Room Positioning, Matching Game, AI.Dialogue, and AI Pub Quiz/Trivia."
+      }
+    }
+  },
+  "CurriculumPage": {
+    "title": "Curriculum and Policy Recommendations",
+    "download": "Download PDF",
+    "descriptions": {
+      "curriculumDescription": "The AI.D Curriculum serves as a theoretical introduction to the topic and informs users about the various materials and how to use them. It particularly provides train-the-trainer instructions to enable further dissemination and broad implementation of the materials across all fields of (vocational) education. Therefore, this document contains detailed instructions on how to structure a workshop using the AI.D project results and select materials with respect to the individual learning objectives.",
+      "policyDescription": "AI.D combines inter- and transdisciplinary research including educational sciences, technology assessment, social and computer sciences as well as educational practice. The knowledge gained and materials produced in this project contribute to establish a future-proof approach to make sense of AI in learning, teaching and education. The aim of this brief policy paper is 1) to highlight some central challenges in dealing with AI in the education sector; and 2) to outline basic recommendations on how to deal with AI and foster critical AI literacy in education policy and educational practice."
+    },
+    "labels": {
+      "curriculumLabel": "AI.D Curriculum",
+      "policyLabel": "AI.D Policy Recommendations"
+    }
+  },
+  "Navigation": {
+    "legal-notice": {
+      "title": "Legal Notice",
+      "operator": "Website Operator",
+      "coordinator": "Project Coordinator",
+      "school-project": "The website was implemented as part of a school project.",
+      "github-sources": "Source files for the animated videos and the website"
+    },
+    "privacy": {
+      "title": "Privacy Policy"
+    },
+    "partners": {
+      "title": "Partners"
+    },
+    "cookies": {
+      "title": "Cookies"
+    },
+    "quiz": {
+      "title": "Quiz"
+    },
+    "memoryquiz": {
+      "title": "Memory Quiz"
+    },
+    "webinars": "Webinars",
+    "fundamentals-of-ai": {
+      "title": "Fundamentals of AI",
+      "introduction": "Introduction",
+      "eu-ai-act": "AI & the EU AI Act",
+      "open-questions": "Open Questions",
+      "quiz": "Quiz"
+    },
+    "gen-ai-and-critical-ai-literacy": {
+      "title": "GenAI & Critical AI Literacy",
+      "area": "Area of Application",
+      "specifics": "Specifics of GENAI/LLMS",
+      "impact": "Impact & Implications",
+      "quiz": "Quiz",
+      "prompting-guide": "Prompting Guide"
+    },
+    "algorithms-in-e-recruiting-software": {
+      "title": "Algorithms in e-recruiting",
+      "area": "Area of Application",
+      "specifics": "Specifics of AI",
+      "impact": "Impact"
+    },
+    "ai-tutors-between-equality-and-inequality": {
+      "title": "AI Tutors & Equality",
+      "introduction": "Introduction",
+      "specifics": "Specifics",
+      "implications": "Implications",
+      "quiz": "Quiz"
+    },
+    "ai-tutors": {
+      "title": "AI Tutors & Equality"
+    },
+    "webinar-demo": {
+      "title": "Webinar 1: Fundamentals of AI"
+    },
+    "materials": "Learning materials",
+    "material1": {
+      "title": "Learning material 1: Not everything is AI"
+    },
+    "material2": {
+      "title": "Learning material 2: AI: individual and societal impacts"
+    },
+    "material3": {
+      "title": "Learning material 3: AI Governance, Ethics, Human Rights, and Democracy"
+    },
+    "material4": {
+      "title": "Didactic materials"
+    },
+    "curriculum": {
+      "title": "Curriculum and Policy Recommendations"
+    }
+  },
+  "AITutorsIntroductionCarousel": {
+    "title": "AI Tutors",
+    "chapter": "Introduction",
+    "slide1": {
+      "alt": "What is an AI Tutor?",
+      "listHeadline": "What is an AI Tutor?",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Examples of AI Tutors",
+      "listHeadline": "Examples of AI Tutors",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Image 2",
+      "listHeadline": "Well Done!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Next Section</a>"]
+    }
+  },
+  "AITutorsSpecificsCarousel": {
+    "title": "AI Tutors",
+    "chapter": "Specifics",
+    "slide1": {
+      "alt": "Technology behind AI tutors",
+      "listHeadline": "Technology behind AI tutors",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "What can AI Tutors do for teaching and learning?",
+      "listHeadline": "What can AI Tutors do for teaching and learning?",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Good Job!",
+      "listHeadline": "Good Job!",
+      "listContent": ["<a href='./implications' style='color:inherit'>Next Section</a>"]
+    }
+  },
+  "AITutorsImplicationsCarousel": {
+    "title": "AI Tutors",
+    "chapter": "Implications",
+    "slide1": {
+      "alt": "How AI Tutors can help reduce disadvantages",
+      "listHeadline": "How AI Tutors can help reduce disadvantages",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Where AI Tutors fall short: the human qualities they lack",
+      "listHeadline": "Where AI Tutors fall short: the human qualities they lack:",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Accessibility",
+      "listHeadline": "Accessibility",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Risks of using AI Tutors: biases and privacy issues",
+      "listHeadline": "Risks of using AI Tutors: biases and privacy issues",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "AI compass for good and responsible use of AI Tutors in the educational context (1/3)",
+      "listHeadline": "AI compass for good and responsible use of AI Tutors in the educational context (1/3)",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "AI compass for good and responsible use of AI Tutors in the educational context (2/3)",
+      "listHeadline": "AI compass for good and responsible use of AI Tutors in the educational context (2/3)",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "AI compass for good and responsible use of AI Tutors in the educational context (3/3)",
+      "listHeadline": "AI compass for good and responsible use of AI Tutors in the educational context (3/3)",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Congratulations!",
+      "listHeadline": "Congratulations!",
+      "listContent": ["<a href='./quiz' style='color:inherit'>Take the Quiz</a>"]
+    }
+  },
+  "FundamentalsOfAIIntroductionCarousel": {
+    "title": "Fundamentals of AI",
+    "chapter": "Introduction",
+    "slide1": {
+      "alt": "Seven people and a dog are illustrated in watercolour standing against a light blue background, in a variety of poses but all intently looking at their mobile phones. They are coloured in blue with yellow detail, and cast blue shadows. Their phones are all connected via a web like network in the air, showing various connection points. The image is portrait shape and allows space for text in the top left hand corner.",
+      "listHeadline": "AI: an umbrella term",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "AI applications",
+      "listHeadline": "AI applications",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "AI in different areas",
+      "listHeadline": "AI in different areas",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Can machines learn?",
+      "listHeadline": "Can machines learn?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Deep Learning: an example",
+      "listHeadline": "Deep Learning: an example",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "AI’s intelligence",
+      "listHeadline": "AI’s intelligence",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Image 7",
+      "listHeadline": "How do AI systems work?",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "AI: our autopilot?",
+      "listHeadline": "AI: our autopilot?",
+      "listContent": []
+    },
+    "slide9": {
+      "alt": "Do you know where AI is used?",
+      "listHeadline": "Do you know where AI is used?",
+      "listContent": []
+    },
+    "slide10": {
+      "alt": "Well done!",
+      "listHeadline": "Well done!",
+      "listContent": ["<a href='./eu-ai-act' style='color:inherit'>Next Section</a>"]
+    }
+  },
+  "FundamentalsOfAISpecificsCarousel": {
+    "title": "Fundamentals of AI",
+    "chapter": "Potential, Challenges and the EU AI Act",
+    "slide1": {
+      "alt": "The potential of AI",
+      "listHeadline": "The potential of AI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Challenges: privacy and security",
+      "listHeadline": "Challenges: privacy and security",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Challenges: ethics and biases",
+      "listHeadline": "Challenges: ethics and biases",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Challenges: human connection, dependence, job displacement",
+      "listHeadline": "Challenges: human connection, dependence, job displacement",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Political regulation of AI",
+      "listHeadline": "Political regulation of AI",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "The EU approach",
+      "listHeadline": "The EU approach",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "The risk levels of AI in the EU AI Act",
+      "listHeadline": "The risk levels of AI in the EU AI Act",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Good Job!",
+      "listHeadline": "Good Job!",
+      "listContent": ["<a href='./open-questions' style='color:inherit'>Next Section</a>"]
+    }
+  },
+  "FundamentalsOfAIImplicationsCarousel": {
+    "title": "Fundamentals of AI",
+    "chapter": "Open Questions: Social and environmental implications",
+    "slide1": {
+      "alt": "Look at the picture",
+      "listHeadline": "Look at the picture",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "AI and Human Rights",
+      "listHeadline": "AI and Human Rights",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Environmental Impact of AI",
+      "listHeadline": "Environmental Impact of AI",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "AI: which tasks for democracy?",
+      "listHeadline": "AI: which tasks for democracy?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Democratic controls",
+      "listHeadline": "Democratic controls",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Democratic developments",
+      "listHeadline": "Democratic developments",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Congratulations!",
+      "listHeadline": "Congratulations!",
+      "listContent": ["<a href='quiz' style='color:inherit'>Quiz</a>"]
+    }
+  },
+  "AlgorithmsAreaCarousel": {
+    "title": "Algorithms in e-recruiting software",
+    "chapter": "Area of Application",
+    "slide1": {
+      "alt": "Automated Decision Making (ADM) and the influence on working life",
+      "listHeadline": "Automated Decision Making (ADM) and the influence on working life",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Examples of AI-powered hiring tools",
+      "listHeadline": "Examples of AI-powered hiring tools",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Well Done!",
+      "listHeadline": "Well Done!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Next Section</a>"]
+    }
+  },
+  "AlgorithmsSpecificsCarousel": {
+    "title": "Algorithms in e-recruiting software",
+    "chapter": "Specifics of AI",
+    "slide1": {
+      "alt": "General Issues of Bias in ML",
+      "listHeadline": "General Issues of Bias in ML",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Unconscious biases in ML",
+      "listHeadline": "Unconscious biases in ML",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Data generation for model building ",
+      "listHeadline": "Data generation for model building ",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Model building",
+      "listHeadline": "Model building",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "How does e-recruiting work? ",
+      "listHeadline": "How does e-recruiting work? ",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Fair AI as support for HR",
+      "listHeadline": "Fair AI as support for HR",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Hands On: Exercise",
+      "listHeadline": "Hands On: Exercise",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Good Job!",
+      "listHeadline": "Good Job!",
+      "listContent": ["<a href='./impact' style='color:inherit'>Next Section</a>"]
+    }
+  },
+  "AlgorithmsImpactCarousel": {
+    "title": "Algorithms in e-recruiting software",
+    "chapter": "Impact – Compass for good and fair use",
+    "slide1": {
+      "alt": "How can AI in recruiting be both effective and fair?",
+      "listHeadline": "How can AI in recruiting be both effective and fair?",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Shaping the digital transformation in working life",
+      "listHeadline": "Shaping the digital transformation in working life",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Data protection and regulation",
+      "listHeadline": "Data protection and regulation",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "What could a good and fair use of AI in a professional context look like?",
+      "listHeadline": "What could a good and fair use of AI in a professional context look like?",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "AI compass for good and fair use of AI in a professional context",
+      "listHeadline": "AI compass for good and fair use of AI in a professional context",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Principle 1: Use with consideration",
+      "listHeadline": "Principle 1: Use with consideration",
+      "listContent": []
+    },
+    "slide7": {
+      "alt": "Principle 2: Together as a team",
+      "listHeadline": "Principle 2: Together as a team",
+      "listContent": []
+    },
+    "slide8": {
+      "alt": "Principle 3: Transparency",
+      "listHeadline": "Principle 3: Transparency",
+      "listContent": []
+    },
+    "slide9": {
+      "alt": "Principle 4: In permanent confrontation with bias and past orientation",
+      "listHeadline": "Principle 4: In permanent confrontation with bias and past orientation",
+      "listContent": []
+    },
+    "slide10": {
+      "alt": "Principle 5: With a high level of data protection",
+      "listHeadline": "Principle 5: With a high level of data protection",
+      "listContent": []
+    },
+    "slide11": {
+      "alt": "Principle 6: With the will to learn",
+      "listHeadline": "Principle 6: With the will to learn",
+      "listContent": []
+    },
+    "slide12": {
+      "alt": "AI compass for good and fair use of AI in your institution",
+      "listHeadline": "AI compass for good and fair use of AI in your institution",
+      "listContent": []
+    },
+    "slide13": {
+      "alt": "Congratulations!",
+      "listHeadline": "Congratulations!",
+      "listContent": [
+        "<a href='../ai-tutors-between-equality-and-inequality' style='color:inherit'>Next Webinar</a>"
+      ]
+    }
+  },
+  "GenAIAreaCarousel": {
+    "title": "GenAI and Critical AI Literacy",
+    "chapter": "Area of Application",
+    "slide1": {
+      "alt": "Video Summary: potentials and limitations of GenAI",
+      "listHeadline": "Video Summary: potentials and limitations of GenAI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "GenAI is everywhere! Or is it?",
+      "listHeadline": "GenAI is everywhere! Or is it?",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "GenAI - Areas of Application",
+      "listHeadline": "GenAI - Areas of Application",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Relevance across various fields ",
+      "listHeadline": "Relevance across various fields ",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Well Done!",
+      "listHeadline": "Well Done!",
+      "listContent": ["<a href='./specifics' style='color:inherit'>Next Section</a>"]
+    }
+  },
+  "GenAISpecificsCarousel": {
+    "title": "GenAI and Critical AI Literacy",
+    "chapter": "Specifics of GenAI",
+    "slide1": {
+      "alt": "Basic Functions of GenAI",
+      "listHeadline": "Basic Functions of GenAI",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "From Input to Output",
+      "listHeadline": "From Input to Output",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Probabilities",
+      "listHeadline": "Probabilities",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "GenAI can hallucinate",
+      "listHeadline": "GenAI can hallucinate",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Good Job!",
+      "listHeadline": "Good Job!",
+      "listContent": ["<a href='./impact' style='color:inherit'>Next Section</a>"]
+    }
+  },
+  "GenAIImpactCarousel": {
+    "title": "GenAI and Critical AI Literacy",
+    "chapter": "Impact and Implications for Good and Responsible Use",
+    "slide1": {
+      "alt": "Cultural Impact",
+      "listHeadline": "Cultural Impact",
+      "listContent": []
+    },
+    "slide2": {
+      "alt": "Political Impact",
+      "listHeadline": "Political Impact",
+      "listContent": []
+    },
+    "slide3": {
+      "alt": "Educational Impact",
+      "listHeadline": "Educational Impact",
+      "listContent": []
+    },
+    "slide4": {
+      "alt": "Critical Questions on GenAI - An Incomplete List",
+      "listHeadline": "Critical Questions on GenAI - An Incomplete List",
+      "listContent": []
+    },
+    "slide5": {
+      "alt": "Regulating Impact",
+      "listHeadline": "Regulating Impact",
+      "listContent": []
+    },
+    "slide6": {
+      "alt": "Congratulations!",
+      "listHeadline": "Congratulations!",
+      "listContent": ["<a href='./quiz' style='color:inherit'>Quiz</a>"]
+    }
+  },
+  "GenAIPromptingGuide": {
+    "title": "GenAI and Critical AI Literacy",
+    "chapter": "Prompting Guide",
+    "slide1": {
+      "alt": "Tips for Good Prompting",
+      "listHeadline": "Tips for Good Prompting",
+      "listContent": [
+        "An LLM has no memory but uses patterns to guess answers.",
+        "It doesn’t remember your previous question or answer.",
+        "A part of the previous conversation is sent with each request.",
+        "Once there are too many characters, the bot forgets part of your conversation."
+      ]
+    },
+    "slide2": {
+      "alt": "Tips for Good Prompting",
+      "listHeadline": "Tips for Good Prompting",
+      "listContent": [
+        "Tell the bot about the setting of your question, so it can adjust tone and style accordingly.",
+        "Ask the bot what information it needs to give you better answers.",
+        "Give the bot a clear role and task (see examples on the next slide).",
+        "Be specific about what the answer should look like (e.g., examples, length, format, tone, or keywords).",
+        "Write in English if needed (use tools like Deepl or Google Translate).",
+        "Share examples of good answers with the bot.",
+        "Take things step by step.",
+        "Break down big tasks into smaller parts.",
+        "Edit and adjust the text until you're happy with the result."
+      ]
+    },
+    "slide3": {
+      "alt": "Examples for Roles of Your Bot",
+      "listHeadline": "Examples for Roles of Your Bot",
+      "listContent": [
+        "Social media expert, newsletter writer, marketing help, etc.",
+        "Editor",
+        "Proofreader",
+        "Data analyst",
+        "Creative thinker",
+        "Coach",
+        "Trainer (for...)",
+        "Teacher (for...)",
+        "Consultant (for...)",
+        "Journalist",
+        "Scientist",
+        "Personal assistant"
+      ]
+    },
+    "slide4": {
+      "alt": "Examples for Tasks of Your Bot",
+      "listHeadline": "Examples for Tasks of Your Bot",
+      "listContent": [
+        "Summarize information",
+        "Give first ideas",
+        "Provide feedback on your ideas",
+        "Act as someone from your target group",
+        "Advise or interview you"
+      ]
+    }
+  },
+  "Quiz1": {
+    "title": "Quiz: Fundamentals of AI",
+    "question": "Question",
+    "backToCourse": "Back to webinar",
+    "next": "Next",
+    "toast": {
+      "correctTitle": "CORRECT!",
+      "correctDescription": "You have answered the question correctly",
+      "incorrectTitle": "NOT QUITE RIGHT!",
+      "incorrectDescription": "Oops, that is not the correct answer. Try again!"
+    }
+  },
+  "Quiz2": {
+    "title": "Quiz: GenAI and Critical AI Literacy",
+    "question": "Question",
+    "backToCourse": "Back to webinar",
+    "next": "Next",
+    "toast": {
+      "correctTitle": "CORRECT!",
+      "correctDescription": "You have answered the question correctly",
+      "incorrectTitle": "NOT QUITE RIGHT!",
+      "incorrectDescription": "Oops, that is not the correct answer. Try again!"
+    }
+  },
+  "Quiz4": {
+    "title": "Quiz: AI Tutors",
+    "question": "Question",
+    "backToCourse": "Back to webinar",
+    "next": "Next",
+    "toast": {
+      "correctTitle": "CORRECT!",
+      "correctDescription": "You have answered the question correctly",
+      "incorrectTitle": "NOT QUITE RIGHT!",
+      "incorrectDescription": "Oops, that is not the correct answer. Try again!"
+    }
+  },
+  "QuizSummary": {
+    "title": "Quiz Results",
+    "yourScore": "Your Score",
+    "feedback": {
+      "excellent": "👏 Excellent work! Your understanding of the topic is impressive. Keep it up! 👏",
+      "good": "👍 Great job! Keep up the good work. 👍",
+      "tryAgain": "😊 Nice try! Keep practicing to improve your score. 😊"
+    },
+    "table": {
+      "number": "Nr.",
+      "questionAndAnswer": "Question & correct answer",
+      "yourAnswer": "Your answer"
+    },
+    "backToHome": "Back to Webinar"
+  },
+  "Breadcrumbs": {
+    "home": "Home",
+    "webinars": "Webinars",
+    "materials": "Learning materials",
+    "quiz": "Quiz",
+    "course": {
+      "aiTutors": "AI Tutors between Equality and Inequality"
+    },
+    "sections": {
+      "introduction": "Introduction",
+      "specifics": "Specifics",
+      "implications": "Implications",
+      "area": "Area of Application"
+    }
+  },
+  "Bibliography": {
+    "heading": "Literature and Downloads",
+    "bibliography": "Literature",
+    "photoCredits": "Photo Credits",
+    "retrievedText": "Last retrieved on",
+    "w1": {
+      "heading": "Fundamentals of AI",
+      "fundamentals": "Fundamentals",
+      "ai-act": "EU AI Act",
+      "environmental-impact": "Environmental Impact",
+      "democracy-ai": "Democracy and AI",
+      "clickworkers": "Clickworker"
+    },
+    "w2": {
+      "heading": "GenAI & Critical AI Literacy"
+    },
+    "w3": {
+      "heading": "Algorithms in e-recruiting"
+    },
+    "w4": {
+      "heading": "AI Tutors & Equality"
+    }
+  },
+  "Funding": {
+    "eu": {
+      "logo": "EN_Co-fundedbytheEU_RGB_POS.png",
+      "alt": "EU co-funded logo",
+      "text": "Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them."
+    },
+    "cif": {
+      "logo": "CIF_logo_black_rgb.png",
+      "alt": "CIF logo",
+      "text": "The project 'AI.D - Artificial Intelligence and the Shaping of Democracy' was co-funded by the <u><a href='https://thecivics.eu/projects/civic-innovation-fund/' target='_blank'>Civic Innovation Fund (CIF)</a></u>, a unique European pooled fund of THE CIVICS Innovation Hub. CIF is supported by the King Baudouin Foundation."
+    }
+  },
+  "Copyright": {
+    "copyright": "Copyright © 2025-2026 by the partner consortium of the project “AID – Artificial Intelligence and the Shaping of Democracy”.",
+    "license": "This work is licensed under"
+  },
+  "MemoryGame": {
+    "title": "Memory Quiz",
+    "description": "Find matching pairs of AI terms and their definitions",
+    "congratulations": "Congratulations! You found all the pairs!",
+    "moves": "Moves",
+    "matched": "Matched",
+    "time": "Time",
+    "backToWebinars": "Back to webinars",
+    "playAgain": "Play Again",
+    "resetGame": "Reset Game",
+    "showExplanations": true,
+    "terms": [
+      {
+        "id": 1,
+        "term": "Machine Learning",
+        "definition": "A method of AI development that uses large amounts of data to derive rules from it.",
+        "explanation": "In machine learning, AI systems develop their own processes and structures by attempting to derive rules and patterns from large amounts of data. For instance, such systems can learn methods to independently recognize images of cats by being trained on an enormous volume of cat pictures. In so-called \"Deep Learning,\" unstructured data can be used for this purpose. However, in machine learning, datasets that are already provided with \"labels\" and \"annotations\" (contextual information) are more commonly used. This requires significantly more human input and intervention, which is why it is also referred to as \"supervised\" machine learning."
+      },
+      {
+        "id": 2,
+        "term": "Artificial Intelligence",
+        "definition": "A branch of computer science that deals with \"intelligent\", \"autonomous\" and \"self-learning\" machines.",
+        "explanation": "\"Artificial Intelligence\" is not a strictly defined term, so this is just one possible definition. Besides referring to the field of computer science research, it can also describe the \"intelligent\" properties of certain systems or the actual machines themselves—thus encompassing very different concepts. Through the interplay of media, research, and investment capital, this field has already undergone many alternating phases of hype and disillusionment. A distinction is also often made between \"weak AI\" and \"strong AI\": while \"weak AI\" is trained and used only for very specific tasks, \"strong AI\" is intended to describe a general intelligence similar to the human mind—however, so far, it has proven to be purely science fiction."
+      },
+      {
+        "id": 3,
+        "term": "Algorithm",
+        "definition": "A series of instructions to produce a specific output from a specific input.",
+        "explanation": "Today, the term algorithm is often used to describe very different things, from the sorting of posts on social media platforms to the processes of neural networks in machine learning. Most of these things involve algorithms, but often much more as well. An algorithm in itself is nothing more than a finite set of instructions to fulfill a specific task—that is, to produce a specific output from a specific input. With this simple definition, even cooking recipes can be considered algorithms: If you follow their steps exactly, you can turn your raw ingredients into a delicious pizza."
+      },
+      {
+        "id": 4,
+        "term": "Data",
+        "definition": "(Numerical) values and information from measurements or observations to describe things or people.",
+        "explanation": "Whether in the form of specific numerical values, strict categorizations, or vague text abbreviations: data is produced in many forms—for example, when using technical devices, filling out forms, collecting measurement data, etc. Data attempts to provide descriptions and statements about various things, people, or processes. Even though they are often presented as such, data is never completely neutral or objective. The perspectives and interests of those in charge are already embedded in the decision of what exactly should be recorded and in what way. Thus, not only the data itself, but also its production and use, reflect the (power) dynamics of our society."
+      },
+      {
+        "id": 5,
+        "term": "Annotation & Labelling",
+        "definition": "The preparation of unstructured data through labeling and categorization for self-learning systems.",
+        "explanation": "The time-consuming, manual work of data annotation is essential to enable self-learning systems to learn in the first place. For this purpose, the data from which the AI system will later learn must be specially prepared: on images, for example, objects like bicycles, traffic lights, or zebra crossings must be labeled. Large tech companies often have this work done through informal \"click-work\" or by companies in the Global South to increase their profits by taking advantage of typically weaker labor laws. At the same time, this practice tends to keep the work hidden, which reinforces the impression of AI as a technological marvel while making the human labor behind it invisible."
+      },
+      {
+        "id": 6,
+        "term": "Automated Decision Systems",
+        "definition": "Technical systems that make complex decisions autonomously or provide decision support.",
+        "explanation": "Whether a social welfare application is approved, a loan is granted, or an alarm is triggered based on surveillance camera footage often depends on automated decision-making systems. These systems reach their conclusions by being trained with vast amounts of data from surveillance, administration, and surveys. However, many systems do not make such decisions entirely on their own; instead, they provide support by recommending options for action—though choosing a different path often leads to significant pressure to justify the decision. For the people affected by the final outcomes, it is often not transparent or even comprehensible whether or to what extent automated systems have influenced the process."
+      },
+      {
+        "id": 7,
+        "term": "Socio-technical Systems",
+        "definition": "Technology is not just machines and programs; it is always embedded in social and political contexts.",
+        "explanation": "The term \"socio-technical\" originates from the sociology of technology and suggests that looking solely at the gears, algorithms, and cables of a machine is not enough to understand it. Instead, it is crucial to consider its social and political embedding within our society. At the same time, the technical details of machines also shape the communities in which they are used by enabling certain ways of life and preventing others. We must therefore ask ourselves: Who developed the machine and how, or who contributed to its development? What does a machine do to the people who use it? What impact does it have on social and political coexistence? Especially with \"self-learning\" AI systems, it is vital not to lose sight of this human component."
+      },
+      {
+        "id": 8,
+        "term": "Human-In-The-Loop",
+        "definition": "Humans remain central at many points in the creation and use of AI systems.",
+        "explanation": "From the development and training process to the implementation of results, humans remain central to AI systems in many areas. For some of these roles, the term \"Human in the Loop\" has become established. Sometimes it is used to describe how certain forms of \"supervised\" or \"guided machine learning\" require constant human supervision and adjustment. On the other hand, the phrase is also used to emphasize that particularly grave or sensitive decisions should not be made by automated decision-making systems alone. Instead, a human should make the final decision to ensure institutional accountability."
+      },
+      {
+        "id": 9,
+        "term": "Large Language Model",
+        "definition": "A generative AI that, through training on large amounts of text, can now generate plausible text itself.",
+        "explanation": "By training on very large collections of text, Large Language Models (LLMs) can derive statistical rules that allow them to generate new text based on specific instructions (\"prompts\"). However, these models do not understand what they are writing about; instead, they use highly complex calculations to determine which word is most likely to follow another in a given context to create a plausible text. In this way, they can also generate summaries or translations of existing texts, or answer questions in a conversational format."
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "code": "M1",
+  "titleKey": "modules.m1.title",
+  "descriptionKey": "modules.m1.description",
+  "image": "/icons/materials/material1-v2.jpg",
+  "instruction": {
+    "titleKey": "labels.moduleInstructions",
+    "fileBase": "AID_M1_Instructions"
+  },
+  "teachingUnits": [
+    {
+      "code": "TU1",
+      "labelKey": "labels.teachingUnit1",
+      "titleKey": "modules.m1.tu1",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M1_TU1_Slides",
+          "fileExtension": ["pdf","pptx"]
+        },
+        {
+          "titleKey": "labels.handout",
+          "fileBase": "AID_M1_TU1_Handout"
+        }
+      ]
+    },
+    {
+      "code": "TU2",
+      "labelKey": "labels.teachingUnit2",
+      "titleKey": "modules.m1.tu2",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M1_TU2_Slides",
+          "fileExtension": ["pdf","pptx"]
+        },
+        {
+          "titleKey": "labels.handout",
+          "fileBase": "AID_M1_TU2_Handout"
+        }
+      ]
+    },
+    {
+      "code": "TU3",
+      "labelKey": "labels.teachingUnit3",
+      "titleKey": "modules.m1.tu3",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M1_TU3_Slides",
+          "fileExtension": ["pdf","pptx"]
+        },
+        {
+          "titleKey": "labels.handout",
+          "fileBase": "AID_M1_TU3_Handout"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+    {
+      "questionTitle": "What is Generative AI (GenAI)?",
+      "text": "What is Generative AI (GenAI)?",
+      "correctAnswer": "AI that generates content like text, images, and music based on statistical patterns from data",
+      "options": [
+        "AI that retrieves information from the internet",
+        "AI that generates content like text, images, and music based on statistical patterns from data",
+        "AI that only edits existing content",
+        "AI that has its own reasoning ability"
+      ]
+    },
+    {
+      "questionTitle": "Key Limitation of Generative AI",
+      "text": "What is a key limitation of Generative AI?",
+      "correctAnswer": "It lacks reasoning and may produce incorrect or biased information",
+      "options": [
+        "It cannot generate large amounts of content",
+        "It always produces perfect results",
+        "It lacks reasoning and may produce incorrect or biased information",
+        "It cannot work without human oversight"
+      ]
+    },
+    {
+      "questionTitle": "Response Generation in Large Language Models (LLMs)",
+      "text": "How do Large Language Models (LLMs) generate responses?",
+      "correctAnswer": "By guessing the next most likely word based on patterns in the data",
+      "options": [
+        "By guessing the next most likely word based on patterns in the data",
+        "By recalling previous conversations",
+        "By searching the internet for the correct answer",
+        "By copying text from other documents"
+      ]
+    },
+    {
+      "questionTitle": "Ethical Concerns Regarding GenAI",
+      "text": "What are some common ethical concerns regarding GenAI?",
+      "correctAnswer": "The risk of disinformation, deepfakes, and the use of copyrighted works without consent",
+      "options": [
+        "The speed at which it operates",
+        "The risk of disinformation, deepfakes, and the use of copyrighted works without consent",
+        "Its ability to analyze data",
+        "Its inability to create content in multiple languages"
+      ]
+    },
+    {
+      "questionTitle": "Role of Human Feedback in AI Tools",
+      "text": "What is the role of human feedback in using AI tools effectively?",
+      "correctAnswer": "It is used to guide and refine AI outputs, ensuring they meet ethical and quality standards",
+      "options": [
+        "It is unnecessary because AI always generates correct responses",
+        "It is used to guide and refine AI outputs, ensuring they meet ethical and quality standards",
+        "It slows down the AI’s response time",
+        "It is only needed when using AI in research"
+      ]
+    },
+    {
+      "questionTitle": "AI Hallucination",
+      "text": "What does “AI hallucination” mean?",
+      "correctAnswer": "When AI provides convincing but incorrect information",
+      "options": [
+        "When AI generates completely new and creative ideas",
+        "When AI provides convincing but incorrect information",
+        "When AI forgets previous inputs from the conversation",
+        "When AI mimics human emotions"
+      ]
+    },
+    {
+      "questionTitle": "Caution in Using GenAI for Factual Questions",
+      "text": "Why is it important to be cautious when using GenAI for factual questions?",
+      "correctAnswer": "GenAI guesses answers, which might lead to misinformation",
+      "options": [
+        "GenAI cannot provide fast responses",
+        "GenAI guesses answers, which might lead to misinformation",
+        "GenAI always gives perfect and reliable answers",
+        "GenAI cannot handle long conversations"
+      ]
+    },
+    {
+      "questionTitle": "Prompt in the Context of GenAI",
+      "text": "What is a prompt in the context of GenAI?",
+      "correctAnswer": "Specific instructions or input given to AI to guide its response",
+      "options": [
+        "A part of the conversation that AI forgets",
+        "Specific instructions or input given to AI to guide its response",
+        "A mistake made by AI in understanding data",
+        "A feedback loop between human and AI"
+      ]
+    }
+  ]

@@ -1,0 +1,77 @@
+{
+  "code": "M3",
+  "titleKey": "modules.m3.title",
+  "descriptionKey": "modules.m3.description",
+  "image": "/icons/materials/material3-v2.jpg",
+  "instruction": {
+    "titleKey": "labels.moduleInstructions",
+    "fileBase": "AID_M3_Instructions"
+  },
+  "teachingUnits": [
+    {
+      "code": "TU1",
+      "labelKey": "labels.teachingUnit1",
+      "titleKey": "modules.m3.tu1",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M3_TU1_Slides",
+          "fileExtension": ["pdf", "pptx"]
+        }
+      ],
+      "extraAssets": [
+        {
+          "titleKey": "labels.aiDialogue",
+          "fileBase": "AID_DM_AIDialogue"
+        },
+        {
+          "titleKey": "labels.aiDialogueSlides",
+          "fileBase": "AID_DM_AIDialogue_Slides",
+          "fileExtension": ["pdf", "pptx"]
+        }
+      ]
+    },
+    {
+      "code": "TU2",
+      "labelKey": "labels.teachingUnit2",
+      "titleKey": "modules.m3.tu2",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M3_TU2_Slides",
+          "fileExtension": ["pdf", "pptx"]
+        }
+      ],
+      "extraAssets": [
+        {
+          "titleKey": "labels.quotesSheet",
+          "fileBase": "AID_M3_TU2_Quotes"
+        }
+      ]
+    },
+    {
+      "code": "TU3",
+      "labelKey": "labels.teachingUnit3",
+      "titleKey": "modules.m3.tu3",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M3_TU3_Slides",
+          "fileExtension": ["pdf", "pptx"]
+        }
+      ]
+    },
+    {
+      "code": "TU4",
+      "labelKey": "labels.teachingUnit4",
+      "titleKey": "modules.m3.tu4",
+      "assets": [
+        {
+          "titleKey": "labels.slides",
+          "fileBase": "AID_M3_TU4_Slides",
+          "fileExtension": ["pdf", "pptx"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6697 @@
+{
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "Stellen Sie sich vor, Sie bewerben sich für einen neuen Job, zu einem Interview eingeladen werden, und Ihr erstes Gespräch mit dem Unternehmen findet mit einem Computer statt. Bevor eine echte Person dir zuhört, ein KI-System analysiert den Strom Ihrer Daten und generiert einen Bericht. Erst dann entscheiden die Personalvermittler, ob Sie ein Ablehnungsschreiben oder gehe in die nächste Runde. Das liegt daran, dass Unternehmen KI einsetzen, um Kosten zu senken. und Personalprozesse effizienter gestalten. Das kann zwar gut fürs Geschäft sein, es fühlt sich dystopisch an, von einer Maschine analysiert zu werden. Das Hauptproblem bei automatisierten Entscheidungssystemen oder ADM ist, dass ihre Algorithmen und Kriterien nicht immer transparent sind, und sie können Dinge wie deine Gesichtsausdrücke analysieren, Gesten oder Tonfall, um ihre Entscheidungen zu treffen. Manchmal wissen nicht einmal die Macher, was die Kriterien sind, da KI ein selbstlernendes System ist, das ständig aktualisiert wird. Das Ergebnis kann dazu führen, dass sich die aktuellen Unterschiede in unserer Gesellschaft noch verschärfen. Schlechte Muster können von den Maschinen repliziert werden, wenn Trainingsdaten und Personen, die Entscheidungen im Zusammenhang mit KI treffen konzentrieren Sie sich nicht auf Gleichheit und Vielfalt. Zum Beispiel wenn ein Beruf traditionell von einem Geschlecht dominiert wurde, Die KI wird das immer wieder wiederholen. Einige KI-Systeme verwenden prädiktive Technologien, die zu Datenschutzproblemen führen können. Zum Beispiel KI kann den Tonfall oder das Aussehen eines Kandidaten analysieren um Faktoren wie Depressionen oder Erkrankungen vorherzusagen, was bei der Einstellung nicht berücksichtigt werden sollte. So wie die Daten europäischer Nutzer durch das DSGVO-Gesetz geschützt sind, Bewerber müssen entscheiden können, ob sie von KI bewertet werden möchten oder nicht. Außerdem die von der KI verwendeten Kriterien müssen transparent sein und es ermöglichen, im Falle von Fehlern Berufung einzulegen, damit dem System vertraut werden kann und die Kandidaten die Chance haben, sich zu verbessern. KI kann aber auch denjenigen helfen, die einen Job suchen. Tools wie Chat GPT können dir dabei helfen, dein Praktikum im Hintergrund zu organisieren Briefe und Lebensläufe, indem wichtige Stichwörter verwendet und Tippfehler korrigiert werden. Sie können auch ein Interview simulieren und Feedback zu Ihren Fähigkeiten erhalten. Aber obwohl es helfen kann, es vollbringt keine Wunder, aber du bist derjenige, der weiß, wie man sich am besten präsentiert. Unser Arbeitsleben wird von Tag zu Tag stärker von KI beeinflusst und bald werden die meisten Jobs einen gewissen Einfluss von diesen Systemen haben. Die Hauptspannung besteht zwischen der Fokussierung der KI auf Gewinne steigern oder KI einsetzen, um Arbeitnehmer zu stärken. Um dieses Problem zu lösen, bedarf es kollektiver Anstrengungen, damit wir Transparenz haben können, faire Repräsentation und geteilte Verantwortung. Du kannst auf viele Arten helfen, wie sich im Betriebsrat zu engagieren, die Auszubildendenvertretung, oder eine Gewerkschaft. Zusätzlich du kannst dich gegen algorithmische Diskriminierung einsetzen durch gesellschaftspolitisches Engagement. Besuchen Sie DemocracyAI.eu und erfahren Sie mehr darüber mit weiteren Videos und einem kostenlosen Online-Kurs."
+      }
+    ],
+    "items": [
+      {
+        "id": 0,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Stellen"
+          }
+        ],
+        "start_time": "1.519",
+        "end_time": "1.682"
+      },
+      {
+        "id": 1,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Sie"
+          }
+        ],
+        "start_time": "1.682",
+        "end_time": "1.844"
+      },
+      {
+        "id": 2,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sich"
+          }
+        ],
+        "start_time": "1.844",
+        "end_time": "2.007"
+      },
+      {
+        "id": 3,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vor"
+          }
+        ],
+        "start_time": "2.007",
+        "end_time": "2.170"
+      },
+      {
+        "id": 4,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Sie"
+          }
+        ],
+        "start_time": "2.170",
+        "end_time": "2.333"
+      },
+      {
+        "id": 6,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bewerben"
+          }
+        ],
+        "start_time": "2.333",
+        "end_time": "2.495"
+      },
+      {
+        "id": 7,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sich"
+          }
+        ],
+        "start_time": "2.495",
+        "end_time": "2.658"
+      },
+      {
+        "id": 8,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "für"
+          }
+        ],
+        "start_time": "2.658",
+        "end_time": "2.821"
+      },
+      {
+        "id": 9,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einen"
+          }
+        ],
+        "start_time": "2.821",
+        "end_time": "2.984"
+      },
+      {
+        "id": 10,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "neuen"
+          }
+        ],
+        "start_time": "2.984",
+        "end_time": "3.146"
+      },
+      {
+        "id": 11,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Job"
+          }
+        ],
+        "start_time": "3.146",
+        "end_time": "3.309"
+      },
+      {
+        "id": 12,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "3.400",
+        "end_time": "3.702"
+      },
+      {
+        "id": 14,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einem"
+          }
+        ],
+        "start_time": "3.702",
+        "end_time": "4.004"
+      },
+      {
+        "id": 15,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Interview"
+          }
+        ],
+        "start_time": "4.004",
+        "end_time": "4.305"
+      },
+      {
+        "id": 16,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "eingeladen"
+          }
+        ],
+        "start_time": "4.305",
+        "end_time": "4.607"
+      },
+      {
+        "id": 17,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werden"
+          }
+        ],
+        "start_time": "4.607",
+        "end_time": "4.909"
+      },
+      {
+        "id": 18,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "5.119",
+        "end_time": "5.368"
+      },
+      {
+        "id": 20,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Ihr"
+          }
+        ],
+        "start_time": "5.368",
+        "end_time": "5.617"
+      },
+      {
+        "id": 21,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "erstes"
+          }
+        ],
+        "start_time": "5.617",
+        "end_time": "5.866"
+      },
+      {
+        "id": 22,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gespräch"
+          }
+        ],
+        "start_time": "5.867",
+        "end_time": "6.116"
+      },
+      {
+        "id": 23,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mit"
+          }
+        ],
+        "start_time": "6.116",
+        "end_time": "6.365"
+      },
+      {
+        "id": 24,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dem"
+          }
+        ],
+        "start_time": "6.365",
+        "end_time": "6.614"
+      },
+      {
+        "id": 25,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Unternehmen"
+          }
+        ],
+        "start_time": "6.614",
+        "end_time": "6.863"
+      },
+      {
+        "id": 26,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "findet"
+          }
+        ],
+        "start_time": "6.863",
+        "end_time": "7.112"
+      },
+      {
+        "id": 27,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mit"
+          }
+        ],
+        "start_time": "7.112",
+        "end_time": "7.361"
+      },
+      {
+        "id": 28,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einem"
+          }
+        ],
+        "start_time": "7.361",
+        "end_time": "7.611"
+      },
+      {
+        "id": 29,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Computer"
+          }
+        ],
+        "start_time": "7.611",
+        "end_time": "7.860"
+      },
+      {
+        "id": 30,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "statt"
+          }
+        ],
+        "start_time": "7.860",
+        "end_time": "8.109"
+      },
+      {
+        "id": 31,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Bevor"
+          }
+        ],
+        "start_time": "8.970",
+        "end_time": "9.268"
+      },
+      {
+        "id": 33,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "eine"
+          }
+        ],
+        "start_time": "9.268",
+        "end_time": "9.567"
+      },
+      {
+        "id": 34,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echte"
+          }
+        ],
+        "start_time": "9.567",
+        "end_time": "9.865"
+      },
+      {
+        "id": 35,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Person"
+          }
+        ],
+        "start_time": "9.865",
+        "end_time": "10.163"
+      },
+      {
+        "id": 36,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dir"
+          }
+        ],
+        "start_time": "10.163",
+        "end_time": "10.462"
+      },
+      {
+        "id": 37,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zuhört"
+          }
+        ],
+        "start_time": "10.462",
+        "end_time": "10.760"
+      },
+      {
+        "id": 38,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ein"
+          }
+        ],
+        "start_time": "10.810",
+        "end_time": "11.209"
+      },
+      {
+        "id": 40,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI-System"
+          }
+        ],
+        "start_time": "11.209",
+        "end_time": "11.607"
+      },
+      {
+        "id": 41,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "analysiert"
+          }
+        ],
+        "start_time": "11.607",
+        "end_time": "12.006"
+      },
+      {
+        "id": 42,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "den"
+          }
+        ],
+        "start_time": "12.006",
+        "end_time": "12.404"
+      },
+      {
+        "id": 43,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Strom"
+          }
+        ],
+        "start_time": "12.404",
+        "end_time": "12.803"
+      },
+      {
+        "id": 44,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Ihrer"
+          }
+        ],
+        "start_time": "12.803",
+        "end_time": "13.201"
+      },
+      {
+        "id": 45,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Daten"
+          }
+        ],
+        "start_time": "13.201",
+        "end_time": "13.600"
+      },
+      {
+        "id": 46,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "13.810",
+        "end_time": "14.157"
+      },
+      {
+        "id": 47,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "generiert"
+          }
+        ],
+        "start_time": "14.157",
+        "end_time": "14.505"
+      },
+      {
+        "id": 48,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einen"
+          }
+        ],
+        "start_time": "14.505",
+        "end_time": "14.852"
+      },
+      {
+        "id": 49,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Bericht"
+          }
+        ],
+        "start_time": "14.852",
+        "end_time": "15.199"
+      },
+      {
+        "id": 50,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Erst"
+          }
+        ],
+        "start_time": "15.850",
+        "end_time": "16.221"
+      },
+      {
+        "id": 52,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dann"
+          }
+        ],
+        "start_time": "16.221",
+        "end_time": "16.593"
+      },
+      {
+        "id": 53,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "entscheiden"
+          }
+        ],
+        "start_time": "16.593",
+        "end_time": "16.964"
+      },
+      {
+        "id": 54,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "16.964",
+        "end_time": "17.336"
+      },
+      {
+        "id": 55,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Personalvermittler"
+          }
+        ],
+        "start_time": "17.336",
+        "end_time": "17.707"
+      },
+      {
+        "id": 56,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ob"
+          }
+        ],
+        "start_time": "17.707",
+        "end_time": "18.079"
+      },
+      {
+        "id": 58,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Sie"
+          }
+        ],
+        "start_time": "18.079",
+        "end_time": "18.450"
+      },
+      {
+        "id": 59,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ein"
+          }
+        ],
+        "start_time": "18.450",
+        "end_time": "18.769"
+      },
+      {
+        "id": 60,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Ablehnungsschreiben"
+          }
+        ],
+        "start_time": "18.769",
+        "end_time": "19.088"
+      },
+      {
+        "id": 61,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "oder"
+          }
+        ],
+        "start_time": "19.087",
+        "end_time": "19.406"
+      },
+      {
+        "id": 62,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gehe"
+          }
+        ],
+        "start_time": "19.406",
+        "end_time": "19.725"
+      },
+      {
+        "id": 63,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "19.725",
+        "end_time": "20.044"
+      },
+      {
+        "id": 64,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "20.044",
+        "end_time": "20.363"
+      },
+      {
+        "id": 65,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nächste"
+          }
+        ],
+        "start_time": "20.363",
+        "end_time": "20.681"
+      },
+      {
+        "id": 66,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Runde"
+          }
+        ],
+        "start_time": "20.681",
+        "end_time": "21.000"
+      },
+      {
+        "id": 67,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Das"
+          }
+        ],
+        "start_time": "21.889",
+        "end_time": "22.199"
+      },
+      {
+        "id": 69,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "liegt"
+          }
+        ],
+        "start_time": "22.199",
+        "end_time": "22.509"
+      },
+      {
+        "id": 70,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "daran"
+          }
+        ],
+        "start_time": "22.509",
+        "end_time": "22.819"
+      },
+      {
+        "id": 71,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dass"
+          }
+        ],
+        "start_time": "22.819",
+        "end_time": "23.129"
+      },
+      {
+        "id": 73,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Unternehmen"
+          }
+        ],
+        "start_time": "23.129",
+        "end_time": "23.439"
+      },
+      {
+        "id": 74,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "23.439",
+        "end_time": "23.749"
+      },
+      {
+        "id": 75,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einsetzen"
+          }
+        ],
+        "start_time": "23.749",
+        "end_time": "24.059"
+      },
+      {
+        "id": 76,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "um"
+          }
+        ],
+        "start_time": "24.059",
+        "end_time": "24.369"
+      },
+      {
+        "id": 78,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Kosten"
+          }
+        ],
+        "start_time": "24.369",
+        "end_time": "24.679"
+      },
+      {
+        "id": 79,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "24.679",
+        "end_time": "24.989"
+      },
+      {
+        "id": 80,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "senken"
+          }
+        ],
+        "start_time": "24.989",
+        "end_time": "25.299"
+      },
+      {
+        "id": 81,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "25.489",
+        "end_time": "26.151"
+      },
+      {
+        "id": 83,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Personalprozesse"
+          }
+        ],
+        "start_time": "26.151",
+        "end_time": "26.814"
+      },
+      {
+        "id": 84,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "effizienter"
+          }
+        ],
+        "start_time": "26.814",
+        "end_time": "27.477"
+      },
+      {
+        "id": 85,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gestalten"
+          }
+        ],
+        "start_time": "27.477",
+        "end_time": "28.139"
+      },
+      {
+        "id": 86,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Das"
+          }
+        ],
+        "start_time": "28.510",
+        "end_time": "28.760"
+      },
+      {
+        "id": 88,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kann"
+          }
+        ],
+        "start_time": "28.760",
+        "end_time": "29.010"
+      },
+      {
+        "id": 89,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zwar"
+          }
+        ],
+        "start_time": "29.010",
+        "end_time": "29.260"
+      },
+      {
+        "id": 90,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gut"
+          }
+        ],
+        "start_time": "29.260",
+        "end_time": "29.510"
+      },
+      {
+        "id": 91,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "fürs"
+          }
+        ],
+        "start_time": "29.510",
+        "end_time": "29.760"
+      },
+      {
+        "id": 92,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Geschäft"
+          }
+        ],
+        "start_time": "29.760",
+        "end_time": "30.010"
+      },
+      {
+        "id": 93,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sein"
+          }
+        ],
+        "start_time": "30.010",
+        "end_time": "30.260"
+      },
+      {
+        "id": 94,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "es"
+          }
+        ],
+        "start_time": "30.430",
+        "end_time": "30.680"
+      },
+      {
+        "id": 96,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "fühlt"
+          }
+        ],
+        "start_time": "30.680",
+        "end_time": "30.930"
+      },
+      {
+        "id": 97,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sich"
+          }
+        ],
+        "start_time": "30.930",
+        "end_time": "31.180"
+      },
+      {
+        "id": 98,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dystopisch"
+          }
+        ],
+        "start_time": "31.180",
+        "end_time": "31.430"
+      },
+      {
+        "id": 99,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "an"
+          }
+        ],
+        "start_time": "31.430",
+        "end_time": "31.680"
+      },
+      {
+        "id": 100,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "31.680",
+        "end_time": "31.930"
+      },
+      {
+        "id": 102,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einer"
+          }
+        ],
+        "start_time": "31.930",
+        "end_time": "32.180"
+      },
+      {
+        "id": 103,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Maschine"
+          }
+        ],
+        "start_time": "32.180",
+        "end_time": "32.430"
+      },
+      {
+        "id": 104,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "analysiert"
+          }
+        ],
+        "start_time": "32.430",
+        "end_time": "32.680"
+      },
+      {
+        "id": 105,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "32.680",
+        "end_time": "32.930"
+      },
+      {
+        "id": 106,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werden"
+          }
+        ],
+        "start_time": "32.930",
+        "end_time": "33.180"
+      },
+      {
+        "id": 107,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Das"
+          }
+        ],
+        "start_time": "39.200",
+        "end_time": "39.774"
+      },
+      {
+        "id": 109,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Hauptproblem"
+          }
+        ],
+        "start_time": "39.774",
+        "end_time": "40.349"
+      },
+      {
+        "id": 110,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bei"
+          }
+        ],
+        "start_time": "40.349",
+        "end_time": "40.923"
+      },
+      {
+        "id": 111,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "automatisierten"
+          }
+        ],
+        "start_time": "40.923",
+        "end_time": "41.497"
+      },
+      {
+        "id": 112,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Entscheidungssystemen"
+          }
+        ],
+        "start_time": "41.497",
+        "end_time": "42.071"
+      },
+      {
+        "id": 113,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "oder"
+          }
+        ],
+        "start_time": "42.071",
+        "end_time": "42.646"
+      },
+      {
+        "id": 114,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ADM"
+          }
+        ],
+        "start_time": "42.646",
+        "end_time": "43.220"
+      },
+      {
+        "id": 115,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ist"
+          }
+        ],
+        "start_time": "43.220",
+        "end_time": "43.593"
+      },
+      {
+        "id": 116,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 117,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dass"
+          }
+        ],
+        "start_time": "43.593",
+        "end_time": "43.966"
+      },
+      {
+        "id": 118,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ihre"
+          }
+        ],
+        "start_time": "43.966",
+        "end_time": "44.339"
+      },
+      {
+        "id": 119,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Algorithmen"
+          }
+        ],
+        "start_time": "44.339",
+        "end_time": "44.712"
+      },
+      {
+        "id": 120,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "44.712",
+        "end_time": "45.085"
+      },
+      {
+        "id": 121,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Kriterien"
+          }
+        ],
+        "start_time": "45.085",
+        "end_time": "45.458"
+      },
+      {
+        "id": 122,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nicht"
+          }
+        ],
+        "start_time": "45.458",
+        "end_time": "45.831"
+      },
+      {
+        "id": 123,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "immer"
+          }
+        ],
+        "start_time": "45.831",
+        "end_time": "46.204"
+      },
+      {
+        "id": 124,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "transparent"
+          }
+        ],
+        "start_time": "46.204",
+        "end_time": "46.577"
+      },
+      {
+        "id": 125,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sind"
+          }
+        ],
+        "start_time": "46.577",
+        "end_time": "46.950"
+      },
+      {
+        "id": 126,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 127,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "47.360",
+        "end_time": "47.679"
+      },
+      {
+        "id": 128,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sie"
+          }
+        ],
+        "start_time": "47.679",
+        "end_time": "47.997"
+      },
+      {
+        "id": 129,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "können"
+          }
+        ],
+        "start_time": "47.997",
+        "end_time": "48.316"
+      },
+      {
+        "id": 130,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Dinge"
+          }
+        ],
+        "start_time": "48.316",
+        "end_time": "48.634"
+      },
+      {
+        "id": 131,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wie"
+          }
+        ],
+        "start_time": "48.635",
+        "end_time": "48.953"
+      },
+      {
+        "id": 132,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "deine"
+          }
+        ],
+        "start_time": "48.953",
+        "end_time": "49.272"
+      },
+      {
+        "id": 133,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gesichtsausdrücke"
+          }
+        ],
+        "start_time": "49.272",
+        "end_time": "49.590"
+      },
+      {
+        "id": 134,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "analysieren"
+          }
+        ],
+        "start_time": "49.590",
+        "end_time": "49.909"
+      },
+      {
+        "id": 135,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 136,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gesten"
+          }
+        ],
+        "start_time": "50.080",
+        "end_time": "50.435"
+      },
+      {
+        "id": 137,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "oder"
+          }
+        ],
+        "start_time": "50.435",
+        "end_time": "50.790"
+      },
+      {
+        "id": 138,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Tonfall"
+          }
+        ],
+        "start_time": "50.790",
+        "end_time": "51.145"
+      },
+      {
+        "id": 139,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 140,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "um"
+          }
+        ],
+        "start_time": "51.145",
+        "end_time": "51.499"
+      },
+      {
+        "id": 141,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ihre"
+          }
+        ],
+        "start_time": "51.499",
+        "end_time": "51.854"
+      },
+      {
+        "id": 142,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Entscheidungen"
+          }
+        ],
+        "start_time": "51.854",
+        "end_time": "52.209"
+      },
+      {
+        "id": 143,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "52.209",
+        "end_time": "52.564"
+      },
+      {
+        "id": 144,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "treffen"
+          }
+        ],
+        "start_time": "52.564",
+        "end_time": "52.919"
+      },
+      {
+        "id": 145,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Manchmal"
+          }
+        ],
+        "start_time": "54.049",
+        "end_time": "54.347"
+      },
+      {
+        "id": 147,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wissen"
+          }
+        ],
+        "start_time": "54.347",
+        "end_time": "54.645"
+      },
+      {
+        "id": 148,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nicht"
+          }
+        ],
+        "start_time": "54.645",
+        "end_time": "54.943"
+      },
+      {
+        "id": 149,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einmal"
+          }
+        ],
+        "start_time": "54.943",
+        "end_time": "55.241"
+      },
+      {
+        "id": 150,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "55.241",
+        "end_time": "55.539"
+      },
+      {
+        "id": 151,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Macher"
+          }
+        ],
+        "start_time": "55.539",
+        "end_time": "55.837"
+      },
+      {
+        "id": 152,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "was"
+          }
+        ],
+        "start_time": "55.837",
+        "end_time": "56.135"
+      },
+      {
+        "id": 154,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "56.135",
+        "end_time": "56.433"
+      },
+      {
+        "id": 155,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Kriterien"
+          }
+        ],
+        "start_time": "56.433",
+        "end_time": "56.731"
+      },
+      {
+        "id": 156,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sind"
+          }
+        ],
+        "start_time": "56.731",
+        "end_time": "57.029"
+      },
+      {
+        "id": 157,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 158,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "da"
+          }
+        ],
+        "start_time": "57.209",
+        "end_time": "57.560"
+      },
+      {
+        "id": 159,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "57.560",
+        "end_time": "57.911"
+      },
+      {
+        "id": 160,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ein"
+          }
+        ],
+        "start_time": "57.911",
+        "end_time": "58.262"
+      },
+      {
+        "id": 161,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "selbstlernendes"
+          }
+        ],
+        "start_time": "58.262",
+        "end_time": "58.613"
+      },
+      {
+        "id": 162,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "System"
+          }
+        ],
+        "start_time": "58.613",
+        "end_time": "58.965"
+      },
+      {
+        "id": 163,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ist"
+          }
+        ],
+        "start_time": "58.965",
+        "end_time": "59.316"
+      },
+      {
+        "id": 164,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 165,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "das"
+          }
+        ],
+        "start_time": "59.316",
+        "end_time": "59.667"
+      },
+      {
+        "id": 166,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ständig"
+          }
+        ],
+        "start_time": "59.667",
+        "end_time": "60.018"
+      },
+      {
+        "id": 167,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "aktualisiert"
+          }
+        ],
+        "start_time": "60.018",
+        "end_time": "60.369"
+      },
+      {
+        "id": 168,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wird"
+          }
+        ],
+        "start_time": "60.369",
+        "end_time": "60.720"
+      },
+      {
+        "id": 169,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 170,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Das"
+          }
+        ],
+        "start_time": "61.009",
+        "end_time": "61.271"
+      },
+      {
+        "id": 171,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Ergebnis"
+          }
+        ],
+        "start_time": "61.271",
+        "end_time": "61.533"
+      },
+      {
+        "id": 172,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kann"
+          }
+        ],
+        "start_time": "61.533",
+        "end_time": "61.795"
+      },
+      {
+        "id": 173,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dazu"
+          }
+        ],
+        "start_time": "61.795",
+        "end_time": "62.057"
+      },
+      {
+        "id": 174,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "führen"
+          }
+        ],
+        "start_time": "62.057",
+        "end_time": "62.319"
+      },
+      {
+        "id": 175,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 176,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dass"
+          }
+        ],
+        "start_time": "62.319",
+        "end_time": "62.581"
+      },
+      {
+        "id": 177,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sich"
+          }
+        ],
+        "start_time": "62.581",
+        "end_time": "62.843"
+      },
+      {
+        "id": 178,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "62.843",
+        "end_time": "63.106"
+      },
+      {
+        "id": 179,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "aktuellen"
+          }
+        ],
+        "start_time": "63.106",
+        "end_time": "63.368"
+      },
+      {
+        "id": 180,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Unterschiede"
+          }
+        ],
+        "start_time": "63.368",
+        "end_time": "63.630"
+      },
+      {
+        "id": 181,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "63.630",
+        "end_time": "63.892"
+      },
+      {
+        "id": 182,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "unserer"
+          }
+        ],
+        "start_time": "63.892",
+        "end_time": "64.154"
+      },
+      {
+        "id": 183,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gesellschaft"
+          }
+        ],
+        "start_time": "64.154",
+        "end_time": "64.416"
+      },
+      {
+        "id": 184,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "noch"
+          }
+        ],
+        "start_time": "64.416",
+        "end_time": "64.678"
+      },
+      {
+        "id": 185,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verschärfen"
+          }
+        ],
+        "start_time": "64.678",
+        "end_time": "64.940"
+      },
+      {
+        "id": 186,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 187,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Schlechte"
+          }
+        ],
+        "start_time": "65.919",
+        "end_time": "66.257"
+      },
+      {
+        "id": 188,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Muster"
+          }
+        ],
+        "start_time": "66.257",
+        "end_time": "66.595"
+      },
+      {
+        "id": 189,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "können"
+          }
+        ],
+        "start_time": "66.595",
+        "end_time": "66.932"
+      },
+      {
+        "id": 190,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "66.932",
+        "end_time": "67.270"
+      },
+      {
+        "id": 191,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "den"
+          }
+        ],
+        "start_time": "67.270",
+        "end_time": "67.608"
+      },
+      {
+        "id": 192,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Maschinen"
+          }
+        ],
+        "start_time": "67.608",
+        "end_time": "67.946"
+      },
+      {
+        "id": 193,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "repliziert"
+          }
+        ],
+        "start_time": "67.946",
+        "end_time": "68.283"
+      },
+      {
+        "id": 194,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werden"
+          }
+        ],
+        "start_time": "68.283",
+        "end_time": "68.621"
+      },
+      {
+        "id": 195,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 196,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wenn"
+          }
+        ],
+        "start_time": "68.621",
+        "end_time": "68.959"
+      },
+      {
+        "id": 197,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Trainingsdaten"
+          }
+        ],
+        "start_time": "68.959",
+        "end_time": "69.302"
+      },
+      {
+        "id": 198,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "69.302",
+        "end_time": "69.645"
+      },
+      {
+        "id": 199,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Personen"
+          }
+        ],
+        "start_time": "69.645",
+        "end_time": "69.988"
+      },
+      {
+        "id": 200,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 201,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "69.988",
+        "end_time": "70.331"
+      },
+      {
+        "id": 202,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Entscheidungen"
+          }
+        ],
+        "start_time": "70.331",
+        "end_time": "70.674"
+      },
+      {
+        "id": 203,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "im"
+          }
+        ],
+        "start_time": "70.674",
+        "end_time": "71.017"
+      },
+      {
+        "id": 204,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Zusammenhang"
+          }
+        ],
+        "start_time": "71.017",
+        "end_time": "71.360"
+      },
+      {
+        "id": 205,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mit"
+          }
+        ],
+        "start_time": "71.360",
+        "end_time": "71.703"
+      },
+      {
+        "id": 206,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "71.703",
+        "end_time": "72.046"
+      },
+      {
+        "id": 207,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "treffen"
+          }
+        ],
+        "start_time": "72.046",
+        "end_time": "72.389"
+      },
+      {
+        "id": 208,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "konzentrieren"
+          }
+        ],
+        "start_time": "72.599",
+        "end_time": "72.894"
+      },
+      {
+        "id": 209,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Sie"
+          }
+        ],
+        "start_time": "72.894",
+        "end_time": "73.189"
+      },
+      {
+        "id": 210,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sich"
+          }
+        ],
+        "start_time": "73.189",
+        "end_time": "73.484"
+      },
+      {
+        "id": 211,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nicht"
+          }
+        ],
+        "start_time": "73.484",
+        "end_time": "73.779"
+      },
+      {
+        "id": 212,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "auf"
+          }
+        ],
+        "start_time": "73.779",
+        "end_time": "74.074"
+      },
+      {
+        "id": 213,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gleichheit"
+          }
+        ],
+        "start_time": "74.074",
+        "end_time": "74.369"
+      },
+      {
+        "id": 214,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "74.369",
+        "end_time": "74.664"
+      },
+      {
+        "id": 215,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Vielfalt"
+          }
+        ],
+        "start_time": "74.664",
+        "end_time": "74.959"
+      },
+      {
+        "id": 216,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 217,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Zum"
+          }
+        ],
+        "start_time": "75.559",
+        "end_time": "75.864"
+      },
+      {
+        "id": 218,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Beispiel"
+          }
+        ],
+        "start_time": "75.864",
+        "end_time": "76.169"
+      },
+      {
+        "id": 219,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wenn"
+          }
+        ],
+        "start_time": "76.279",
+        "end_time": "76.607"
+      },
+      {
+        "id": 220,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ein"
+          }
+        ],
+        "start_time": "76.607",
+        "end_time": "76.935"
+      },
+      {
+        "id": 221,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Beruf"
+          }
+        ],
+        "start_time": "76.935",
+        "end_time": "77.263"
+      },
+      {
+        "id": 222,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "traditionell"
+          }
+        ],
+        "start_time": "77.263",
+        "end_time": "77.591"
+      },
+      {
+        "id": 223,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "77.591",
+        "end_time": "77.918"
+      },
+      {
+        "id": 224,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einem"
+          }
+        ],
+        "start_time": "77.918",
+        "end_time": "78.246"
+      },
+      {
+        "id": 225,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Geschlecht"
+          }
+        ],
+        "start_time": "78.246",
+        "end_time": "78.574"
+      },
+      {
+        "id": 226,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dominiert"
+          }
+        ],
+        "start_time": "78.574",
+        "end_time": "78.902"
+      },
+      {
+        "id": 227,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wurde"
+          }
+        ],
+        "start_time": "78.902",
+        "end_time": "79.230"
+      },
+      {
+        "id": 228,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 229,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Die"
+          }
+        ],
+        "start_time": "79.519",
+        "end_time": "79.758"
+      },
+      {
+        "id": 230,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "79.758",
+        "end_time": "79.996"
+      },
+      {
+        "id": 231,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wird"
+          }
+        ],
+        "start_time": "79.996",
+        "end_time": "80.235"
+      },
+      {
+        "id": 232,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "das"
+          }
+        ],
+        "start_time": "80.235",
+        "end_time": "80.474"
+      },
+      {
+        "id": 233,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "immer"
+          }
+        ],
+        "start_time": "80.474",
+        "end_time": "80.713"
+      },
+      {
+        "id": 234,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wieder"
+          }
+        ],
+        "start_time": "80.713",
+        "end_time": "80.951"
+      },
+      {
+        "id": 235,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wiederholen"
+          }
+        ],
+        "start_time": "80.951",
+        "end_time": "81.190"
+      },
+      {
+        "id": 236,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 237,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Einige"
+          }
+        ],
+        "start_time": "81.639",
+        "end_time": "82.067"
+      },
+      {
+        "id": 238,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI-Systeme"
+          }
+        ],
+        "start_time": "82.067",
+        "end_time": "82.495"
+      },
+      {
+        "id": 239,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verwenden"
+          }
+        ],
+        "start_time": "82.495",
+        "end_time": "82.923"
+      },
+      {
+        "id": 240,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "prädiktive"
+          }
+        ],
+        "start_time": "82.923",
+        "end_time": "83.351"
+      },
+      {
+        "id": 241,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Technologien"
+          }
+        ],
+        "start_time": "83.351",
+        "end_time": "83.779"
+      },
+      {
+        "id": 242,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 243,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "83.779",
+        "end_time": "84.207"
+      },
+      {
+        "id": 244,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "84.207",
+        "end_time": "84.635"
+      },
+      {
+        "id": 245,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Datenschutzproblemen"
+          }
+        ],
+        "start_time": "84.635",
+        "end_time": "85.063"
+      },
+      {
+        "id": 246,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "führen"
+          }
+        ],
+        "start_time": "85.063",
+        "end_time": "85.491"
+      },
+      {
+        "id": 247,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "können"
+          }
+        ],
+        "start_time": "85.491",
+        "end_time": "85.919"
+      },
+      {
+        "id": 248,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 249,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Zum"
+          }
+        ],
+        "start_time": "86.470",
+        "end_time": "86.700"
+      },
+      {
+        "id": 250,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Beispiel"
+          }
+        ],
+        "start_time": "86.700",
+        "end_time": "86.930"
+      },
+      {
+        "id": 251,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "87.069",
+        "end_time": "87.359"
+      },
+      {
+        "id": 252,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kann"
+          }
+        ],
+        "start_time": "87.359",
+        "end_time": "87.649"
+      },
+      {
+        "id": 253,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "den"
+          }
+        ],
+        "start_time": "87.649",
+        "end_time": "87.939"
+      },
+      {
+        "id": 254,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Tonfall"
+          }
+        ],
+        "start_time": "87.939",
+        "end_time": "88.229"
+      },
+      {
+        "id": 255,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "oder"
+          }
+        ],
+        "start_time": "88.229",
+        "end_time": "88.519"
+      },
+      {
+        "id": 256,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "das"
+          }
+        ],
+        "start_time": "88.519",
+        "end_time": "88.810"
+      },
+      {
+        "id": 257,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Aussehen"
+          }
+        ],
+        "start_time": "88.810",
+        "end_time": "89.100"
+      },
+      {
+        "id": 258,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "eines"
+          }
+        ],
+        "start_time": "89.100",
+        "end_time": "89.390"
+      },
+      {
+        "id": 259,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Kandidaten"
+          }
+        ],
+        "start_time": "89.390",
+        "end_time": "89.680"
+      },
+      {
+        "id": 260,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "analysieren"
+          }
+        ],
+        "start_time": "89.680",
+        "end_time": "89.970"
+      },
+      {
+        "id": 261,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "um"
+          }
+        ],
+        "start_time": "90.190",
+        "end_time": "90.607"
+      },
+      {
+        "id": 262,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Faktoren"
+          }
+        ],
+        "start_time": "90.607",
+        "end_time": "91.024"
+      },
+      {
+        "id": 263,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wie"
+          }
+        ],
+        "start_time": "91.024",
+        "end_time": "91.441"
+      },
+      {
+        "id": 264,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Depressionen"
+          }
+        ],
+        "start_time": "91.441",
+        "end_time": "91.859"
+      },
+      {
+        "id": 265,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "oder"
+          }
+        ],
+        "start_time": "91.859",
+        "end_time": "92.276"
+      },
+      {
+        "id": 266,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Erkrankungen"
+          }
+        ],
+        "start_time": "92.276",
+        "end_time": "92.693"
+      },
+      {
+        "id": 267,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vorherzusagen"
+          }
+        ],
+        "start_time": "92.693",
+        "end_time": "93.110"
+      },
+      {
+        "id": 268,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 269,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "was"
+          }
+        ],
+        "start_time": "93.180",
+        "end_time": "93.410"
+      },
+      {
+        "id": 270,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bei"
+          }
+        ],
+        "start_time": "93.410",
+        "end_time": "93.640"
+      },
+      {
+        "id": 271,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "der"
+          }
+        ],
+        "start_time": "93.640",
+        "end_time": "93.870"
+      },
+      {
+        "id": 272,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Einstellung"
+          }
+        ],
+        "start_time": "93.870",
+        "end_time": "94.100"
+      },
+      {
+        "id": 273,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nicht"
+          }
+        ],
+        "start_time": "94.100",
+        "end_time": "94.329"
+      },
+      {
+        "id": 274,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "berücksichtigt"
+          }
+        ],
+        "start_time": "94.329",
+        "end_time": "94.559"
+      },
+      {
+        "id": 275,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werden"
+          }
+        ],
+        "start_time": "94.559",
+        "end_time": "94.789"
+      },
+      {
+        "id": 276,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sollte"
+          }
+        ],
+        "start_time": "94.789",
+        "end_time": "95.019"
+      },
+      {
+        "id": 277,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 278,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "So"
+          }
+        ],
+        "start_time": "95.309",
+        "end_time": "95.679"
+      },
+      {
+        "id": 279,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wie"
+          }
+        ],
+        "start_time": "95.679",
+        "end_time": "96.049"
+      },
+      {
+        "id": 280,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "96.049",
+        "end_time": "96.419"
+      },
+      {
+        "id": 281,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Daten"
+          }
+        ],
+        "start_time": "96.419",
+        "end_time": "96.789"
+      },
+      {
+        "id": 282,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "europäischer"
+          }
+        ],
+        "start_time": "96.789",
+        "end_time": "97.159"
+      },
+      {
+        "id": 283,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Nutzer"
+          }
+        ],
+        "start_time": "97.159",
+        "end_time": "97.529"
+      },
+      {
+        "id": 284,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "durch"
+          }
+        ],
+        "start_time": "97.529",
+        "end_time": "97.899"
+      },
+      {
+        "id": 285,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "das"
+          }
+        ],
+        "start_time": "97.899",
+        "end_time": "98.269"
+      },
+      {
+        "id": 286,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "DSGVO-Gesetz"
+          }
+        ],
+        "start_time": "98.269",
+        "end_time": "98.639"
+      },
+      {
+        "id": 287,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "geschützt"
+          }
+        ],
+        "start_time": "98.639",
+        "end_time": "99.009"
+      },
+      {
+        "id": 288,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sind"
+          }
+        ],
+        "start_time": "99.009",
+        "end_time": "99.379"
+      },
+      {
+        "id": 289,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Bewerber"
+          }
+        ],
+        "start_time": "99.669",
+        "end_time": "100.033"
+      },
+      {
+        "id": 291,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "müssen"
+          }
+        ],
+        "start_time": "100.033",
+        "end_time": "100.397"
+      },
+      {
+        "id": 292,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "entscheiden"
+          }
+        ],
+        "start_time": "100.397",
+        "end_time": "100.761"
+      },
+      {
+        "id": 293,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "können"
+          }
+        ],
+        "start_time": "100.761",
+        "end_time": "101.125"
+      },
+      {
+        "id": 294,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 295,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ob"
+          }
+        ],
+        "start_time": "101.125",
+        "end_time": "101.489"
+      },
+      {
+        "id": 296,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sie"
+          }
+        ],
+        "start_time": "101.489",
+        "end_time": "101.853"
+      },
+      {
+        "id": 297,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "101.853",
+        "end_time": "102.216"
+      },
+      {
+        "id": 298,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "102.216",
+        "end_time": "102.580"
+      },
+      {
+        "id": 299,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bewertet"
+          }
+        ],
+        "start_time": "102.580",
+        "end_time": "102.944"
+      },
+      {
+        "id": 300,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werden"
+          }
+        ],
+        "start_time": "102.944",
+        "end_time": "103.308"
+      },
+      {
+        "id": 301,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "möchten"
+          }
+        ],
+        "start_time": "103.308",
+        "end_time": "103.672"
+      },
+      {
+        "id": 302,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "oder"
+          }
+        ],
+        "start_time": "103.672",
+        "end_time": "104.036"
+      },
+      {
+        "id": 303,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nicht"
+          }
+        ],
+        "start_time": "104.036",
+        "end_time": "104.400"
+      },
+      {
+        "id": 304,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 305,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Außerdem"
+          }
+        ],
+        "start_time": "105.069",
+        "end_time": "105.500"
+      },
+      {
+        "id": 306,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "105.629",
+        "end_time": "105.906"
+      },
+      {
+        "id": 307,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "105.906",
+        "end_time": "106.184"
+      },
+      {
+        "id": 308,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "der"
+          }
+        ],
+        "start_time": "106.184",
+        "end_time": "106.461"
+      },
+      {
+        "id": 309,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "106.461",
+        "end_time": "106.738"
+      },
+      {
+        "id": 310,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verwendeten"
+          }
+        ],
+        "start_time": "106.738",
+        "end_time": "107.015"
+      },
+      {
+        "id": 311,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Kriterien"
+          }
+        ],
+        "start_time": "107.015",
+        "end_time": "107.293"
+      },
+      {
+        "id": 312,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "müssen"
+          }
+        ],
+        "start_time": "107.293",
+        "end_time": "107.570"
+      },
+      {
+        "id": 313,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "transparent"
+          }
+        ],
+        "start_time": "107.570",
+        "end_time": "107.847"
+      },
+      {
+        "id": 314,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sein"
+          }
+        ],
+        "start_time": "107.847",
+        "end_time": "108.125"
+      },
+      {
+        "id": 315,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "108.125",
+        "end_time": "108.402"
+      },
+      {
+        "id": 316,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "es"
+          }
+        ],
+        "start_time": "108.402",
+        "end_time": "108.679"
+      },
+      {
+        "id": 317,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ermöglichen"
+          }
+        ],
+        "start_time": "108.679",
+        "end_time": "108.956"
+      },
+      {
+        "id": 318,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 319,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "im"
+          }
+        ],
+        "start_time": "108.956",
+        "end_time": "109.234"
+      },
+      {
+        "id": 320,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Falle"
+          }
+        ],
+        "start_time": "109.234",
+        "end_time": "109.511"
+      },
+      {
+        "id": 321,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "109.511",
+        "end_time": "109.788"
+      },
+      {
+        "id": 322,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Fehlern"
+          }
+        ],
+        "start_time": "109.788",
+        "end_time": "110.065"
+      },
+      {
+        "id": 323,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Berufung"
+          }
+        ],
+        "start_time": "110.065",
+        "end_time": "110.343"
+      },
+      {
+        "id": 324,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einzulegen"
+          }
+        ],
+        "start_time": "110.343",
+        "end_time": "110.620"
+      },
+      {
+        "id": 325,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 326,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "damit"
+          }
+        ],
+        "start_time": "110.910",
+        "end_time": "111.147"
+      },
+      {
+        "id": 327,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dem"
+          }
+        ],
+        "start_time": "111.147",
+        "end_time": "111.383"
+      },
+      {
+        "id": 328,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "System"
+          }
+        ],
+        "start_time": "111.383",
+        "end_time": "111.620"
+      },
+      {
+        "id": 329,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vertraut"
+          }
+        ],
+        "start_time": "111.620",
+        "end_time": "111.856"
+      },
+      {
+        "id": 330,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werden"
+          }
+        ],
+        "start_time": "111.856",
+        "end_time": "112.093"
+      },
+      {
+        "id": 331,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kann"
+          }
+        ],
+        "start_time": "112.093",
+        "end_time": "112.330"
+      },
+      {
+        "id": 332,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "112.330",
+        "end_time": "112.566"
+      },
+      {
+        "id": 333,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "112.566",
+        "end_time": "112.803"
+      },
+      {
+        "id": 334,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Kandidaten"
+          }
+        ],
+        "start_time": "112.803",
+        "end_time": "113.039"
+      },
+      {
+        "id": 335,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "113.039",
+        "end_time": "113.276"
+      },
+      {
+        "id": 336,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Chance"
+          }
+        ],
+        "start_time": "113.276",
+        "end_time": "113.513"
+      },
+      {
+        "id": 337,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "haben"
+          }
+        ],
+        "start_time": "113.513",
+        "end_time": "113.749"
+      },
+      {
+        "id": 338,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sich"
+          }
+        ],
+        "start_time": "113.749",
+        "end_time": "113.986"
+      },
+      {
+        "id": 340,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "113.986",
+        "end_time": "114.222"
+      },
+      {
+        "id": 341,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verbessern"
+          }
+        ],
+        "start_time": "114.222",
+        "end_time": "114.459"
+      },
+      {
+        "id": 342,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 343,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "114.790",
+        "end_time": "115.051"
+      },
+      {
+        "id": 344,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kann"
+          }
+        ],
+        "start_time": "115.051",
+        "end_time": "115.312"
+      },
+      {
+        "id": 345,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "aber"
+          }
+        ],
+        "start_time": "115.312",
+        "end_time": "115.573"
+      },
+      {
+        "id": 346,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "auch"
+          }
+        ],
+        "start_time": "115.573",
+        "end_time": "115.834"
+      },
+      {
+        "id": 347,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "denjenigen"
+          }
+        ],
+        "start_time": "115.834",
+        "end_time": "116.095"
+      },
+      {
+        "id": 348,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "helfen"
+          }
+        ],
+        "start_time": "116.095",
+        "end_time": "116.356"
+      },
+      {
+        "id": 349,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 350,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "116.356",
+        "end_time": "116.617"
+      },
+      {
+        "id": 351,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einen"
+          }
+        ],
+        "start_time": "116.617",
+        "end_time": "116.878"
+      },
+      {
+        "id": 352,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Job"
+          }
+        ],
+        "start_time": "116.878",
+        "end_time": "117.139"
+      },
+      {
+        "id": 353,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "suchen"
+          }
+        ],
+        "start_time": "117.139",
+        "end_time": "117.400"
+      },
+      {
+        "id": 354,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 355,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Tools"
+          }
+        ],
+        "start_time": "117.930",
+        "end_time": "118.244"
+      },
+      {
+        "id": 356,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wie"
+          }
+        ],
+        "start_time": "118.244",
+        "end_time": "118.559"
+      },
+      {
+        "id": 357,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Chat"
+          }
+        ],
+        "start_time": "118.559",
+        "end_time": "118.873"
+      },
+      {
+        "id": 358,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "GPT"
+          }
+        ],
+        "start_time": "118.873",
+        "end_time": "119.187"
+      },
+      {
+        "id": 359,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "können"
+          }
+        ],
+        "start_time": "119.187",
+        "end_time": "119.501"
+      },
+      {
+        "id": 360,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dir"
+          }
+        ],
+        "start_time": "119.501",
+        "end_time": "119.816"
+      },
+      {
+        "id": 361,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dabei"
+          }
+        ],
+        "start_time": "119.816",
+        "end_time": "120.130"
+      },
+      {
+        "id": 362,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "helfen"
+          }
+        ],
+        "start_time": "120.130",
+        "end_time": "120.444"
+      },
+      {
+        "id": 363,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 364,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dein"
+          }
+        ],
+        "start_time": "120.444",
+        "end_time": "120.759"
+      },
+      {
+        "id": 365,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Praktikum"
+          }
+        ],
+        "start_time": "120.759",
+        "end_time": "121.073"
+      },
+      {
+        "id": 366,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "im"
+          }
+        ],
+        "start_time": "121.073",
+        "end_time": "121.387"
+      },
+      {
+        "id": 367,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Hintergrund"
+          }
+        ],
+        "start_time": "121.387",
+        "end_time": "121.701"
+      },
+      {
+        "id": 368,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "121.701",
+        "end_time": "122.016"
+      },
+      {
+        "id": 369,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "organisieren"
+          }
+        ],
+        "start_time": "122.016",
+        "end_time": "122.330"
+      },
+      {
+        "id": 370,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Briefe"
+          }
+        ],
+        "start_time": "122.330",
+        "end_time": "122.799"
+      },
+      {
+        "id": 371,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "122.799",
+        "end_time": "123.268"
+      },
+      {
+        "id": 372,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Lebensläufe"
+          }
+        ],
+        "start_time": "123.268",
+        "end_time": "123.737"
+      },
+      {
+        "id": 373,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 374,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "indem"
+          }
+        ],
+        "start_time": "123.737",
+        "end_time": "124.206"
+      },
+      {
+        "id": 375,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wichtige"
+          }
+        ],
+        "start_time": "124.206",
+        "end_time": "124.675"
+      },
+      {
+        "id": 376,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Stichwörter"
+          }
+        ],
+        "start_time": "124.675",
+        "end_time": "125.144"
+      },
+      {
+        "id": 377,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verwendet"
+          }
+        ],
+        "start_time": "125.144",
+        "end_time": "125.613"
+      },
+      {
+        "id": 378,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "125.613",
+        "end_time": "126.082"
+      },
+      {
+        "id": 379,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Tippfehler"
+          }
+        ],
+        "start_time": "126.082",
+        "end_time": "126.551"
+      },
+      {
+        "id": 380,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "korrigiert"
+          }
+        ],
+        "start_time": "126.551",
+        "end_time": "127.020"
+      },
+      {
+        "id": 381,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werden"
+          }
+        ],
+        "start_time": "127.020",
+        "end_time": "127.489"
+      },
+      {
+        "id": 382,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 383,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Sie"
+          }
+        ],
+        "start_time": "127.610",
+        "end_time": "127.929"
+      },
+      {
+        "id": 384,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "können"
+          }
+        ],
+        "start_time": "127.929",
+        "end_time": "128.248"
+      },
+      {
+        "id": 385,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "auch"
+          }
+        ],
+        "start_time": "128.248",
+        "end_time": "128.567"
+      },
+      {
+        "id": 386,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ein"
+          }
+        ],
+        "start_time": "128.567",
+        "end_time": "128.887"
+      },
+      {
+        "id": 387,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Interview"
+          }
+        ],
+        "start_time": "128.887",
+        "end_time": "129.206"
+      },
+      {
+        "id": 388,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "simulieren"
+          }
+        ],
+        "start_time": "129.206",
+        "end_time": "129.525"
+      },
+      {
+        "id": 389,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "129.525",
+        "end_time": "129.844"
+      },
+      {
+        "id": 390,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Feedback"
+          }
+        ],
+        "start_time": "129.844",
+        "end_time": "130.163"
+      },
+      {
+        "id": 391,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "130.163",
+        "end_time": "130.482"
+      },
+      {
+        "id": 392,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Ihren"
+          }
+        ],
+        "start_time": "130.482",
+        "end_time": "130.802"
+      },
+      {
+        "id": 393,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Fähigkeiten"
+          }
+        ],
+        "start_time": "130.802",
+        "end_time": "131.121"
+      },
+      {
+        "id": 394,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "erhalten"
+          }
+        ],
+        "start_time": "131.121",
+        "end_time": "131.440"
+      },
+      {
+        "id": 395,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 396,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Aber"
+          }
+        ],
+        "start_time": "131.649",
+        "end_time": "131.857"
+      },
+      {
+        "id": 397,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "obwohl"
+          }
+        ],
+        "start_time": "131.857",
+        "end_time": "132.065"
+      },
+      {
+        "id": 398,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "es"
+          }
+        ],
+        "start_time": "132.065",
+        "end_time": "132.274"
+      },
+      {
+        "id": 399,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "helfen"
+          }
+        ],
+        "start_time": "132.274",
+        "end_time": "132.482"
+      },
+      {
+        "id": 400,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kann"
+          }
+        ],
+        "start_time": "132.482",
+        "end_time": "132.690"
+      },
+      {
+        "id": 401,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 402,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "es"
+          }
+        ],
+        "start_time": "132.850",
+        "end_time": "133.218"
+      },
+      {
+        "id": 403,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vollbringt"
+          }
+        ],
+        "start_time": "133.218",
+        "end_time": "133.585"
+      },
+      {
+        "id": 404,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "keine"
+          }
+        ],
+        "start_time": "133.585",
+        "end_time": "133.952"
+      },
+      {
+        "id": 405,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Wunder"
+          }
+        ],
+        "start_time": "133.952",
+        "end_time": "134.320"
+      },
+      {
+        "id": 406,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 407,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "aber"
+          }
+        ],
+        "start_time": "134.610",
+        "end_time": "134.839"
+      },
+      {
+        "id": 408,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "du"
+          }
+        ],
+        "start_time": "134.839",
+        "end_time": "135.068"
+      },
+      {
+        "id": 409,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bist"
+          }
+        ],
+        "start_time": "135.068",
+        "end_time": "135.298"
+      },
+      {
+        "id": 410,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "derjenige"
+          }
+        ],
+        "start_time": "135.298",
+        "end_time": "135.527"
+      },
+      {
+        "id": 411,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 412,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "der"
+          }
+        ],
+        "start_time": "135.527",
+        "end_time": "135.756"
+      },
+      {
+        "id": 413,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "weiß"
+          }
+        ],
+        "start_time": "135.756",
+        "end_time": "135.985"
+      },
+      {
+        "id": 414,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 415,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wie"
+          }
+        ],
+        "start_time": "135.985",
+        "end_time": "136.214"
+      },
+      {
+        "id": 416,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "man"
+          }
+        ],
+        "start_time": "136.214",
+        "end_time": "136.443"
+      },
+      {
+        "id": 417,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sich"
+          }
+        ],
+        "start_time": "136.443",
+        "end_time": "136.673"
+      },
+      {
+        "id": 418,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "am"
+          }
+        ],
+        "start_time": "136.673",
+        "end_time": "136.902"
+      },
+      {
+        "id": 419,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "besten"
+          }
+        ],
+        "start_time": "136.902",
+        "end_time": "137.131"
+      },
+      {
+        "id": 420,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "präsentiert"
+          }
+        ],
+        "start_time": "137.131",
+        "end_time": "137.360"
+      },
+      {
+        "id": 421,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 422,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Unser"
+          }
+        ],
+        "start_time": "137.649",
+        "end_time": "137.946"
+      },
+      {
+        "id": 423,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Arbeitsleben"
+          }
+        ],
+        "start_time": "137.946",
+        "end_time": "138.244"
+      },
+      {
+        "id": 424,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wird"
+          }
+        ],
+        "start_time": "138.244",
+        "end_time": "138.541"
+      },
+      {
+        "id": 425,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "138.541",
+        "end_time": "138.838"
+      },
+      {
+        "id": 426,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Tag"
+          }
+        ],
+        "start_time": "138.838",
+        "end_time": "139.135"
+      },
+      {
+        "id": 427,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "139.135",
+        "end_time": "139.433"
+      },
+      {
+        "id": 428,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Tag"
+          }
+        ],
+        "start_time": "139.433",
+        "end_time": "139.730"
+      },
+      {
+        "id": 429,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "stärker"
+          }
+        ],
+        "start_time": "139.730",
+        "end_time": "140.027"
+      },
+      {
+        "id": 430,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "140.027",
+        "end_time": "140.324"
+      },
+      {
+        "id": 431,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "140.324",
+        "end_time": "140.622"
+      },
+      {
+        "id": 432,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "beeinflusst"
+          }
+        ],
+        "start_time": "140.622",
+        "end_time": "140.919"
+      },
+      {
+        "id": 433,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "141.169",
+        "end_time": "141.409"
+      },
+      {
+        "id": 434,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bald"
+          }
+        ],
+        "start_time": "141.409",
+        "end_time": "141.649"
+      },
+      {
+        "id": 435,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werden"
+          }
+        ],
+        "start_time": "141.649",
+        "end_time": "141.889"
+      },
+      {
+        "id": 436,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "141.889",
+        "end_time": "142.129"
+      },
+      {
+        "id": 437,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "meisten"
+          }
+        ],
+        "start_time": "142.129",
+        "end_time": "142.369"
+      },
+      {
+        "id": 438,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Jobs"
+          }
+        ],
+        "start_time": "142.369",
+        "end_time": "142.609"
+      },
+      {
+        "id": 439,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einen"
+          }
+        ],
+        "start_time": "142.609",
+        "end_time": "142.849"
+      },
+      {
+        "id": 440,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gewissen"
+          }
+        ],
+        "start_time": "142.849",
+        "end_time": "143.089"
+      },
+      {
+        "id": 441,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Einfluss"
+          }
+        ],
+        "start_time": "143.089",
+        "end_time": "143.329"
+      },
+      {
+        "id": 442,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "von"
+          }
+        ],
+        "start_time": "143.329",
+        "end_time": "143.569"
+      },
+      {
+        "id": 443,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "diesen"
+          }
+        ],
+        "start_time": "143.569",
+        "end_time": "143.809"
+      },
+      {
+        "id": 444,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Systemen"
+          }
+        ],
+        "start_time": "143.809",
+        "end_time": "144.049"
+      },
+      {
+        "id": 445,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "haben"
+          }
+        ],
+        "start_time": "144.049",
+        "end_time": "144.289"
+      },
+      {
+        "id": 446,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 447,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Die"
+          }
+        ],
+        "start_time": "144.889",
+        "end_time": "145.195"
+      },
+      {
+        "id": 448,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Hauptspannung"
+          }
+        ],
+        "start_time": "145.195",
+        "end_time": "145.500"
+      },
+      {
+        "id": 449,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "besteht"
+          }
+        ],
+        "start_time": "145.500",
+        "end_time": "145.806"
+      },
+      {
+        "id": 450,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zwischen"
+          }
+        ],
+        "start_time": "145.806",
+        "end_time": "146.111"
+      },
+      {
+        "id": 451,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "der"
+          }
+        ],
+        "start_time": "146.111",
+        "end_time": "146.417"
+      },
+      {
+        "id": 452,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Fokussierung"
+          }
+        ],
+        "start_time": "146.417",
+        "end_time": "146.722"
+      },
+      {
+        "id": 453,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "der"
+          }
+        ],
+        "start_time": "146.722",
+        "end_time": "147.028"
+      },
+      {
+        "id": 454,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "147.028",
+        "end_time": "147.333"
+      },
+      {
+        "id": 455,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "auf"
+          }
+        ],
+        "start_time": "147.333",
+        "end_time": "147.639"
+      },
+      {
+        "id": 456,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gewinne"
+          }
+        ],
+        "start_time": "147.639",
+        "end_time": "148.064"
+      },
+      {
+        "id": 457,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "steigern"
+          }
+        ],
+        "start_time": "148.064",
+        "end_time": "148.488"
+      },
+      {
+        "id": 458,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "oder"
+          }
+        ],
+        "start_time": "148.488",
+        "end_time": "148.913"
+      },
+      {
+        "id": 459,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "KI"
+          }
+        ],
+        "start_time": "148.913",
+        "end_time": "149.337"
+      },
+      {
+        "id": 460,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einsetzen"
+          }
+        ],
+        "start_time": "149.337",
+        "end_time": "149.762"
+      },
+      {
+        "id": 461,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 462,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "um"
+          }
+        ],
+        "start_time": "149.762",
+        "end_time": "150.186"
+      },
+      {
+        "id": 463,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Arbeitnehmer"
+          }
+        ],
+        "start_time": "150.186",
+        "end_time": "150.611"
+      },
+      {
+        "id": 464,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "150.611",
+        "end_time": "151.035"
+      },
+      {
+        "id": 465,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "stärken"
+          }
+        ],
+        "start_time": "151.035",
+        "end_time": "151.460"
+      },
+      {
+        "id": 466,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 467,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Um"
+          }
+        ],
+        "start_time": "151.789",
+        "end_time": "152.019"
+      },
+      {
+        "id": 468,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dieses"
+          }
+        ],
+        "start_time": "152.019",
+        "end_time": "152.249"
+      },
+      {
+        "id": 469,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Problem"
+          }
+        ],
+        "start_time": "152.249",
+        "end_time": "152.479"
+      },
+      {
+        "id": 470,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "152.479",
+        "end_time": "152.709"
+      },
+      {
+        "id": 471,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "lösen"
+          }
+        ],
+        "start_time": "152.709",
+        "end_time": "152.940"
+      },
+      {
+        "id": 472,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 473,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bedarf"
+          }
+        ],
+        "start_time": "152.940",
+        "end_time": "153.170"
+      },
+      {
+        "id": 474,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "es"
+          }
+        ],
+        "start_time": "153.170",
+        "end_time": "153.400"
+      },
+      {
+        "id": 475,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kollektiver"
+          }
+        ],
+        "start_time": "153.400",
+        "end_time": "153.630"
+      },
+      {
+        "id": 476,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Anstrengungen"
+          }
+        ],
+        "start_time": "153.630",
+        "end_time": "153.860"
+      },
+      {
+        "id": 477,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 478,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "damit"
+          }
+        ],
+        "start_time": "154.029",
+        "end_time": "154.339"
+      },
+      {
+        "id": 479,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wir"
+          }
+        ],
+        "start_time": "154.339",
+        "end_time": "154.649"
+      },
+      {
+        "id": 480,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Transparenz"
+          }
+        ],
+        "start_time": "154.649",
+        "end_time": "154.960"
+      },
+      {
+        "id": 481,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "haben"
+          }
+        ],
+        "start_time": "154.960",
+        "end_time": "155.270"
+      },
+      {
+        "id": 482,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "können"
+          }
+        ],
+        "start_time": "155.270",
+        "end_time": "155.580"
+      },
+      {
+        "id": 483,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 484,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "faire"
+          }
+        ],
+        "start_time": "155.789",
+        "end_time": "156.347"
+      },
+      {
+        "id": 485,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Repräsentation"
+          }
+        ],
+        "start_time": "156.347",
+        "end_time": "156.905"
+      },
+      {
+        "id": 486,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "156.905",
+        "end_time": "157.464"
+      },
+      {
+        "id": 487,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "geteilte"
+          }
+        ],
+        "start_time": "157.464",
+        "end_time": "158.022"
+      },
+      {
+        "id": 488,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Verantwortung"
+          }
+        ],
+        "start_time": "158.022",
+        "end_time": "158.580"
+      },
+      {
+        "id": 489,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 490,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Du"
+          }
+        ],
+        "start_time": "159.229",
+        "end_time": "159.476"
+      },
+      {
+        "id": 491,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kannst"
+          }
+        ],
+        "start_time": "159.476",
+        "end_time": "159.723"
+      },
+      {
+        "id": 492,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "auf"
+          }
+        ],
+        "start_time": "159.723",
+        "end_time": "159.970"
+      },
+      {
+        "id": 493,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "viele"
+          }
+        ],
+        "start_time": "159.970",
+        "end_time": "160.216"
+      },
+      {
+        "id": 494,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Arten"
+          }
+        ],
+        "start_time": "160.216",
+        "end_time": "160.463"
+      },
+      {
+        "id": 495,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "helfen"
+          }
+        ],
+        "start_time": "160.463",
+        "end_time": "160.710"
+      },
+      {
+        "id": 496,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 497,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wie"
+          }
+        ],
+        "start_time": "160.869",
+        "end_time": "161.187"
+      },
+      {
+        "id": 498,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sich"
+          }
+        ],
+        "start_time": "161.187",
+        "end_time": "161.506"
+      },
+      {
+        "id": 499,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "im"
+          }
+        ],
+        "start_time": "161.506",
+        "end_time": "161.824"
+      },
+      {
+        "id": 500,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Betriebsrat"
+          }
+        ],
+        "start_time": "161.824",
+        "end_time": "162.142"
+      },
+      {
+        "id": 501,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zu"
+          }
+        ],
+        "start_time": "162.142",
+        "end_time": "162.461"
+      },
+      {
+        "id": 502,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "engagieren"
+          }
+        ],
+        "start_time": "162.461",
+        "end_time": "162.779"
+      },
+      {
+        "id": 503,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 504,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "162.990",
+        "end_time": "163.865"
+      },
+      {
+        "id": 505,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Auszubildendenvertretung"
+          }
+        ],
+        "start_time": "163.865",
+        "end_time": "164.740"
+      },
+      {
+        "id": 506,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 507,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "oder"
+          }
+        ],
+        "start_time": "164.990",
+        "end_time": "165.360"
+      },
+      {
+        "id": 508,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "eine"
+          }
+        ],
+        "start_time": "165.360",
+        "end_time": "165.730"
+      },
+      {
+        "id": 509,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gewerkschaft"
+          }
+        ],
+        "start_time": "165.730",
+        "end_time": "166.100"
+      },
+      {
+        "id": 510,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 511,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Zusätzlich"
+          }
+        ],
+        "start_time": "167.009",
+        "end_time": "167.649"
+      },
+      {
+        "id": 512,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "du"
+          }
+        ],
+        "start_time": "167.800",
+        "end_time": "168.227"
+      },
+      {
+        "id": 513,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kannst"
+          }
+        ],
+        "start_time": "168.227",
+        "end_time": "168.654"
+      },
+      {
+        "id": 514,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dich"
+          }
+        ],
+        "start_time": "168.654",
+        "end_time": "169.081"
+      },
+      {
+        "id": 515,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gegen"
+          }
+        ],
+        "start_time": "169.081",
+        "end_time": "169.508"
+      },
+      {
+        "id": 516,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "algorithmische"
+          }
+        ],
+        "start_time": "169.508",
+        "end_time": "169.935"
+      },
+      {
+        "id": 517,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Diskriminierung"
+          }
+        ],
+        "start_time": "169.935",
+        "end_time": "170.362"
+      },
+      {
+        "id": 518,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einsetzen"
+          }
+        ],
+        "start_time": "170.362",
+        "end_time": "170.789"
+      },
+      {
+        "id": 519,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "durch"
+          }
+        ],
+        "start_time": "171.039",
+        "end_time": "171.676"
+      },
+      {
+        "id": 520,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gesellschaftspolitisches"
+          }
+        ],
+        "start_time": "171.676",
+        "end_time": "172.312"
+      },
+      {
+        "id": 521,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Engagement"
+          }
+        ],
+        "start_time": "172.312",
+        "end_time": "172.949"
+      },
+      {
+        "id": 522,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 523,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Besuchen"
+          }
+        ],
+        "start_time": "173.279",
+        "end_time": "174.122"
+      },
+      {
+        "id": 524,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Sie"
+          }
+        ],
+        "start_time": "174.122",
+        "end_time": "174.966"
+      },
+      {
+        "id": 525,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "democracy-ai.eu"
+          }
+        ],
+        "start_time": "174.966",
+        "end_time": "175.809"
+      },
+      {
+        "id": 526,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "176.000",
+        "end_time": "176.287"
+      },
+      {
+        "id": 527,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "erfahren"
+          }
+        ],
+        "start_time": "176.287",
+        "end_time": "176.573"
+      },
+      {
+        "id": 528,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Sie"
+          }
+        ],
+        "start_time": "176.573",
+        "end_time": "176.860"
+      },
+      {
+        "id": 529,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mehr"
+          }
+        ],
+        "start_time": "176.860",
+        "end_time": "177.147"
+      },
+      {
+        "id": 530,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "darüber"
+          }
+        ],
+        "start_time": "177.147",
+        "end_time": "177.433"
+      },
+      {
+        "id": 531,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mit"
+          }
+        ],
+        "start_time": "177.433",
+        "end_time": "177.720"
+      },
+      {
+        "id": 532,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "weiteren"
+          }
+        ],
+        "start_time": "177.720",
+        "end_time": "178.007"
+      },
+      {
+        "id": 533,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Videos"
+          }
+        ],
+        "start_time": "178.007",
+        "end_time": "178.293"
+      },
+      {
+        "id": 534,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "und"
+          }
+        ],
+        "start_time": "178.293",
+        "end_time": "178.580"
+      },
+      {
+        "id": 535,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "einem"
+          }
+        ],
+        "start_time": "178.580",
+        "end_time": "178.867"
+      },
+      {
+        "id": 536,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kostenlosen"
+          }
+        ],
+        "start_time": "178.867",
+        "end_time": "179.153"
+      },
+      {
+        "id": 537,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Online-Kurs"
+          }
+        ],
+        "start_time": "179.153",
+        "end_time": "179.440"
+      },
+      {
+        "id": 538,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      }
+    ],
+    "audio_segments": [
+      {
+        "id": 0,
+        "transcript": "Stellen Sie sich vor, Sie bewerben sich für einen neuen Job,",
+        "start_time": "1.519",
+        "end_time": "3.309"
+      },
+      {
+        "id": 1,
+        "transcript": "zu einem Interview eingeladen werden,",
+        "start_time": "3.400",
+        "end_time": "4.909"
+      },
+      {
+        "id": 2,
+        "transcript": "und Ihr erstes Gespräch mit dem Unternehmen findet mit einem Computer statt.",
+        "start_time": "5.119",
+        "end_time": "8.109"
+      },
+      {
+        "id": 3,
+        "transcript": "Bevor eine echte Person dir zuhört,",
+        "start_time": "8.970",
+        "end_time": "10.760"
+      },
+      {
+        "id": 4,
+        "transcript": "ein KI-System analysiert den Strom Ihrer Daten",
+        "start_time": "10.810",
+        "end_time": "13.600"
+      },
+      {
+        "id": 5,
+        "transcript": "und generiert einen Bericht.",
+        "start_time": "13.810",
+        "end_time": "15.199"
+      },
+      {
+        "id": 6,
+        "transcript": "Erst dann entscheiden die Personalvermittler, ob Sie",
+        "start_time": "15.850",
+        "end_time": "18.450"
+      },
+      {
+        "id": 7,
+        "transcript": "ein Ablehnungsschreiben oder gehe in die nächste Runde.",
+        "start_time": "18.450",
+        "end_time": "21.000"
+      },
+      {
+        "id": 8,
+        "transcript": "Das liegt daran, dass Unternehmen KI einsetzen, um Kosten zu senken.",
+        "start_time": "21.889",
+        "end_time": "25.299"
+      },
+      {
+        "id": 9,
+        "transcript": "und Personalprozesse effizienter gestalten.",
+        "start_time": "25.489",
+        "end_time": "28.139"
+      },
+      {
+        "id": 10,
+        "transcript": "Das kann zwar gut fürs Geschäft sein,",
+        "start_time": "28.510",
+        "end_time": "30.260"
+      },
+      {
+        "id": 11,
+        "transcript": "es fühlt sich dystopisch an, von einer Maschine analysiert zu werden.",
+        "start_time": "30.430",
+        "end_time": "33.180"
+      },
+      {
+        "id": 12,
+        "transcript": "Das Hauptproblem bei automatisierten Entscheidungssystemen oder ADM",
+        "start_time": "39.200",
+        "end_time": "43.220"
+      },
+      {
+        "id": 13,
+        "transcript": "ist, dass ihre Algorithmen und Kriterien nicht immer transparent sind,",
+        "start_time": "43.220",
+        "end_time": "46.950"
+      },
+      {
+        "id": 14,
+        "transcript": "und sie können Dinge wie deine Gesichtsausdrücke analysieren,",
+        "start_time": "47.360",
+        "end_time": "49.909"
+      },
+      {
+        "id": 15,
+        "transcript": "Gesten oder Tonfall, um ihre Entscheidungen zu treffen.",
+        "start_time": "50.080",
+        "end_time": "52.919"
+      },
+      {
+        "id": 16,
+        "transcript": "Manchmal wissen nicht einmal die Macher, was die Kriterien sind,",
+        "start_time": "54.049",
+        "end_time": "57.029"
+      },
+      {
+        "id": 17,
+        "transcript": "da KI ein selbstlernendes System ist, das ständig aktualisiert wird.",
+        "start_time": "57.209",
+        "end_time": "60.720"
+      },
+      {
+        "id": 18,
+        "transcript": "Das Ergebnis kann dazu führen, dass sich die aktuellen Unterschiede in unserer Gesellschaft noch verschärfen.",
+        "start_time": "61.009",
+        "end_time": "64.940"
+      },
+      {
+        "id": 19,
+        "transcript": "Schlechte Muster können von den Maschinen repliziert werden, wenn",
+        "start_time": "65.919",
+        "end_time": "68.959"
+      },
+      {
+        "id": 20,
+        "transcript": "Trainingsdaten und Personen, die Entscheidungen im Zusammenhang mit KI treffen",
+        "start_time": "68.959",
+        "end_time": "72.389"
+      },
+      {
+        "id": 21,
+        "transcript": "konzentrieren Sie sich nicht auf Gleichheit und Vielfalt.",
+        "start_time": "72.599",
+        "end_time": "74.959"
+      },
+      {
+        "id": 22,
+        "transcript": "Zum Beispiel",
+        "start_time": "75.559",
+        "end_time": "76.169"
+      },
+      {
+        "id": 23,
+        "transcript": "wenn ein Beruf traditionell von einem Geschlecht dominiert wurde,",
+        "start_time": "76.279",
+        "end_time": "79.230"
+      },
+      {
+        "id": 24,
+        "transcript": "Die KI wird das immer wieder wiederholen.",
+        "start_time": "79.519",
+        "end_time": "81.190"
+      },
+      {
+        "id": 25,
+        "transcript": "Einige KI-Systeme verwenden prädiktive Technologien, die zu Datenschutzproblemen führen können.",
+        "start_time": "81.639",
+        "end_time": "85.919"
+      },
+      {
+        "id": 26,
+        "transcript": "Zum Beispiel",
+        "start_time": "86.470",
+        "end_time": "86.930"
+      },
+      {
+        "id": 27,
+        "transcript": "KI kann den Tonfall oder das Aussehen eines Kandidaten analysieren",
+        "start_time": "87.069",
+        "end_time": "89.970"
+      },
+      {
+        "id": 28,
+        "transcript": "um Faktoren wie Depressionen oder Erkrankungen vorherzusagen,",
+        "start_time": "90.190",
+        "end_time": "93.110"
+      },
+      {
+        "id": 29,
+        "transcript": "was bei der Einstellung nicht berücksichtigt werden sollte.",
+        "start_time": "93.180",
+        "end_time": "95.019"
+      },
+      {
+        "id": 30,
+        "transcript": "So wie die Daten europäischer Nutzer durch das DSGVO-Gesetz geschützt sind,",
+        "start_time": "95.309",
+        "end_time": "99.379"
+      },
+      {
+        "id": 31,
+        "transcript": "Bewerber müssen entscheiden können, ob sie von KI bewertet werden möchten oder nicht.",
+        "start_time": "99.669",
+        "end_time": "104.400"
+      },
+      {
+        "id": 32,
+        "transcript": "Außerdem",
+        "start_time": "105.069",
+        "end_time": "105.500"
+      },
+      {
+        "id": 33,
+        "transcript": "die von der KI verwendeten Kriterien müssen transparent sein und es ermöglichen, im Falle von Fehlern Berufung einzulegen,",
+        "start_time": "105.629",
+        "end_time": "110.620"
+      },
+      {
+        "id": 34,
+        "transcript": "damit dem System vertraut werden kann und die Kandidaten die Chance haben, sich zu verbessern.",
+        "start_time": "110.910",
+        "end_time": "114.459"
+      },
+      {
+        "id": 35,
+        "transcript": "KI kann aber auch denjenigen helfen, die einen Job suchen.",
+        "start_time": "114.790",
+        "end_time": "117.400"
+      },
+      {
+        "id": 36,
+        "transcript": "Tools wie Chat GPT können dir dabei helfen, dein Praktikum im Hintergrund zu organisieren",
+        "start_time": "117.930",
+        "end_time": "122.330"
+      },
+      {
+        "id": 37,
+        "transcript": "Briefe und Lebensläufe, indem wichtige Stichwörter verwendet und Tippfehler korrigiert werden.",
+        "start_time": "122.330",
+        "end_time": "127.489"
+      },
+      {
+        "id": 38,
+        "transcript": "Sie können auch ein Interview simulieren und Feedback zu Ihren Fähigkeiten erhalten.",
+        "start_time": "127.610",
+        "end_time": "131.440"
+      },
+      {
+        "id": 39,
+        "transcript": "Aber obwohl es helfen kann,",
+        "start_time": "131.649",
+        "end_time": "132.690"
+      },
+      {
+        "id": 40,
+        "transcript": "es vollbringt keine Wunder,",
+        "start_time": "132.850",
+        "end_time": "134.320"
+      },
+      {
+        "id": 41,
+        "transcript": "aber du bist derjenige, der weiß, wie man sich am besten präsentiert.",
+        "start_time": "134.610",
+        "end_time": "137.360"
+      },
+      {
+        "id": 42,
+        "transcript": "Unser Arbeitsleben wird von Tag zu Tag stärker von KI beeinflusst",
+        "start_time": "137.649",
+        "end_time": "140.919"
+      },
+      {
+        "id": 43,
+        "transcript": "und bald werden die meisten Jobs einen gewissen Einfluss von diesen Systemen haben.",
+        "start_time": "141.169",
+        "end_time": "144.289"
+      },
+      {
+        "id": 44,
+        "transcript": "Die Hauptspannung besteht zwischen der Fokussierung der KI auf",
+        "start_time": "144.889",
+        "end_time": "147.639"
+      },
+      {
+        "id": 45,
+        "transcript": "Gewinne steigern oder KI einsetzen, um Arbeitnehmer zu stärken.",
+        "start_time": "147.639",
+        "end_time": "151.460"
+      },
+      {
+        "id": 46,
+        "transcript": "Um dieses Problem zu lösen, bedarf es kollektiver Anstrengungen,",
+        "start_time": "151.789",
+        "end_time": "153.860"
+      },
+      {
+        "id": 47,
+        "transcript": "damit wir Transparenz haben können,",
+        "start_time": "154.029",
+        "end_time": "155.580"
+      },
+      {
+        "id": 48,
+        "transcript": "faire Repräsentation und geteilte Verantwortung.",
+        "start_time": "155.789",
+        "end_time": "158.580"
+      },
+      {
+        "id": 49,
+        "transcript": "Du kannst auf viele Arten helfen,",
+        "start_time": "159.229",
+        "end_time": "160.710"
+      },
+      {
+        "id": 50,
+        "transcript": "wie sich im Betriebsrat zu engagieren,",
+        "start_time": "160.869",
+        "end_time": "162.779"
+      },
+      {
+        "id": 51,
+        "transcript": "die Auszubildendenvertretung,",
+        "start_time": "162.990",
+        "end_time": "164.740"
+      },
+      {
+        "id": 52,
+        "transcript": "oder eine Gewerkschaft.",
+        "start_time": "164.990",
+        "end_time": "166.100"
+      },
+      {
+        "id": 53,
+        "transcript": "Zusätzlich",
+        "start_time": "167.009",
+        "end_time": "167.649"
+      },
+      {
+        "id": 54,
+        "transcript": "du kannst dich gegen algorithmische Diskriminierung einsetzen",
+        "start_time": "167.800",
+        "end_time": "170.789"
+      },
+      {
+        "id": 55,
+        "transcript": "durch gesellschaftspolitisches Engagement.",
+        "start_time": "171.039",
+        "end_time": "172.949"
+      },
+      {
+        "id": 56,
+        "transcript": "Besuchen Sie DemocracyAI.eu",
+        "start_time": "173.279",
+        "end_time": "175.809"
+      },
+      {
+        "id": 57,
+        "transcript": "und erfahren Sie mehr darüber mit weiteren Videos und einem kostenlosen Online-Kurs.",
+        "start_time": "176.000",
+        "end_time": "179.440"
+      }
+    ]
+  }
+}

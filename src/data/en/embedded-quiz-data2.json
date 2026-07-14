@@ -1,0 +1,22 @@
+[
+  {
+    "questionTitle": "",
+    "text": "2How do AI systems learn to perform tasks?",
+    "correctAnswer": "By being trained with data provided by humans",
+    "options": [
+      "By copying other AI systems",
+      "By being programmed with rules",
+      "By being trained with data provided by humans",
+      "By observing human behavior"
+    ]
+  },
+  {
+    "questionTitle": "",
+    "text": "The EU AI Act was passed in 2024.",
+    "correctAnswer": "True",
+    "options": [
+      "True",
+      "False"
+    ]
+  }
+]

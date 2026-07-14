@@ -1,0 +1,21 @@
+<p align="center">
+  <img
+    class="mdimages"
+    src="/w3/w3_figure_2_bias_creation.png"
+    alt="Verzerrung bei der Datengenerierung"
+  />
+</p>
+Ein Modell wird anhand der Trainingsdaten definiert und optimiert. Testdaten werden zur Bewertung
+verwendet, und das endgültige Modell wird dann in einen realen Kontext integriert. Dieser Prozess
+ist naturgemäß zyklisch, und Entscheidungen, die von Modellen beeinflusst werden, wirken sich auf
+den Zustand der Welt aus, der beim nächsten Mal der Datenerfassung oder der Anwendung von
+Entscheidungen besteht. Die orangefarbenen Kästen zeigen, wo in dieser Pipeline verschiedene Quellen
+für nachgelagerte Schäden entstehen können.
+
+Lernverzerrung tritt auf, wenn Modellentscheidungen Leistungsunterschiede zwischen verschiedenen Datenbeispielen verschlimmern.
+
+Aggregationsverzerrung tritt auf, wenn ein Modell für Daten mit verschiedenen Gruppen verwendet wird, wobei angenommen wird, dass dieselben Muster für alle gelten. Dies kann zu einem Modell führen, das für keine Gruppe gut funktioniert oder hauptsächlich der größten Gruppe zugute kommt.
+
+Evaluationsverzerrung tritt auf, wenn die Testdaten, die zur Überprüfung der Leistung eines Modells verwendet werden, nicht mit den realen Nutzern übereinstimmen, für die das Modell bestimmt ist.
+
+Einsatzverzerrung tritt auf, wenn ein Modell für ein Problem entwickelt, aber auf eine andere Weise verwendet wird, insbesondere wenn es als vollautomatisch behandelt wird, aber tatsächlich in einem komplexen System mit Menschen und Organisationen arbeitet.

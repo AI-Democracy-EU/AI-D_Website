@@ -1,0 +1,79 @@
+[
+  {
+    "questionTitle": "Automatische Tekstgeneratie",
+    "text": "Welke techniek wordt vaak gebruikt in automatische tekstgeneratie programma's?",
+    "correctAnswer": "Het gebruik van machine learning algoritmen om tekst te genereren",
+    "options": [
+      "Willekeurig woorden selecteren uit een woordenboek",
+      "Tekst hardop voorlezen aan een computer",
+      "Het gebruik van machine learning algoritmen om tekst te genereren",
+      "Bestaande tekst vertalen naar meerdere talen"
+    ]
+  },
+  {
+    "questionTitle": "AI Taalmodellen",
+    "text": "Welk van de volgende is een populair groot taalmodel voor tekstgeneratie?",
+    "correctAnswer": "GPT (Generative Pre-trained Transformer)",
+    "options": [
+      "JPEG (Joint Photographic Experts Group)",
+      "SQL (Structured Query Language)",
+      "HTML (Hypertext Markup Language)",
+      "GPT (Generative Pre-trained Transformer)"
+    ]
+  },
+  {
+    "questionTitle": "Tekstgeneratie Toepassingen",
+    "text": "In welk van de volgende scenario's zou automatische tekstgeneratie het MINST nuttig zijn?",
+    "correctAnswer": "Het uitvoeren van complexe wiskundige berekeningen",
+    "options": [
+      "Het schrijven van productbeschrijvingen voor een webwinkel",
+      "Het genereren van gepersonaliseerde e-mailreacties",
+      "Het creëren van content voor social media posts",
+      "Het uitvoeren van complexe wiskundige berekeningen"
+    ]
+  },
+  {
+    "questionTitle": "Ethische Overwegingen",
+    "text": "Wat is een belangrijke ethische zorg met betrekking tot automatische tekstgeneratie?",
+    "correctAnswer": "De mogelijkheid om desinformatie te genereren en te verspreiden",
+    "options": [
+      "Verhoogd elektriciteitsverbruik door computers",
+      "De mogelijkheid om desinformatie te genereren en te verspreiden",
+      "Verminderde vraag naar traditionele toetsenborden",
+      "Overmatig gebruik van bepaalde woorden in de Nederlandse taal"
+    ]
+  },
+  {
+    "questionTitle": "Technische Uitdagingen",
+    "text": "Wat is een grote uitdaging bij het ontwikkelen van effectieve automatische tekstgeneratiesystemen?",
+    "correctAnswer": "Zorgen voor samenhang en contextbewustzijn in gegenereerde tekst",
+    "options": [
+      "De tekst in verschillende kleuren laten verschijnen",
+      "Zorgen voor samenhang en contextbewustzijn in gegenereerde tekst",
+      "De tekst beperken tot precies 280 tekens",
+      "Tekst alleen in hoofdletters genereren"
+    ]
+  },
+  {
+    "questionTitle": "Toekomstige Implicaties",
+    "text": "Hoe zou wijdverbreid gebruik van automatische tekstgeneratie de arbeidsmarkt kunnen beïnvloeden?",
+    "correctAnswer": "Het zou de vraag naar bepaalde schrijfgerelateerde banen kunnen verminderen",
+    "options": [
+      "Het zal meer banen creëren voor handschriftexperts",
+      "Het zou de vraag naar bepaalde schrijfgerelateerde banen kunnen verminderen",
+      "Het zal de behoefte aan typemachine-reparateurs vergroten",
+      "Het zal geen significante impact hebben op banen"
+    ]
+  },
+  {
+    "questionTitle": "Tekstgeneratie Proces",
+    "text": "Waar verwijst 'temperatuur' meestal naar in de context van neurale netwerk-gebaseerde tekstgeneratie?",
+    "correctAnswer": "Een parameter die de willekeurigheid van de gegenereerde tekst regelt",
+    "options": [
+      "De fysieke temperatuur van de computer tijdens het genereren van tekst",
+      "De emotionele toon van de gegenereerde tekst",
+      "Een parameter die de willekeurigheid van de gegenereerde tekst regelt",
+      "De tijd die nodig is om elk woord te genereren"
+    ]
+  }
+] 

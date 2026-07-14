@@ -1,0 +1,8589 @@
+{
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "Generatieve AI, ook bekend als Gen AI, is een indrukwekkende technologie. Het is een soort systeem dat leert van teksten, beelden en geluiden gemaakt door echte mensen om bepaalde eigenschappen van deze werken identificeren en reproduceren. Dit maakt het mogelijk om versies te maken die erg lijken op wat mensen kunnen doen. Maar zelfs voor eenvoudige dingen zoals een pizzarecept, soms vinden we misschien vreemde resultaten. Natuurlijk weten we dat lijm als pizzatopping een verkeerd antwoord is, maar aangezien AI niet denkt, het kent niet echt het verschil. Dit voorbeeld is gebaseerd op gebeurtenissen uit het echte leven, en het laat zien hoe we ons bewust moeten zijn van de beperkingen van Gen AI. Hoewel het een grote hulp kan zijn bij het maken van tekst, afbeeldingen, of zelfs geluiden, deze resultaten vereisen menselijk toezicht. Dit komt omdat Gen AI erg goed is in het identificeren van patronen, informatie comprimeren en proberen deze te reconstrueren met behulp van statistieken. Maar dat leidt slechts tot een benadering van zijn bronnen omdat de AI er niet echt over kan nadenken. Maar deze systemen kunnen heel goed zijn om mensen vrij te maken om zich te concentreren op de echte problemen. in plaats van vast te lopen in saaie activiteiten. Per slot van rekening de samenwerking tussen mens en machine door automatisering ging altijd over toezicht houden en creëren zinvolle dingen met de hulp van technische agenten die zich nooit vervelen of moe worden. Echter, dezelfde dingen die AI zo opwindend maken, kunnen ook voor problemen zorgen. Per slot van rekening door statistische benaderingen van tekst te maken, geluid en beeld, we krijgen vaak resultaten die niet diepgaand zijn, nuanceren, diversiteit, of die gewoon niet waar zijn. Dit is waar het niet-reflecterende en ongereguleerde gebruik van Gen AI wordt gevaarlijk en een politieke kwestie. Gewoon omdat iets er overtuigend uitziet. betekent niet dat het waar is. Neem diepe vervalsingen, bijvoorbeeld. Het maakt gebruik van AI om video's te veranderen zodat ze op een echte persoon lijken is iets doen of zeggen wat ze in het echte leven nooit hebben gedaan of gezegd. Gen AI kan worden gebruikt voor desinformatie campagnes om de publieke opinie en verkiezingen te beïnvloeden. Technologiebedrijven achter deze systemen hebben een grote invloed op de publieke sfeer en hebben goede regelgeving nodig om onze democratie te behouden en de mensenrechten te respecteren. Onze individuele acties kunnen ook helpen bij de bestrijding van desinformatie. Omdat politieke processen niet zo snel gaan als de ontwikkeling van nieuwe technologieën, het is cruciaal dat iedereen over cruciale AI-competenties beschikt, en de reden waarom Gen AI zo goed kan zijn, is omdat is getraind in de waarschijnlijkheid en het werk van echte mensen die boeken hebben gemaakt, liedjes, afbeeldingen en films. Wat op het eerste gezicht geweldig klinkt, komt met een andere ethische kwestie. De overgrote meerderheid van deze mensen is niet gevraagd of ze iets willen weggeven hun originele werken aan de bedrijven die deze systemen creëren en ervan profiteren. En hoewel de inhoud die door AI is gemaakt, vaak generiek en zonder creativiteit en betekenis. Sommige bedrijven zijn misschien bereid kwaliteit op te offeren om winstgevender te worden. Dit kan een negatieve invloed hebben op de banen van talloze werknemers in de creatieve sector, samen met een afname van de kwaliteit en creativiteit. Uiteindelijk AI-systemen zijn niet slechts één ding, ze hebben de macht om ons dagelijks leven zowel te verrijken als in gevaar te brengen. Als het goed gereguleerd en toegankelijk is, AI kan een geweldig hulpmiddel zijn om ons te helpen, maar nooit om onze creativiteit en kritisch denken te vervangen. Wat zijn volgens jou andere mogelijkheden en bedreigingen van AI? Ga naar DemocracyAI.eu en leer er meer over met meer video's en een gratis online cursus."
+      }
+    ],
+    "items": [
+      {
+        "id": 0,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Generatieve"
+          }
+        ],
+        "start_time": "0.720",
+        "end_time": "1.280"
+      },
+      {
+        "id": 1,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "1.280",
+        "end_time": "1.840"
+      },
+      {
+        "id": 2,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ook"
+          }
+        ],
+        "start_time": "2.000",
+        "end_time": "2.288"
+      },
+      {
+        "id": 4,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bekend"
+          }
+        ],
+        "start_time": "2.288",
+        "end_time": "2.576"
+      },
+      {
+        "id": 5,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "als"
+          }
+        ],
+        "start_time": "2.576",
+        "end_time": "2.864"
+      },
+      {
+        "id": 6,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gen"
+          }
+        ],
+        "start_time": "2.864",
+        "end_time": "3.152"
+      },
+      {
+        "id": 7,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "3.152",
+        "end_time": "3.440"
+      },
+      {
+        "id": 8,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "3.519",
+        "end_time": "3.907"
+      },
+      {
+        "id": 10,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "3.907",
+        "end_time": "4.295"
+      },
+      {
+        "id": 11,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "indrukwekkende"
+          }
+        ],
+        "start_time": "4.295",
+        "end_time": "4.682"
+      },
+      {
+        "id": 12,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "technologie"
+          }
+        ],
+        "start_time": "4.682",
+        "end_time": "5.070"
+      },
+      {
+        "id": 13,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Het"
+          }
+        ],
+        "start_time": "5.400",
+        "end_time": "5.640"
+      },
+      {
+        "id": 15,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "5.640",
+        "end_time": "5.880"
+      },
+      {
+        "id": 16,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "5.880",
+        "end_time": "6.120"
+      },
+      {
+        "id": 17,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "soort"
+          }
+        ],
+        "start_time": "6.120",
+        "end_time": "6.360"
+      },
+      {
+        "id": 18,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "systeem"
+          }
+        ],
+        "start_time": "6.360",
+        "end_time": "6.599"
+      },
+      {
+        "id": 19,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dat"
+          }
+        ],
+        "start_time": "6.599",
+        "end_time": "6.839"
+      },
+      {
+        "id": 20,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "leert"
+          }
+        ],
+        "start_time": "6.839",
+        "end_time": "7.079"
+      },
+      {
+        "id": 21,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "7.079",
+        "end_time": "7.319"
+      },
+      {
+        "id": 22,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "teksten"
+          }
+        ],
+        "start_time": "7.319",
+        "end_time": "7.559"
+      },
+      {
+        "id": 23,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "beelden"
+          }
+        ],
+        "start_time": "7.800",
+        "end_time": "8.140"
+      },
+      {
+        "id": 25,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "8.140",
+        "end_time": "8.480"
+      },
+      {
+        "id": 26,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "geluiden"
+          }
+        ],
+        "start_time": "8.480",
+        "end_time": "8.820"
+      },
+      {
+        "id": 27,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gemaakt"
+          }
+        ],
+        "start_time": "8.820",
+        "end_time": "9.160"
+      },
+      {
+        "id": 28,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "door"
+          }
+        ],
+        "start_time": "9.160",
+        "end_time": "9.500"
+      },
+      {
+        "id": 29,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echte"
+          }
+        ],
+        "start_time": "9.500",
+        "end_time": "9.840"
+      },
+      {
+        "id": 30,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mensen"
+          }
+        ],
+        "start_time": "9.840",
+        "end_time": "10.180"
+      },
+      {
+        "id": 31,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "10.180",
+        "end_time": "10.520"
+      },
+      {
+        "id": 32,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bepaalde"
+          }
+        ],
+        "start_time": "10.520",
+        "end_time": "10.965"
+      },
+      {
+        "id": 33,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "eigenschappen"
+          }
+        ],
+        "start_time": "10.965",
+        "end_time": "11.410"
+      },
+      {
+        "id": 34,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "11.410",
+        "end_time": "11.855"
+      },
+      {
+        "id": 35,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "deze"
+          }
+        ],
+        "start_time": "11.855",
+        "end_time": "12.300"
+      },
+      {
+        "id": 36,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werken"
+          }
+        ],
+        "start_time": "12.300",
+        "end_time": "12.744"
+      },
+      {
+        "id": 37,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "identificeren"
+          }
+        ],
+        "start_time": "12.744",
+        "end_time": "13.189"
+      },
+      {
+        "id": 38,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "13.189",
+        "end_time": "13.634"
+      },
+      {
+        "id": 39,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "reproduceren"
+          }
+        ],
+        "start_time": "13.634",
+        "end_time": "14.079"
+      },
+      {
+        "id": 40,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Dit"
+          }
+        ],
+        "start_time": "14.279",
+        "end_time": "14.523"
+      },
+      {
+        "id": 42,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maakt"
+          }
+        ],
+        "start_time": "14.523",
+        "end_time": "14.768"
+      },
+      {
+        "id": 43,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "14.768",
+        "end_time": "15.012"
+      },
+      {
+        "id": 44,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mogelijk"
+          }
+        ],
+        "start_time": "15.012",
+        "end_time": "15.257"
+      },
+      {
+        "id": 45,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "15.257",
+        "end_time": "15.501"
+      },
+      {
+        "id": 46,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "versies"
+          }
+        ],
+        "start_time": "15.501",
+        "end_time": "15.746"
+      },
+      {
+        "id": 47,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "15.746",
+        "end_time": "15.990"
+      },
+      {
+        "id": 48,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maken"
+          }
+        ],
+        "start_time": "15.990",
+        "end_time": "16.235"
+      },
+      {
+        "id": 49,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "16.235",
+        "end_time": "16.479"
+      },
+      {
+        "id": 50,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "erg"
+          }
+        ],
+        "start_time": "16.479",
+        "end_time": "16.723"
+      },
+      {
+        "id": 51,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "lijken"
+          }
+        ],
+        "start_time": "16.723",
+        "end_time": "16.968"
+      },
+      {
+        "id": 52,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "op"
+          }
+        ],
+        "start_time": "16.968",
+        "end_time": "17.212"
+      },
+      {
+        "id": 53,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wat"
+          }
+        ],
+        "start_time": "17.212",
+        "end_time": "17.457"
+      },
+      {
+        "id": 54,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mensen"
+          }
+        ],
+        "start_time": "17.457",
+        "end_time": "17.701"
+      },
+      {
+        "id": 55,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kunnen"
+          }
+        ],
+        "start_time": "17.701",
+        "end_time": "17.946"
+      },
+      {
+        "id": 56,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "doen"
+          }
+        ],
+        "start_time": "17.946",
+        "end_time": "18.190"
+      },
+      {
+        "id": 57,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Maar"
+          }
+        ],
+        "start_time": "18.760",
+        "end_time": "19.074"
+      },
+      {
+        "id": 59,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zelfs"
+          }
+        ],
+        "start_time": "19.074",
+        "end_time": "19.387"
+      },
+      {
+        "id": 60,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "voor"
+          }
+        ],
+        "start_time": "19.388",
+        "end_time": "19.701"
+      },
+      {
+        "id": 61,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "eenvoudige"
+          }
+        ],
+        "start_time": "19.701",
+        "end_time": "20.015"
+      },
+      {
+        "id": 62,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dingen"
+          }
+        ],
+        "start_time": "20.015",
+        "end_time": "20.329"
+      },
+      {
+        "id": 63,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zoals"
+          }
+        ],
+        "start_time": "20.329",
+        "end_time": "20.642"
+      },
+      {
+        "id": 64,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "20.642",
+        "end_time": "20.956"
+      },
+      {
+        "id": 65,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "pizzarecept"
+          }
+        ],
+        "start_time": "20.956",
+        "end_time": "21.270"
+      },
+      {
+        "id": 66,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "soms"
+          }
+        ],
+        "start_time": "21.559",
+        "end_time": "21.913"
+      },
+      {
+        "id": 68,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vinden"
+          }
+        ],
+        "start_time": "21.913",
+        "end_time": "22.266"
+      },
+      {
+        "id": 69,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "we"
+          }
+        ],
+        "start_time": "22.266",
+        "end_time": "22.620"
+      },
+      {
+        "id": 70,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "misschien"
+          }
+        ],
+        "start_time": "22.620",
+        "end_time": "22.973"
+      },
+      {
+        "id": 71,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vreemde"
+          }
+        ],
+        "start_time": "22.973",
+        "end_time": "23.326"
+      },
+      {
+        "id": 72,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "resultaten"
+          }
+        ],
+        "start_time": "23.326",
+        "end_time": "23.680"
+      },
+      {
+        "id": 73,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Natuurlijk"
+          }
+        ],
+        "start_time": "27.149",
+        "end_time": "27.435"
+      },
+      {
+        "id": 75,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "weten"
+          }
+        ],
+        "start_time": "27.435",
+        "end_time": "27.722"
+      },
+      {
+        "id": 76,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "we"
+          }
+        ],
+        "start_time": "27.722",
+        "end_time": "28.008"
+      },
+      {
+        "id": 77,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dat"
+          }
+        ],
+        "start_time": "28.008",
+        "end_time": "28.294"
+      },
+      {
+        "id": 78,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "lijm"
+          }
+        ],
+        "start_time": "28.294",
+        "end_time": "28.581"
+      },
+      {
+        "id": 79,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "als"
+          }
+        ],
+        "start_time": "28.581",
+        "end_time": "28.867"
+      },
+      {
+        "id": 80,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "pizzatopping"
+          }
+        ],
+        "start_time": "28.867",
+        "end_time": "29.154"
+      },
+      {
+        "id": 81,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "29.154",
+        "end_time": "29.440"
+      },
+      {
+        "id": 82,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verkeerd"
+          }
+        ],
+        "start_time": "29.440",
+        "end_time": "29.726"
+      },
+      {
+        "id": 83,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "antwoord"
+          }
+        ],
+        "start_time": "29.726",
+        "end_time": "30.013"
+      },
+      {
+        "id": 84,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "30.013",
+        "end_time": "30.299"
+      },
+      {
+        "id": 85,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maar"
+          }
+        ],
+        "start_time": "30.629",
+        "end_time": "30.971"
+      },
+      {
+        "id": 87,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "aangezien"
+          }
+        ],
+        "start_time": "30.971",
+        "end_time": "31.313"
+      },
+      {
+        "id": 88,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "31.313",
+        "end_time": "31.656"
+      },
+      {
+        "id": 89,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "31.656",
+        "end_time": "31.998"
+      },
+      {
+        "id": 90,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "denkt"
+          }
+        ],
+        "start_time": "31.998",
+        "end_time": "32.340"
+      },
+      {
+        "id": 91,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "32.509",
+        "end_time": "32.761"
+      },
+      {
+        "id": 93,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kent"
+          }
+        ],
+        "start_time": "32.761",
+        "end_time": "33.013"
+      },
+      {
+        "id": 94,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "33.013",
+        "end_time": "33.264"
+      },
+      {
+        "id": 95,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echt"
+          }
+        ],
+        "start_time": "33.264",
+        "end_time": "33.516"
+      },
+      {
+        "id": 96,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "33.516",
+        "end_time": "33.768"
+      },
+      {
+        "id": 97,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verschil"
+          }
+        ],
+        "start_time": "33.768",
+        "end_time": "34.020"
+      },
+      {
+        "id": 98,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Dit"
+          }
+        ],
+        "start_time": "34.970",
+        "end_time": "35.226"
+      },
+      {
+        "id": 100,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "voorbeeld"
+          }
+        ],
+        "start_time": "35.226",
+        "end_time": "35.482"
+      },
+      {
+        "id": 101,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "35.482",
+        "end_time": "35.738"
+      },
+      {
+        "id": 102,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gebaseerd"
+          }
+        ],
+        "start_time": "35.738",
+        "end_time": "35.994"
+      },
+      {
+        "id": 103,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "op"
+          }
+        ],
+        "start_time": "35.994",
+        "end_time": "36.249"
+      },
+      {
+        "id": 104,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gebeurtenissen"
+          }
+        ],
+        "start_time": "36.249",
+        "end_time": "36.505"
+      },
+      {
+        "id": 105,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "uit"
+          }
+        ],
+        "start_time": "36.505",
+        "end_time": "36.761"
+      },
+      {
+        "id": 106,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "36.761",
+        "end_time": "37.017"
+      },
+      {
+        "id": 107,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echte"
+          }
+        ],
+        "start_time": "37.017",
+        "end_time": "37.273"
+      },
+      {
+        "id": 108,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "leven"
+          }
+        ],
+        "start_time": "37.273",
+        "end_time": "37.529"
+      },
+      {
+        "id": 109,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "37.569",
+        "end_time": "37.784"
+      },
+      {
+        "id": 111,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "37.784",
+        "end_time": "37.999"
+      },
+      {
+        "id": 112,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "laat"
+          }
+        ],
+        "start_time": "37.999",
+        "end_time": "38.214"
+      },
+      {
+        "id": 113,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zien"
+          }
+        ],
+        "start_time": "38.214",
+        "end_time": "38.429"
+      },
+      {
+        "id": 114,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hoe"
+          }
+        ],
+        "start_time": "38.429",
+        "end_time": "38.644"
+      },
+      {
+        "id": 115,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "we"
+          }
+        ],
+        "start_time": "38.644",
+        "end_time": "38.859"
+      },
+      {
+        "id": 116,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ons"
+          }
+        ],
+        "start_time": "38.859",
+        "end_time": "39.074"
+      },
+      {
+        "id": 117,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bewust"
+          }
+        ],
+        "start_time": "39.074",
+        "end_time": "39.289"
+      },
+      {
+        "id": 118,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "moeten"
+          }
+        ],
+        "start_time": "39.289",
+        "end_time": "39.504"
+      },
+      {
+        "id": 119,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "39.504",
+        "end_time": "39.719"
+      },
+      {
+        "id": 120,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "39.719",
+        "end_time": "39.934"
+      },
+      {
+        "id": 121,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "39.934",
+        "end_time": "40.149"
+      },
+      {
+        "id": 122,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "beperkingen"
+          }
+        ],
+        "start_time": "40.149",
+        "end_time": "40.364"
+      },
+      {
+        "id": 123,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "40.364",
+        "end_time": "40.579"
+      },
+      {
+        "id": 124,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gen"
+          }
+        ],
+        "start_time": "40.579",
+        "end_time": "40.794"
+      },
+      {
+        "id": 125,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "40.794",
+        "end_time": "41.009"
+      },
+      {
+        "id": 126,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 127,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Hoewel"
+          }
+        ],
+        "start_time": "41.650",
+        "end_time": "41.849"
+      },
+      {
+        "id": 128,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "41.849",
+        "end_time": "42.048"
+      },
+      {
+        "id": 129,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "42.048",
+        "end_time": "42.248"
+      },
+      {
+        "id": 130,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "grote"
+          }
+        ],
+        "start_time": "42.248",
+        "end_time": "42.447"
+      },
+      {
+        "id": 131,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hulp"
+          }
+        ],
+        "start_time": "42.447",
+        "end_time": "42.646"
+      },
+      {
+        "id": 132,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kan"
+          }
+        ],
+        "start_time": "42.646",
+        "end_time": "42.845"
+      },
+      {
+        "id": 133,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "42.845",
+        "end_time": "43.044"
+      },
+      {
+        "id": 134,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bij"
+          }
+        ],
+        "start_time": "43.044",
+        "end_time": "43.243"
+      },
+      {
+        "id": 135,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "43.243",
+        "end_time": "43.442"
+      },
+      {
+        "id": 136,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maken"
+          }
+        ],
+        "start_time": "43.442",
+        "end_time": "43.642"
+      },
+      {
+        "id": 137,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "43.642",
+        "end_time": "43.841"
+      },
+      {
+        "id": 138,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "tekst"
+          }
+        ],
+        "start_time": "43.841",
+        "end_time": "44.040"
+      },
+      {
+        "id": 139,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 140,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "afbeeldingen"
+          }
+        ],
+        "start_time": "44.090",
+        "end_time": "44.650"
+      },
+      {
+        "id": 141,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 142,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "of"
+          }
+        ],
+        "start_time": "44.680",
+        "end_time": "45.083"
+      },
+      {
+        "id": 143,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zelfs"
+          }
+        ],
+        "start_time": "45.083",
+        "end_time": "45.486"
+      },
+      {
+        "id": 144,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "geluiden"
+          }
+        ],
+        "start_time": "45.486",
+        "end_time": "45.889"
+      },
+      {
+        "id": 145,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "deze"
+          }
+        ],
+        "start_time": "46.060",
+        "end_time": "46.488"
+      },
+      {
+        "id": 147,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "resultaten"
+          }
+        ],
+        "start_time": "46.488",
+        "end_time": "46.916"
+      },
+      {
+        "id": 148,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vereisen"
+          }
+        ],
+        "start_time": "46.916",
+        "end_time": "47.344"
+      },
+      {
+        "id": 149,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "menselijk"
+          }
+        ],
+        "start_time": "47.344",
+        "end_time": "47.772"
+      },
+      {
+        "id": 150,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "toezicht"
+          }
+        ],
+        "start_time": "47.772",
+        "end_time": "48.200"
+      },
+      {
+        "id": 151,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Dit"
+          }
+        ],
+        "start_time": "48.689",
+        "end_time": "48.947"
+      },
+      {
+        "id": 153,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "komt"
+          }
+        ],
+        "start_time": "48.947",
+        "end_time": "49.206"
+      },
+      {
+        "id": 154,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "omdat"
+          }
+        ],
+        "start_time": "49.206",
+        "end_time": "49.464"
+      },
+      {
+        "id": 155,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gen"
+          }
+        ],
+        "start_time": "49.464",
+        "end_time": "49.723"
+      },
+      {
+        "id": 156,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "49.723",
+        "end_time": "49.981"
+      },
+      {
+        "id": 157,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "erg"
+          }
+        ],
+        "start_time": "49.981",
+        "end_time": "50.240"
+      },
+      {
+        "id": 158,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "goed"
+          }
+        ],
+        "start_time": "50.240",
+        "end_time": "50.498"
+      },
+      {
+        "id": 159,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "50.498",
+        "end_time": "50.757"
+      },
+      {
+        "id": 160,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "50.757",
+        "end_time": "51.015"
+      },
+      {
+        "id": 161,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "51.015",
+        "end_time": "51.274"
+      },
+      {
+        "id": 162,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "identificeren"
+          }
+        ],
+        "start_time": "51.274",
+        "end_time": "51.532"
+      },
+      {
+        "id": 163,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "51.532",
+        "end_time": "51.791"
+      },
+      {
+        "id": 164,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "patronen"
+          }
+        ],
+        "start_time": "51.791",
+        "end_time": "52.049"
+      },
+      {
+        "id": 165,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 166,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "informatie"
+          }
+        ],
+        "start_time": "52.130",
+        "end_time": "52.493"
+      },
+      {
+        "id": 167,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "comprimeren"
+          }
+        ],
+        "start_time": "52.493",
+        "end_time": "52.855"
+      },
+      {
+        "id": 168,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "52.855",
+        "end_time": "53.218"
+      },
+      {
+        "id": 169,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "proberen"
+          }
+        ],
+        "start_time": "53.218",
+        "end_time": "53.581"
+      },
+      {
+        "id": 170,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "deze"
+          }
+        ],
+        "start_time": "53.581",
+        "end_time": "53.943"
+      },
+      {
+        "id": 171,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "53.943",
+        "end_time": "54.306"
+      },
+      {
+        "id": 172,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "reconstrueren"
+          }
+        ],
+        "start_time": "54.306",
+        "end_time": "54.668"
+      },
+      {
+        "id": 173,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "met"
+          }
+        ],
+        "start_time": "54.668",
+        "end_time": "55.031"
+      },
+      {
+        "id": 174,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "behulp"
+          }
+        ],
+        "start_time": "55.031",
+        "end_time": "55.394"
+      },
+      {
+        "id": 175,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "55.394",
+        "end_time": "55.756"
+      },
+      {
+        "id": 176,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "statistieken"
+          }
+        ],
+        "start_time": "55.756",
+        "end_time": "56.119"
+      },
+      {
+        "id": 177,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 178,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Maar"
+          }
+        ],
+        "start_time": "57.029",
+        "end_time": "57.278"
+      },
+      {
+        "id": 179,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dat"
+          }
+        ],
+        "start_time": "57.278",
+        "end_time": "57.527"
+      },
+      {
+        "id": 180,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "leidt"
+          }
+        ],
+        "start_time": "57.527",
+        "end_time": "57.776"
+      },
+      {
+        "id": 181,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "slechts"
+          }
+        ],
+        "start_time": "57.776",
+        "end_time": "58.025"
+      },
+      {
+        "id": 182,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "tot"
+          }
+        ],
+        "start_time": "58.025",
+        "end_time": "58.274"
+      },
+      {
+        "id": 183,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "58.274",
+        "end_time": "58.523"
+      },
+      {
+        "id": 184,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "benadering"
+          }
+        ],
+        "start_time": "58.523",
+        "end_time": "58.772"
+      },
+      {
+        "id": 185,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "58.772",
+        "end_time": "59.021"
+      },
+      {
+        "id": 186,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "59.021",
+        "end_time": "59.270"
+      },
+      {
+        "id": 187,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bronnen"
+          }
+        ],
+        "start_time": "59.270",
+        "end_time": "59.565"
+      },
+      {
+        "id": 188,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "omdat"
+          }
+        ],
+        "start_time": "59.565",
+        "end_time": "59.860"
+      },
+      {
+        "id": 189,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "59.860",
+        "end_time": "60.155"
+      },
+      {
+        "id": 190,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "60.155",
+        "end_time": "60.450"
+      },
+      {
+        "id": 191,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "er"
+          }
+        ],
+        "start_time": "60.450",
+        "end_time": "60.745"
+      },
+      {
+        "id": 192,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "60.745",
+        "end_time": "61.040"
+      },
+      {
+        "id": 193,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echt"
+          }
+        ],
+        "start_time": "61.040",
+        "end_time": "61.335"
+      },
+      {
+        "id": 194,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "over"
+          }
+        ],
+        "start_time": "61.335",
+        "end_time": "61.630"
+      },
+      {
+        "id": 195,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kan"
+          }
+        ],
+        "start_time": "61.630",
+        "end_time": "61.925"
+      },
+      {
+        "id": 196,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nadenken"
+          }
+        ],
+        "start_time": "61.925",
+        "end_time": "62.220"
+      },
+      {
+        "id": 197,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 198,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Maar"
+          }
+        ],
+        "start_time": "62.669",
+        "end_time": "62.885"
+      },
+      {
+        "id": 199,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "deze"
+          }
+        ],
+        "start_time": "62.885",
+        "end_time": "63.100"
+      },
+      {
+        "id": 200,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "systemen"
+          }
+        ],
+        "start_time": "63.100",
+        "end_time": "63.316"
+      },
+      {
+        "id": 201,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kunnen"
+          }
+        ],
+        "start_time": "63.316",
+        "end_time": "63.531"
+      },
+      {
+        "id": 202,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "heel"
+          }
+        ],
+        "start_time": "63.531",
+        "end_time": "63.747"
+      },
+      {
+        "id": 203,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "goed"
+          }
+        ],
+        "start_time": "63.747",
+        "end_time": "63.962"
+      },
+      {
+        "id": 204,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "63.962",
+        "end_time": "64.178"
+      },
+      {
+        "id": 205,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "64.178",
+        "end_time": "64.393"
+      },
+      {
+        "id": 206,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mensen"
+          }
+        ],
+        "start_time": "64.393",
+        "end_time": "64.609"
+      },
+      {
+        "id": 207,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vrij"
+          }
+        ],
+        "start_time": "64.609",
+        "end_time": "64.825"
+      },
+      {
+        "id": 208,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "64.825",
+        "end_time": "65.040"
+      },
+      {
+        "id": 209,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maken"
+          }
+        ],
+        "start_time": "65.040",
+        "end_time": "65.256"
+      },
+      {
+        "id": 210,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "65.256",
+        "end_time": "65.471"
+      },
+      {
+        "id": 211,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zich"
+          }
+        ],
+        "start_time": "65.471",
+        "end_time": "65.687"
+      },
+      {
+        "id": 212,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "65.687",
+        "end_time": "65.902"
+      },
+      {
+        "id": 213,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "concentreren"
+          }
+        ],
+        "start_time": "65.902",
+        "end_time": "66.118"
+      },
+      {
+        "id": 214,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "op"
+          }
+        ],
+        "start_time": "66.118",
+        "end_time": "66.333"
+      },
+      {
+        "id": 215,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "66.333",
+        "end_time": "66.549"
+      },
+      {
+        "id": 216,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echte"
+          }
+        ],
+        "start_time": "66.549",
+        "end_time": "66.764"
+      },
+      {
+        "id": 217,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "problemen"
+          }
+        ],
+        "start_time": "66.764",
+        "end_time": "66.980"
+      },
+      {
+        "id": 218,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 219,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "67.430",
+        "end_time": "67.682"
+      },
+      {
+        "id": 220,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "plaats"
+          }
+        ],
+        "start_time": "67.682",
+        "end_time": "67.934"
+      },
+      {
+        "id": 221,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "67.934",
+        "end_time": "68.186"
+      },
+      {
+        "id": 222,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vast"
+          }
+        ],
+        "start_time": "68.186",
+        "end_time": "68.438"
+      },
+      {
+        "id": 223,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "68.438",
+        "end_time": "68.691"
+      },
+      {
+        "id": 224,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "lopen"
+          }
+        ],
+        "start_time": "68.691",
+        "end_time": "68.943"
+      },
+      {
+        "id": 225,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "68.943",
+        "end_time": "69.195"
+      },
+      {
+        "id": 226,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "saaie"
+          }
+        ],
+        "start_time": "69.195",
+        "end_time": "69.447"
+      },
+      {
+        "id": 227,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "activiteiten"
+          }
+        ],
+        "start_time": "69.447",
+        "end_time": "69.699"
+      },
+      {
+        "id": 228,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 229,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Per"
+          }
+        ],
+        "start_time": "70.190",
+        "end_time": "70.308"
+      },
+      {
+        "id": 230,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "slot"
+          }
+        ],
+        "start_time": "70.308",
+        "end_time": "70.425"
+      },
+      {
+        "id": 231,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "70.425",
+        "end_time": "70.542"
+      },
+      {
+        "id": 232,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "rekening"
+          }
+        ],
+        "start_time": "70.542",
+        "end_time": "70.660"
+      },
+      {
+        "id": 233,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "70.709",
+        "end_time": "71.046"
+      },
+      {
+        "id": 234,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "samenwerking"
+          }
+        ],
+        "start_time": "71.046",
+        "end_time": "71.383"
+      },
+      {
+        "id": 235,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "tussen"
+          }
+        ],
+        "start_time": "71.383",
+        "end_time": "71.720"
+      },
+      {
+        "id": 236,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mens"
+          }
+        ],
+        "start_time": "71.720",
+        "end_time": "72.058"
+      },
+      {
+        "id": 237,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "72.058",
+        "end_time": "72.395"
+      },
+      {
+        "id": 238,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "machine"
+          }
+        ],
+        "start_time": "72.395",
+        "end_time": "72.732"
+      },
+      {
+        "id": 239,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "door"
+          }
+        ],
+        "start_time": "72.732",
+        "end_time": "73.069"
+      },
+      {
+        "id": 240,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "automatisering"
+          }
+        ],
+        "start_time": "73.069",
+        "end_time": "73.489"
+      },
+      {
+        "id": 241,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ging"
+          }
+        ],
+        "start_time": "73.489",
+        "end_time": "73.909"
+      },
+      {
+        "id": 242,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "altijd"
+          }
+        ],
+        "start_time": "73.909",
+        "end_time": "74.329"
+      },
+      {
+        "id": 243,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "over"
+          }
+        ],
+        "start_time": "74.329",
+        "end_time": "74.749"
+      },
+      {
+        "id": 244,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "toezicht"
+          }
+        ],
+        "start_time": "74.750",
+        "end_time": "75.170"
+      },
+      {
+        "id": 245,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "houden"
+          }
+        ],
+        "start_time": "75.170",
+        "end_time": "75.590"
+      },
+      {
+        "id": 246,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "75.590",
+        "end_time": "76.010"
+      },
+      {
+        "id": 247,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "creëren"
+          }
+        ],
+        "start_time": "76.010",
+        "end_time": "76.430"
+      },
+      {
+        "id": 248,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zinvolle"
+          }
+        ],
+        "start_time": "76.430",
+        "end_time": "76.720"
+      },
+      {
+        "id": 249,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dingen"
+          }
+        ],
+        "start_time": "76.720",
+        "end_time": "77.010"
+      },
+      {
+        "id": 250,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "met"
+          }
+        ],
+        "start_time": "77.010",
+        "end_time": "77.300"
+      },
+      {
+        "id": 251,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "77.300",
+        "end_time": "77.590"
+      },
+      {
+        "id": 252,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hulp"
+          }
+        ],
+        "start_time": "77.590",
+        "end_time": "77.880"
+      },
+      {
+        "id": 253,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "77.880",
+        "end_time": "78.170"
+      },
+      {
+        "id": 254,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "technische"
+          }
+        ],
+        "start_time": "78.170",
+        "end_time": "78.460"
+      },
+      {
+        "id": 255,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "agenten"
+          }
+        ],
+        "start_time": "78.460",
+        "end_time": "78.749"
+      },
+      {
+        "id": 256,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "78.749",
+        "end_time": "79.039"
+      },
+      {
+        "id": 257,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zich"
+          }
+        ],
+        "start_time": "79.039",
+        "end_time": "79.329"
+      },
+      {
+        "id": 258,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nooit"
+          }
+        ],
+        "start_time": "79.329",
+        "end_time": "79.619"
+      },
+      {
+        "id": 259,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vervelen"
+          }
+        ],
+        "start_time": "79.619",
+        "end_time": "79.909"
+      },
+      {
+        "id": 260,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "of"
+          }
+        ],
+        "start_time": "79.909",
+        "end_time": "80.199"
+      },
+      {
+        "id": 261,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "moe"
+          }
+        ],
+        "start_time": "80.199",
+        "end_time": "80.489"
+      },
+      {
+        "id": 262,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "worden"
+          }
+        ],
+        "start_time": "80.489",
+        "end_time": "80.779"
+      },
+      {
+        "id": 263,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 264,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Echter"
+          }
+        ],
+        "start_time": "81.370",
+        "end_time": "81.839"
+      },
+      {
+        "id": 265,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 266,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dezelfde"
+          }
+        ],
+        "start_time": "81.970",
+        "end_time": "82.310"
+      },
+      {
+        "id": 267,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dingen"
+          }
+        ],
+        "start_time": "82.310",
+        "end_time": "82.650"
+      },
+      {
+        "id": 268,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "82.650",
+        "end_time": "82.990"
+      },
+      {
+        "id": 269,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "82.990",
+        "end_time": "83.330"
+      },
+      {
+        "id": 270,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zo"
+          }
+        ],
+        "start_time": "83.330",
+        "end_time": "83.670"
+      },
+      {
+        "id": 271,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "opwindend"
+          }
+        ],
+        "start_time": "83.670",
+        "end_time": "84.010"
+      },
+      {
+        "id": 272,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maken"
+          }
+        ],
+        "start_time": "84.010",
+        "end_time": "84.350"
+      },
+      {
+        "id": 273,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 274,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kunnen"
+          }
+        ],
+        "start_time": "84.350",
+        "end_time": "84.690"
+      },
+      {
+        "id": 275,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ook"
+          }
+        ],
+        "start_time": "84.690",
+        "end_time": "85.030"
+      },
+      {
+        "id": 276,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "voor"
+          }
+        ],
+        "start_time": "85.030",
+        "end_time": "85.370"
+      },
+      {
+        "id": 277,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "problemen"
+          }
+        ],
+        "start_time": "85.370",
+        "end_time": "85.710"
+      },
+      {
+        "id": 278,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zorgen"
+          }
+        ],
+        "start_time": "85.710",
+        "end_time": "86.050"
+      },
+      {
+        "id": 279,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 280,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Per"
+          }
+        ],
+        "start_time": "86.290",
+        "end_time": "86.435"
+      },
+      {
+        "id": 281,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "slot"
+          }
+        ],
+        "start_time": "86.435",
+        "end_time": "86.580"
+      },
+      {
+        "id": 282,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "86.580",
+        "end_time": "86.725"
+      },
+      {
+        "id": 283,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "rekening"
+          }
+        ],
+        "start_time": "86.725",
+        "end_time": "86.870"
+      },
+      {
+        "id": 284,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "door"
+          }
+        ],
+        "start_time": "87.129",
+        "end_time": "87.523"
+      },
+      {
+        "id": 285,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "statistische"
+          }
+        ],
+        "start_time": "87.523",
+        "end_time": "87.918"
+      },
+      {
+        "id": 286,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "benaderingen"
+          }
+        ],
+        "start_time": "87.918",
+        "end_time": "88.312"
+      },
+      {
+        "id": 287,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "88.312",
+        "end_time": "88.706"
+      },
+      {
+        "id": 288,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "tekst"
+          }
+        ],
+        "start_time": "88.706",
+        "end_time": "89.100"
+      },
+      {
+        "id": 289,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "89.100",
+        "end_time": "89.495"
+      },
+      {
+        "id": 290,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maken"
+          }
+        ],
+        "start_time": "89.495",
+        "end_time": "89.889"
+      },
+      {
+        "id": 291,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 292,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "geluid"
+          }
+        ],
+        "start_time": "90.169",
+        "end_time": "90.622"
+      },
+      {
+        "id": 293,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "90.622",
+        "end_time": "91.076"
+      },
+      {
+        "id": 294,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "beeld"
+          }
+        ],
+        "start_time": "91.076",
+        "end_time": "91.529"
+      },
+      {
+        "id": 295,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 296,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "we"
+          }
+        ],
+        "start_time": "91.930",
+        "end_time": "92.180"
+      },
+      {
+        "id": 297,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "krijgen"
+          }
+        ],
+        "start_time": "92.180",
+        "end_time": "92.430"
+      },
+      {
+        "id": 298,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vaak"
+          }
+        ],
+        "start_time": "92.430",
+        "end_time": "92.680"
+      },
+      {
+        "id": 299,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "resultaten"
+          }
+        ],
+        "start_time": "92.680",
+        "end_time": "92.930"
+      },
+      {
+        "id": 300,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "92.930",
+        "end_time": "93.180"
+      },
+      {
+        "id": 301,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "93.180",
+        "end_time": "93.430"
+      },
+      {
+        "id": 302,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "diepgaand"
+          }
+        ],
+        "start_time": "93.430",
+        "end_time": "93.680"
+      },
+      {
+        "id": 303,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "93.680",
+        "end_time": "93.930"
+      },
+      {
+        "id": 304,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 305,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nuanceren"
+          }
+        ],
+        "start_time": "94.059",
+        "end_time": "94.639"
+      },
+      {
+        "id": 306,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 307,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "diversiteit"
+          }
+        ],
+        "start_time": "94.769",
+        "end_time": "95.720"
+      },
+      {
+        "id": 308,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 309,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "of"
+          }
+        ],
+        "start_time": "95.980",
+        "end_time": "96.223"
+      },
+      {
+        "id": 310,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "96.223",
+        "end_time": "96.467"
+      },
+      {
+        "id": 311,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gewoon"
+          }
+        ],
+        "start_time": "96.467",
+        "end_time": "96.710"
+      },
+      {
+        "id": 312,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "96.710",
+        "end_time": "96.953"
+      },
+      {
+        "id": 313,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "waar"
+          }
+        ],
+        "start_time": "96.953",
+        "end_time": "97.197"
+      },
+      {
+        "id": 314,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "97.197",
+        "end_time": "97.440"
+      },
+      {
+        "id": 315,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 316,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Dit"
+          }
+        ],
+        "start_time": "98.129",
+        "end_time": "98.454"
+      },
+      {
+        "id": 317,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "98.454",
+        "end_time": "98.778"
+      },
+      {
+        "id": 318,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "waar"
+          }
+        ],
+        "start_time": "98.778",
+        "end_time": "99.103"
+      },
+      {
+        "id": 319,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "99.103",
+        "end_time": "99.427"
+      },
+      {
+        "id": 320,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet-reflecterende"
+          }
+        ],
+        "start_time": "99.427",
+        "end_time": "99.752"
+      },
+      {
+        "id": 321,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "99.752",
+        "end_time": "100.076"
+      },
+      {
+        "id": 322,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ongereguleerde"
+          }
+        ],
+        "start_time": "100.076",
+        "end_time": "100.401"
+      },
+      {
+        "id": 323,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gebruik"
+          }
+        ],
+        "start_time": "100.401",
+        "end_time": "100.725"
+      },
+      {
+        "id": 324,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "100.725",
+        "end_time": "101.050"
+      },
+      {
+        "id": 325,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gen"
+          }
+        ],
+        "start_time": "101.050",
+        "end_time": "101.419"
+      },
+      {
+        "id": 326,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "101.419",
+        "end_time": "101.788"
+      },
+      {
+        "id": 327,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wordt"
+          }
+        ],
+        "start_time": "101.787",
+        "end_time": "102.156"
+      },
+      {
+        "id": 328,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gevaarlijk"
+          }
+        ],
+        "start_time": "102.156",
+        "end_time": "102.525"
+      },
+      {
+        "id": 329,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "102.525",
+        "end_time": "102.894"
+      },
+      {
+        "id": 330,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "102.894",
+        "end_time": "103.263"
+      },
+      {
+        "id": 331,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "politieke"
+          }
+        ],
+        "start_time": "103.263",
+        "end_time": "103.631"
+      },
+      {
+        "id": 332,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kwestie"
+          }
+        ],
+        "start_time": "103.631",
+        "end_time": "104.000"
+      },
+      {
+        "id": 333,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gewoon"
+          }
+        ],
+        "start_time": "104.569",
+        "end_time": "104.869"
+      },
+      {
+        "id": 335,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "omdat"
+          }
+        ],
+        "start_time": "104.869",
+        "end_time": "105.169"
+      },
+      {
+        "id": 336,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "iets"
+          }
+        ],
+        "start_time": "105.169",
+        "end_time": "105.470"
+      },
+      {
+        "id": 337,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "er"
+          }
+        ],
+        "start_time": "105.470",
+        "end_time": "105.770"
+      },
+      {
+        "id": 338,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "overtuigend"
+          }
+        ],
+        "start_time": "105.770",
+        "end_time": "106.070"
+      },
+      {
+        "id": 339,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "uitziet"
+          }
+        ],
+        "start_time": "106.070",
+        "end_time": "106.370"
+      },
+      {
+        "id": 340,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 341,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "betekent"
+          }
+        ],
+        "start_time": "106.690",
+        "end_time": "106.865"
+      },
+      {
+        "id": 342,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "106.865",
+        "end_time": "107.040"
+      },
+      {
+        "id": 343,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dat"
+          }
+        ],
+        "start_time": "107.040",
+        "end_time": "107.215"
+      },
+      {
+        "id": 344,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "107.215",
+        "end_time": "107.389"
+      },
+      {
+        "id": 345,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "waar"
+          }
+        ],
+        "start_time": "107.389",
+        "end_time": "107.564"
+      },
+      {
+        "id": 346,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "107.564",
+        "end_time": "107.739"
+      },
+      {
+        "id": 347,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 348,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Neem"
+          }
+        ],
+        "start_time": "108.720",
+        "end_time": "109.023"
+      },
+      {
+        "id": 349,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "diepe"
+          }
+        ],
+        "start_time": "109.023",
+        "end_time": "109.326"
+      },
+      {
+        "id": 350,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vervalsingen"
+          }
+        ],
+        "start_time": "109.326",
+        "end_time": "109.629"
+      },
+      {
+        "id": 351,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 352,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bijvoorbeeld"
+          }
+        ],
+        "start_time": "109.639",
+        "end_time": "110.309"
+      },
+      {
+        "id": 353,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 354,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Het"
+          }
+        ],
+        "start_time": "110.720",
+        "end_time": "110.935"
+      },
+      {
+        "id": 355,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maakt"
+          }
+        ],
+        "start_time": "110.935",
+        "end_time": "111.150"
+      },
+      {
+        "id": 356,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gebruik"
+          }
+        ],
+        "start_time": "111.150",
+        "end_time": "111.365"
+      },
+      {
+        "id": 357,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "111.365",
+        "end_time": "111.580"
+      },
+      {
+        "id": 358,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "111.580",
+        "end_time": "111.795"
+      },
+      {
+        "id": 359,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "111.795",
+        "end_time": "112.010"
+      },
+      {
+        "id": 360,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "video's"
+          }
+        ],
+        "start_time": "112.010",
+        "end_time": "112.225"
+      },
+      {
+        "id": 361,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "112.225",
+        "end_time": "112.440"
+      },
+      {
+        "id": 362,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "veranderen"
+          }
+        ],
+        "start_time": "112.440",
+        "end_time": "112.655"
+      },
+      {
+        "id": 363,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zodat"
+          }
+        ],
+        "start_time": "112.655",
+        "end_time": "112.870"
+      },
+      {
+        "id": 364,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ze"
+          }
+        ],
+        "start_time": "112.870",
+        "end_time": "113.085"
+      },
+      {
+        "id": 365,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "op"
+          }
+        ],
+        "start_time": "113.085",
+        "end_time": "113.300"
+      },
+      {
+        "id": 366,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "113.300",
+        "end_time": "113.515"
+      },
+      {
+        "id": 367,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echte"
+          }
+        ],
+        "start_time": "113.515",
+        "end_time": "113.730"
+      },
+      {
+        "id": 368,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "persoon"
+          }
+        ],
+        "start_time": "113.730",
+        "end_time": "113.945"
+      },
+      {
+        "id": 369,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "lijken"
+          }
+        ],
+        "start_time": "113.945",
+        "end_time": "114.160"
+      },
+      {
+        "id": 370,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "114.160",
+        "end_time": "114.404"
+      },
+      {
+        "id": 371,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "iets"
+          }
+        ],
+        "start_time": "114.404",
+        "end_time": "114.649"
+      },
+      {
+        "id": 372,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "doen"
+          }
+        ],
+        "start_time": "114.649",
+        "end_time": "114.893"
+      },
+      {
+        "id": 373,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "of"
+          }
+        ],
+        "start_time": "114.893",
+        "end_time": "115.137"
+      },
+      {
+        "id": 374,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zeggen"
+          }
+        ],
+        "start_time": "115.137",
+        "end_time": "115.382"
+      },
+      {
+        "id": 375,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "wat"
+          }
+        ],
+        "start_time": "115.382",
+        "end_time": "115.626"
+      },
+      {
+        "id": 376,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ze"
+          }
+        ],
+        "start_time": "115.626",
+        "end_time": "115.870"
+      },
+      {
+        "id": 377,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "115.870",
+        "end_time": "116.115"
+      },
+      {
+        "id": 378,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "116.114",
+        "end_time": "116.359"
+      },
+      {
+        "id": 379,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echte"
+          }
+        ],
+        "start_time": "116.359",
+        "end_time": "116.603"
+      },
+      {
+        "id": 380,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "leven"
+          }
+        ],
+        "start_time": "116.603",
+        "end_time": "116.847"
+      },
+      {
+        "id": 381,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nooit"
+          }
+        ],
+        "start_time": "116.847",
+        "end_time": "117.092"
+      },
+      {
+        "id": 382,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hebben"
+          }
+        ],
+        "start_time": "117.092",
+        "end_time": "117.336"
+      },
+      {
+        "id": 383,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gedaan"
+          }
+        ],
+        "start_time": "117.336",
+        "end_time": "117.580"
+      },
+      {
+        "id": 384,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "of"
+          }
+        ],
+        "start_time": "117.580",
+        "end_time": "117.825"
+      },
+      {
+        "id": 385,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gezegd"
+          }
+        ],
+        "start_time": "117.825",
+        "end_time": "118.069"
+      },
+      {
+        "id": 386,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 387,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gen"
+          }
+        ],
+        "start_time": "118.680",
+        "end_time": "119.017"
+      },
+      {
+        "id": 388,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "119.017",
+        "end_time": "119.354"
+      },
+      {
+        "id": 389,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kan"
+          }
+        ],
+        "start_time": "119.354",
+        "end_time": "119.691"
+      },
+      {
+        "id": 390,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "worden"
+          }
+        ],
+        "start_time": "119.691",
+        "end_time": "120.029"
+      },
+      {
+        "id": 391,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gebruikt"
+          }
+        ],
+        "start_time": "120.029",
+        "end_time": "120.366"
+      },
+      {
+        "id": 392,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "voor"
+          }
+        ],
+        "start_time": "120.366",
+        "end_time": "120.703"
+      },
+      {
+        "id": 393,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "desinformatie"
+          }
+        ],
+        "start_time": "120.703",
+        "end_time": "121.040"
+      },
+      {
+        "id": 394,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "campagnes"
+          }
+        ],
+        "start_time": "121.040",
+        "end_time": "121.372"
+      },
+      {
+        "id": 395,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "121.372",
+        "end_time": "121.704"
+      },
+      {
+        "id": 396,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "121.704",
+        "end_time": "122.036"
+      },
+      {
+        "id": 397,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "publieke"
+          }
+        ],
+        "start_time": "122.036",
+        "end_time": "122.368"
+      },
+      {
+        "id": 398,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "opinie"
+          }
+        ],
+        "start_time": "122.368",
+        "end_time": "122.701"
+      },
+      {
+        "id": 399,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "122.701",
+        "end_time": "123.033"
+      },
+      {
+        "id": 400,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verkiezingen"
+          }
+        ],
+        "start_time": "123.033",
+        "end_time": "123.365"
+      },
+      {
+        "id": 401,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "123.365",
+        "end_time": "123.697"
+      },
+      {
+        "id": 402,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "beïnvloeden"
+          }
+        ],
+        "start_time": "123.697",
+        "end_time": "124.029"
+      },
+      {
+        "id": 403,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 404,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Technologiebedrijven"
+          }
+        ],
+        "start_time": "124.480",
+        "end_time": "124.806"
+      },
+      {
+        "id": 405,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "achter"
+          }
+        ],
+        "start_time": "124.806",
+        "end_time": "125.132"
+      },
+      {
+        "id": 406,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "deze"
+          }
+        ],
+        "start_time": "125.132",
+        "end_time": "125.457"
+      },
+      {
+        "id": 407,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "systemen"
+          }
+        ],
+        "start_time": "125.457",
+        "end_time": "125.783"
+      },
+      {
+        "id": 408,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hebben"
+          }
+        ],
+        "start_time": "125.783",
+        "end_time": "126.109"
+      },
+      {
+        "id": 409,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "126.109",
+        "end_time": "126.434"
+      },
+      {
+        "id": 410,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "grote"
+          }
+        ],
+        "start_time": "126.435",
+        "end_time": "126.760"
+      },
+      {
+        "id": 411,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "invloed"
+          }
+        ],
+        "start_time": "126.760",
+        "end_time": "127.086"
+      },
+      {
+        "id": 412,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "op"
+          }
+        ],
+        "start_time": "127.086",
+        "end_time": "127.412"
+      },
+      {
+        "id": 413,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "127.412",
+        "end_time": "127.738"
+      },
+      {
+        "id": 414,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "publieke"
+          }
+        ],
+        "start_time": "127.738",
+        "end_time": "128.063"
+      },
+      {
+        "id": 415,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sfeer"
+          }
+        ],
+        "start_time": "128.063",
+        "end_time": "128.389"
+      },
+      {
+        "id": 416,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "128.389",
+        "end_time": "128.706"
+      },
+      {
+        "id": 417,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hebben"
+          }
+        ],
+        "start_time": "128.706",
+        "end_time": "129.024"
+      },
+      {
+        "id": 418,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "goede"
+          }
+        ],
+        "start_time": "129.024",
+        "end_time": "129.341"
+      },
+      {
+        "id": 419,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "regelgeving"
+          }
+        ],
+        "start_time": "129.341",
+        "end_time": "129.658"
+      },
+      {
+        "id": 420,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nodig"
+          }
+        ],
+        "start_time": "129.658",
+        "end_time": "129.976"
+      },
+      {
+        "id": 421,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "129.976",
+        "end_time": "130.293"
+      },
+      {
+        "id": 422,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "onze"
+          }
+        ],
+        "start_time": "130.293",
+        "end_time": "130.610"
+      },
+      {
+        "id": 423,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "democratie"
+          }
+        ],
+        "start_time": "130.610",
+        "end_time": "130.928"
+      },
+      {
+        "id": 424,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "130.928",
+        "end_time": "131.245"
+      },
+      {
+        "id": 425,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "behouden"
+          }
+        ],
+        "start_time": "131.245",
+        "end_time": "131.562"
+      },
+      {
+        "id": 426,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "131.562",
+        "end_time": "131.880"
+      },
+      {
+        "id": 427,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "131.880",
+        "end_time": "132.197"
+      },
+      {
+        "id": 428,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mensenrechten"
+          }
+        ],
+        "start_time": "132.197",
+        "end_time": "132.514"
+      },
+      {
+        "id": 429,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "132.514",
+        "end_time": "132.832"
+      },
+      {
+        "id": 430,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "respecteren"
+          }
+        ],
+        "start_time": "132.832",
+        "end_time": "133.149"
+      },
+      {
+        "id": 431,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 432,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Onze"
+          }
+        ],
+        "start_time": "133.559",
+        "end_time": "133.879"
+      },
+      {
+        "id": 433,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "individuele"
+          }
+        ],
+        "start_time": "133.879",
+        "end_time": "134.199"
+      },
+      {
+        "id": 434,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "acties"
+          }
+        ],
+        "start_time": "134.199",
+        "end_time": "134.519"
+      },
+      {
+        "id": 435,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kunnen"
+          }
+        ],
+        "start_time": "134.519",
+        "end_time": "134.839"
+      },
+      {
+        "id": 436,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ook"
+          }
+        ],
+        "start_time": "134.839",
+        "end_time": "135.159"
+      },
+      {
+        "id": 437,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "helpen"
+          }
+        ],
+        "start_time": "135.159",
+        "end_time": "135.480"
+      },
+      {
+        "id": 438,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bij"
+          }
+        ],
+        "start_time": "135.480",
+        "end_time": "135.800"
+      },
+      {
+        "id": 439,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "135.800",
+        "end_time": "136.120"
+      },
+      {
+        "id": 440,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bestrijding"
+          }
+        ],
+        "start_time": "136.120",
+        "end_time": "136.440"
+      },
+      {
+        "id": 441,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "136.440",
+        "end_time": "136.760"
+      },
+      {
+        "id": 442,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "desinformatie"
+          }
+        ],
+        "start_time": "136.760",
+        "end_time": "137.080"
+      },
+      {
+        "id": 443,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 444,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Omdat"
+          }
+        ],
+        "start_time": "137.869",
+        "end_time": "138.192"
+      },
+      {
+        "id": 445,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "politieke"
+          }
+        ],
+        "start_time": "138.192",
+        "end_time": "138.515"
+      },
+      {
+        "id": 446,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "processen"
+          }
+        ],
+        "start_time": "138.515",
+        "end_time": "138.838"
+      },
+      {
+        "id": 447,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "138.838",
+        "end_time": "139.161"
+      },
+      {
+        "id": 448,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zo"
+          }
+        ],
+        "start_time": "139.161",
+        "end_time": "139.484"
+      },
+      {
+        "id": 449,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "snel"
+          }
+        ],
+        "start_time": "139.484",
+        "end_time": "139.807"
+      },
+      {
+        "id": 450,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gaan"
+          }
+        ],
+        "start_time": "139.807",
+        "end_time": "140.130"
+      },
+      {
+        "id": 451,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "als"
+          }
+        ],
+        "start_time": "140.130",
+        "end_time": "140.465"
+      },
+      {
+        "id": 452,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "140.465",
+        "end_time": "140.800"
+      },
+      {
+        "id": 453,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ontwikkeling"
+          }
+        ],
+        "start_time": "140.800",
+        "end_time": "141.135"
+      },
+      {
+        "id": 454,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "141.135",
+        "end_time": "141.469"
+      },
+      {
+        "id": 455,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nieuwe"
+          }
+        ],
+        "start_time": "141.469",
+        "end_time": "141.804"
+      },
+      {
+        "id": 456,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "technologieën"
+          }
+        ],
+        "start_time": "141.804",
+        "end_time": "142.139"
+      },
+      {
+        "id": 457,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 458,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "142.509",
+        "end_time": "142.870"
+      },
+      {
+        "id": 459,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "142.870",
+        "end_time": "143.231"
+      },
+      {
+        "id": 460,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "cruciaal"
+          }
+        ],
+        "start_time": "143.231",
+        "end_time": "143.592"
+      },
+      {
+        "id": 461,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dat"
+          }
+        ],
+        "start_time": "143.592",
+        "end_time": "143.953"
+      },
+      {
+        "id": 462,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "iedereen"
+          }
+        ],
+        "start_time": "143.953",
+        "end_time": "144.315"
+      },
+      {
+        "id": 463,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "over"
+          }
+        ],
+        "start_time": "144.315",
+        "end_time": "144.676"
+      },
+      {
+        "id": 464,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "cruciale"
+          }
+        ],
+        "start_time": "144.676",
+        "end_time": "145.037"
+      },
+      {
+        "id": 465,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI-competenties"
+          }
+        ],
+        "start_time": "145.037",
+        "end_time": "145.398"
+      },
+      {
+        "id": 466,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "beschikt"
+          }
+        ],
+        "start_time": "145.398",
+        "end_time": "145.759"
+      },
+      {
+        "id": 467,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 468,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "146.029",
+        "end_time": "146.239"
+      },
+      {
+        "id": 469,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "146.239",
+        "end_time": "146.449"
+      },
+      {
+        "id": 470,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "reden"
+          }
+        ],
+        "start_time": "146.449",
+        "end_time": "146.659"
+      },
+      {
+        "id": 471,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "waarom"
+          }
+        ],
+        "start_time": "146.659",
+        "end_time": "146.869"
+      },
+      {
+        "id": 472,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Gen"
+          }
+        ],
+        "start_time": "146.869",
+        "end_time": "147.079"
+      },
+      {
+        "id": 473,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "147.079",
+        "end_time": "147.290"
+      },
+      {
+        "id": 474,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zo"
+          }
+        ],
+        "start_time": "147.290",
+        "end_time": "147.500"
+      },
+      {
+        "id": 475,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "goed"
+          }
+        ],
+        "start_time": "147.500",
+        "end_time": "147.710"
+      },
+      {
+        "id": 476,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kan"
+          }
+        ],
+        "start_time": "147.710",
+        "end_time": "147.920"
+      },
+      {
+        "id": 477,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "147.920",
+        "end_time": "148.130"
+      },
+      {
+        "id": 478,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 479,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "148.130",
+        "end_time": "148.340"
+      },
+      {
+        "id": 480,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "omdat"
+          }
+        ],
+        "start_time": "148.340",
+        "end_time": "148.550"
+      },
+      {
+        "id": 481,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "148.550",
+        "end_time": "148.811"
+      },
+      {
+        "id": 482,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "getraind"
+          }
+        ],
+        "start_time": "148.811",
+        "end_time": "149.073"
+      },
+      {
+        "id": 483,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "149.073",
+        "end_time": "149.334"
+      },
+      {
+        "id": 484,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "149.334",
+        "end_time": "149.595"
+      },
+      {
+        "id": 485,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "waarschijnlijkheid"
+          }
+        ],
+        "start_time": "149.595",
+        "end_time": "149.857"
+      },
+      {
+        "id": 486,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "149.857",
+        "end_time": "150.118"
+      },
+      {
+        "id": 487,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "150.118",
+        "end_time": "150.379"
+      },
+      {
+        "id": 488,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werk"
+          }
+        ],
+        "start_time": "150.379",
+        "end_time": "150.641"
+      },
+      {
+        "id": 489,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "150.641",
+        "end_time": "150.902"
+      },
+      {
+        "id": 490,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "echte"
+          }
+        ],
+        "start_time": "150.902",
+        "end_time": "151.163"
+      },
+      {
+        "id": 491,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mensen"
+          }
+        ],
+        "start_time": "151.163",
+        "end_time": "151.425"
+      },
+      {
+        "id": 492,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "151.425",
+        "end_time": "151.686"
+      },
+      {
+        "id": 493,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "boeken"
+          }
+        ],
+        "start_time": "151.686",
+        "end_time": "151.947"
+      },
+      {
+        "id": 494,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hebben"
+          }
+        ],
+        "start_time": "151.947",
+        "end_time": "152.209"
+      },
+      {
+        "id": 495,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gemaakt"
+          }
+        ],
+        "start_time": "152.209",
+        "end_time": "152.470"
+      },
+      {
+        "id": 496,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 497,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "liedjes"
+          }
+        ],
+        "start_time": "152.589",
+        "end_time": "152.910"
+      },
+      {
+        "id": 498,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 499,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "afbeeldingen"
+          }
+        ],
+        "start_time": "153.050",
+        "end_time": "153.470"
+      },
+      {
+        "id": 500,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "153.470",
+        "end_time": "153.889"
+      },
+      {
+        "id": 501,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "films"
+          }
+        ],
+        "start_time": "153.889",
+        "end_time": "154.309"
+      },
+      {
+        "id": 502,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 503,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Wat"
+          }
+        ],
+        "start_time": "155.000",
+        "end_time": "155.258"
+      },
+      {
+        "id": 504,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "op"
+          }
+        ],
+        "start_time": "155.258",
+        "end_time": "155.515"
+      },
+      {
+        "id": 505,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "155.515",
+        "end_time": "155.773"
+      },
+      {
+        "id": 506,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "eerste"
+          }
+        ],
+        "start_time": "155.773",
+        "end_time": "156.031"
+      },
+      {
+        "id": 507,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gezicht"
+          }
+        ],
+        "start_time": "156.031",
+        "end_time": "156.288"
+      },
+      {
+        "id": 508,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "geweldig"
+          }
+        ],
+        "start_time": "156.288",
+        "end_time": "156.546"
+      },
+      {
+        "id": 509,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "klinkt"
+          }
+        ],
+        "start_time": "156.546",
+        "end_time": "156.804"
+      },
+      {
+        "id": 510,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 511,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "komt"
+          }
+        ],
+        "start_time": "156.804",
+        "end_time": "157.062"
+      },
+      {
+        "id": 512,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "met"
+          }
+        ],
+        "start_time": "157.062",
+        "end_time": "157.319"
+      },
+      {
+        "id": 513,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "157.319",
+        "end_time": "157.577"
+      },
+      {
+        "id": 514,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "andere"
+          }
+        ],
+        "start_time": "157.577",
+        "end_time": "157.835"
+      },
+      {
+        "id": 515,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ethische"
+          }
+        ],
+        "start_time": "157.835",
+        "end_time": "158.092"
+      },
+      {
+        "id": 516,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kwestie"
+          }
+        ],
+        "start_time": "158.092",
+        "end_time": "158.350"
+      },
+      {
+        "id": 517,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 518,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "De"
+          }
+        ],
+        "start_time": "159.179",
+        "end_time": "159.435"
+      },
+      {
+        "id": 519,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "overgrote"
+          }
+        ],
+        "start_time": "159.435",
+        "end_time": "159.692"
+      },
+      {
+        "id": 520,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "meerderheid"
+          }
+        ],
+        "start_time": "159.692",
+        "end_time": "159.948"
+      },
+      {
+        "id": 521,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "159.948",
+        "end_time": "160.205"
+      },
+      {
+        "id": 522,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "deze"
+          }
+        ],
+        "start_time": "160.205",
+        "end_time": "160.462"
+      },
+      {
+        "id": 523,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mensen"
+          }
+        ],
+        "start_time": "160.462",
+        "end_time": "160.718"
+      },
+      {
+        "id": 524,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "160.718",
+        "end_time": "160.975"
+      },
+      {
+        "id": 525,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "160.975",
+        "end_time": "161.231"
+      },
+      {
+        "id": 526,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gevraagd"
+          }
+        ],
+        "start_time": "161.231",
+        "end_time": "161.487"
+      },
+      {
+        "id": 527,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "of"
+          }
+        ],
+        "start_time": "161.488",
+        "end_time": "161.744"
+      },
+      {
+        "id": 528,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ze"
+          }
+        ],
+        "start_time": "161.744",
+        "end_time": "162.000"
+      },
+      {
+        "id": 529,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "iets"
+          }
+        ],
+        "start_time": "162.001",
+        "end_time": "162.257"
+      },
+      {
+        "id": 530,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "willen"
+          }
+        ],
+        "start_time": "162.257",
+        "end_time": "162.513"
+      },
+      {
+        "id": 531,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "weggeven"
+          }
+        ],
+        "start_time": "162.514",
+        "end_time": "162.770"
+      },
+      {
+        "id": 532,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hun"
+          }
+        ],
+        "start_time": "162.770",
+        "end_time": "163.096"
+      },
+      {
+        "id": 533,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "originele"
+          }
+        ],
+        "start_time": "163.096",
+        "end_time": "163.422"
+      },
+      {
+        "id": 534,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werken"
+          }
+        ],
+        "start_time": "163.422",
+        "end_time": "163.748"
+      },
+      {
+        "id": 535,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "aan"
+          }
+        ],
+        "start_time": "163.748",
+        "end_time": "164.074"
+      },
+      {
+        "id": 536,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "164.074",
+        "end_time": "164.400"
+      },
+      {
+        "id": 537,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bedrijven"
+          }
+        ],
+        "start_time": "164.400",
+        "end_time": "164.726"
+      },
+      {
+        "id": 538,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "164.726",
+        "end_time": "165.053"
+      },
+      {
+        "id": 539,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "deze"
+          }
+        ],
+        "start_time": "165.053",
+        "end_time": "165.379"
+      },
+      {
+        "id": 540,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "systemen"
+          }
+        ],
+        "start_time": "165.379",
+        "end_time": "165.705"
+      },
+      {
+        "id": 541,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "creëren"
+          }
+        ],
+        "start_time": "165.705",
+        "end_time": "166.031"
+      },
+      {
+        "id": 542,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "166.031",
+        "end_time": "166.357"
+      },
+      {
+        "id": 543,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ervan"
+          }
+        ],
+        "start_time": "166.357",
+        "end_time": "166.683"
+      },
+      {
+        "id": 544,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "profiteren"
+          }
+        ],
+        "start_time": "166.683",
+        "end_time": "167.009"
+      },
+      {
+        "id": 545,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 546,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "En"
+          }
+        ],
+        "start_time": "167.259",
+        "end_time": "167.535"
+      },
+      {
+        "id": 547,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hoewel"
+          }
+        ],
+        "start_time": "167.535",
+        "end_time": "167.810"
+      },
+      {
+        "id": 548,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "167.810",
+        "end_time": "168.086"
+      },
+      {
+        "id": 549,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "inhoud"
+          }
+        ],
+        "start_time": "168.086",
+        "end_time": "168.362"
+      },
+      {
+        "id": 550,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "die"
+          }
+        ],
+        "start_time": "168.362",
+        "end_time": "168.637"
+      },
+      {
+        "id": 551,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "door"
+          }
+        ],
+        "start_time": "168.637",
+        "end_time": "168.913"
+      },
+      {
+        "id": 552,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "168.913",
+        "end_time": "169.189"
+      },
+      {
+        "id": 553,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "169.189",
+        "end_time": "169.464"
+      },
+      {
+        "id": 554,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gemaakt"
+          }
+        ],
+        "start_time": "169.464",
+        "end_time": "169.740"
+      },
+      {
+        "id": 555,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 556,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vaak"
+          }
+        ],
+        "start_time": "169.740",
+        "end_time": "170.151"
+      },
+      {
+        "id": 557,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "generiek"
+          }
+        ],
+        "start_time": "170.151",
+        "end_time": "170.563"
+      },
+      {
+        "id": 558,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "170.563",
+        "end_time": "170.974"
+      },
+      {
+        "id": 559,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zonder"
+          }
+        ],
+        "start_time": "170.974",
+        "end_time": "171.385"
+      },
+      {
+        "id": 560,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "creativiteit"
+          }
+        ],
+        "start_time": "171.385",
+        "end_time": "171.796"
+      },
+      {
+        "id": 561,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "171.796",
+        "end_time": "172.208"
+      },
+      {
+        "id": 562,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "betekenis"
+          }
+        ],
+        "start_time": "172.208",
+        "end_time": "172.619"
+      },
+      {
+        "id": 563,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 564,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Sommige"
+          }
+        ],
+        "start_time": "173.139",
+        "end_time": "173.455"
+      },
+      {
+        "id": 565,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bedrijven"
+          }
+        ],
+        "start_time": "173.455",
+        "end_time": "173.771"
+      },
+      {
+        "id": 566,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "173.771",
+        "end_time": "174.088"
+      },
+      {
+        "id": 567,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "misschien"
+          }
+        ],
+        "start_time": "174.088",
+        "end_time": "174.404"
+      },
+      {
+        "id": 568,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bereid"
+          }
+        ],
+        "start_time": "174.404",
+        "end_time": "174.720"
+      },
+      {
+        "id": 569,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kwaliteit"
+          }
+        ],
+        "start_time": "174.720",
+        "end_time": "175.036"
+      },
+      {
+        "id": 570,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "op"
+          }
+        ],
+        "start_time": "175.036",
+        "end_time": "175.353"
+      },
+      {
+        "id": 571,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "175.353",
+        "end_time": "175.669"
+      },
+      {
+        "id": 572,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "offeren"
+          }
+        ],
+        "start_time": "175.669",
+        "end_time": "175.985"
+      },
+      {
+        "id": 573,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "175.985",
+        "end_time": "176.301"
+      },
+      {
+        "id": 574,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "winstgevender"
+          }
+        ],
+        "start_time": "176.301",
+        "end_time": "176.618"
+      },
+      {
+        "id": 575,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "176.618",
+        "end_time": "176.934"
+      },
+      {
+        "id": 576,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "worden"
+          }
+        ],
+        "start_time": "176.934",
+        "end_time": "177.250"
+      },
+      {
+        "id": 577,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 578,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Dit"
+          }
+        ],
+        "start_time": "177.539",
+        "end_time": "177.795"
+      },
+      {
+        "id": 579,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kan"
+          }
+        ],
+        "start_time": "177.795",
+        "end_time": "178.051"
+      },
+      {
+        "id": 580,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "178.051",
+        "end_time": "178.308"
+      },
+      {
+        "id": 581,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "negatieve"
+          }
+        ],
+        "start_time": "178.308",
+        "end_time": "178.564"
+      },
+      {
+        "id": 582,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "invloed"
+          }
+        ],
+        "start_time": "178.564",
+        "end_time": "178.820"
+      },
+      {
+        "id": 583,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hebben"
+          }
+        ],
+        "start_time": "178.820",
+        "end_time": "179.076"
+      },
+      {
+        "id": 584,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "op"
+          }
+        ],
+        "start_time": "179.077",
+        "end_time": "179.333"
+      },
+      {
+        "id": 585,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "179.333",
+        "end_time": "179.589"
+      },
+      {
+        "id": 586,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "banen"
+          }
+        ],
+        "start_time": "179.589",
+        "end_time": "179.845"
+      },
+      {
+        "id": 587,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "179.845",
+        "end_time": "180.101"
+      },
+      {
+        "id": 588,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "talloze"
+          }
+        ],
+        "start_time": "180.101",
+        "end_time": "180.358"
+      },
+      {
+        "id": 589,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "werknemers"
+          }
+        ],
+        "start_time": "180.358",
+        "end_time": "180.614"
+      },
+      {
+        "id": 590,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "180.614",
+        "end_time": "180.870"
+      },
+      {
+        "id": 591,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "180.870",
+        "end_time": "181.126"
+      },
+      {
+        "id": 592,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "creatieve"
+          }
+        ],
+        "start_time": "181.127",
+        "end_time": "181.383"
+      },
+      {
+        "id": 593,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "sector"
+          }
+        ],
+        "start_time": "181.383",
+        "end_time": "181.639"
+      },
+      {
+        "id": 594,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 595,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "samen"
+          }
+        ],
+        "start_time": "182.059",
+        "end_time": "182.360"
+      },
+      {
+        "id": 596,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "met"
+          }
+        ],
+        "start_time": "182.360",
+        "end_time": "182.661"
+      },
+      {
+        "id": 597,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "182.661",
+        "end_time": "182.963"
+      },
+      {
+        "id": 598,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "afname"
+          }
+        ],
+        "start_time": "182.963",
+        "end_time": "183.264"
+      },
+      {
+        "id": 599,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "183.264",
+        "end_time": "183.565"
+      },
+      {
+        "id": 600,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "183.565",
+        "end_time": "183.866"
+      },
+      {
+        "id": 601,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kwaliteit"
+          }
+        ],
+        "start_time": "183.866",
+        "end_time": "184.168"
+      },
+      {
+        "id": 602,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "184.168",
+        "end_time": "184.469"
+      },
+      {
+        "id": 603,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "creativiteit"
+          }
+        ],
+        "start_time": "184.469",
+        "end_time": "184.770"
+      },
+      {
+        "id": 604,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 605,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Uiteindelijk"
+          }
+        ],
+        "start_time": "184.990",
+        "end_time": "185.649"
+      },
+      {
+        "id": 606,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI-systemen"
+          }
+        ],
+        "start_time": "185.820",
+        "end_time": "186.171"
+      },
+      {
+        "id": 607,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "186.171",
+        "end_time": "186.523"
+      },
+      {
+        "id": 608,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "niet"
+          }
+        ],
+        "start_time": "186.523",
+        "end_time": "186.875"
+      },
+      {
+        "id": 609,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "slechts"
+          }
+        ],
+        "start_time": "186.875",
+        "end_time": "187.226"
+      },
+      {
+        "id": 610,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "één"
+          }
+        ],
+        "start_time": "187.226",
+        "end_time": "187.577"
+      },
+      {
+        "id": 611,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ding"
+          }
+        ],
+        "start_time": "187.577",
+        "end_time": "187.929"
+      },
+      {
+        "id": 612,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 613,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ze"
+          }
+        ],
+        "start_time": "188.179",
+        "end_time": "188.422"
+      },
+      {
+        "id": 614,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hebben"
+          }
+        ],
+        "start_time": "188.422",
+        "end_time": "188.664"
+      },
+      {
+        "id": 615,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "de"
+          }
+        ],
+        "start_time": "188.664",
+        "end_time": "188.906"
+      },
+      {
+        "id": 616,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "macht"
+          }
+        ],
+        "start_time": "188.906",
+        "end_time": "189.149"
+      },
+      {
+        "id": 617,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "189.149",
+        "end_time": "189.392"
+      },
+      {
+        "id": 618,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ons"
+          }
+        ],
+        "start_time": "189.392",
+        "end_time": "189.634"
+      },
+      {
+        "id": 619,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "dagelijks"
+          }
+        ],
+        "start_time": "189.634",
+        "end_time": "189.877"
+      },
+      {
+        "id": 620,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "leven"
+          }
+        ],
+        "start_time": "189.876",
+        "end_time": "190.119"
+      },
+      {
+        "id": 621,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zowel"
+          }
+        ],
+        "start_time": "190.119",
+        "end_time": "190.362"
+      },
+      {
+        "id": 622,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "190.362",
+        "end_time": "190.604"
+      },
+      {
+        "id": 623,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "verrijken"
+          }
+        ],
+        "start_time": "190.604",
+        "end_time": "190.846"
+      },
+      {
+        "id": 624,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "als"
+          }
+        ],
+        "start_time": "190.846",
+        "end_time": "191.089"
+      },
+      {
+        "id": 625,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "in"
+          }
+        ],
+        "start_time": "191.089",
+        "end_time": "191.332"
+      },
+      {
+        "id": 626,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gevaar"
+          }
+        ],
+        "start_time": "191.332",
+        "end_time": "191.574"
+      },
+      {
+        "id": 627,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "191.574",
+        "end_time": "191.817"
+      },
+      {
+        "id": 628,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "brengen"
+          }
+        ],
+        "start_time": "191.816",
+        "end_time": "192.059"
+      },
+      {
+        "id": 629,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 630,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Als"
+          }
+        ],
+        "start_time": "192.220",
+        "end_time": "192.516"
+      },
+      {
+        "id": 631,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "het"
+          }
+        ],
+        "start_time": "192.516",
+        "end_time": "192.811"
+      },
+      {
+        "id": 632,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "goed"
+          }
+        ],
+        "start_time": "192.811",
+        "end_time": "193.107"
+      },
+      {
+        "id": 633,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gereguleerd"
+          }
+        ],
+        "start_time": "193.107",
+        "end_time": "193.402"
+      },
+      {
+        "id": 634,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "193.402",
+        "end_time": "193.698"
+      },
+      {
+        "id": 635,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "toegankelijk"
+          }
+        ],
+        "start_time": "193.698",
+        "end_time": "193.993"
+      },
+      {
+        "id": 636,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "is"
+          }
+        ],
+        "start_time": "193.993",
+        "end_time": "194.289"
+      },
+      {
+        "id": 637,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 638,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "194.500",
+        "end_time": "194.711"
+      },
+      {
+        "id": 639,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kan"
+          }
+        ],
+        "start_time": "194.711",
+        "end_time": "194.922"
+      },
+      {
+        "id": 640,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "194.922",
+        "end_time": "195.133"
+      },
+      {
+        "id": 641,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "geweldig"
+          }
+        ],
+        "start_time": "195.133",
+        "end_time": "195.344"
+      },
+      {
+        "id": 642,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "hulpmiddel"
+          }
+        ],
+        "start_time": "195.344",
+        "end_time": "195.555"
+      },
+      {
+        "id": 643,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "195.555",
+        "end_time": "195.766"
+      },
+      {
+        "id": 644,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "195.766",
+        "end_time": "195.977"
+      },
+      {
+        "id": 645,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "ons"
+          }
+        ],
+        "start_time": "195.977",
+        "end_time": "196.188"
+      },
+      {
+        "id": 646,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "196.188",
+        "end_time": "196.399"
+      },
+      {
+        "id": 647,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "helpen"
+          }
+        ],
+        "start_time": "196.399",
+        "end_time": "196.610"
+      },
+      {
+        "id": 648,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ]
+      },
+      {
+        "id": 649,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "maar"
+          }
+        ],
+        "start_time": "197.020",
+        "end_time": "197.344"
+      },
+      {
+        "id": 650,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "nooit"
+          }
+        ],
+        "start_time": "197.344",
+        "end_time": "197.668"
+      },
+      {
+        "id": 651,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "om"
+          }
+        ],
+        "start_time": "197.668",
+        "end_time": "197.992"
+      },
+      {
+        "id": 652,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "onze"
+          }
+        ],
+        "start_time": "197.992",
+        "end_time": "198.316"
+      },
+      {
+        "id": 653,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "creativiteit"
+          }
+        ],
+        "start_time": "198.316",
+        "end_time": "198.639"
+      },
+      {
+        "id": 654,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "198.639",
+        "end_time": "198.963"
+      },
+      {
+        "id": 655,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "kritisch"
+          }
+        ],
+        "start_time": "198.963",
+        "end_time": "199.287"
+      },
+      {
+        "id": 656,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "denken"
+          }
+        ],
+        "start_time": "199.287",
+        "end_time": "199.611"
+      },
+      {
+        "id": 657,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "te"
+          }
+        ],
+        "start_time": "199.611",
+        "end_time": "199.935"
+      },
+      {
+        "id": 658,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "vervangen"
+          }
+        ],
+        "start_time": "199.935",
+        "end_time": "200.259"
+      },
+      {
+        "id": 659,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      },
+      {
+        "id": 660,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Wat"
+          }
+        ],
+        "start_time": "200.869",
+        "end_time": "201.177"
+      },
+      {
+        "id": 661,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "zijn"
+          }
+        ],
+        "start_time": "201.177",
+        "end_time": "201.485"
+      },
+      {
+        "id": 662,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "volgens"
+          }
+        ],
+        "start_time": "201.485",
+        "end_time": "201.793"
+      },
+      {
+        "id": 663,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "jou"
+          }
+        ],
+        "start_time": "201.793",
+        "end_time": "202.101"
+      },
+      {
+        "id": 664,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "andere"
+          }
+        ],
+        "start_time": "202.101",
+        "end_time": "202.409"
+      },
+      {
+        "id": 665,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "mogelijkheden"
+          }
+        ],
+        "start_time": "202.409",
+        "end_time": "202.717"
+      },
+      {
+        "id": 666,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "202.717",
+        "end_time": "203.025"
+      },
+      {
+        "id": 667,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "bedreigingen"
+          }
+        ],
+        "start_time": "203.025",
+        "end_time": "203.333"
+      },
+      {
+        "id": 668,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "van"
+          }
+        ],
+        "start_time": "203.333",
+        "end_time": "203.641"
+      },
+      {
+        "id": 669,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "AI"
+          }
+        ],
+        "start_time": "203.641",
+        "end_time": "203.949"
+      },
+      {
+        "id": 670,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "?"
+          }
+        ]
+      },
+      {
+        "id": 671,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "Ga"
+          }
+        ],
+        "start_time": "204.449",
+        "end_time": "204.934"
+      },
+      {
+        "id": 672,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "naar"
+          }
+        ],
+        "start_time": "204.934",
+        "end_time": "205.419"
+      },
+      {
+        "id": 673,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "democracy-ai.eu"
+          }
+        ],
+        "start_time": "205.419",
+        "end_time": "205.904"
+      },
+      {
+        "id": 674,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "205.904",
+        "end_time": "206.390"
+      },
+      {
+        "id": 675,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "leer"
+          }
+        ],
+        "start_time": "206.389",
+        "end_time": "206.875"
+      },
+      {
+        "id": 676,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "er"
+          }
+        ],
+        "start_time": "206.875",
+        "end_time": "207.360"
+      },
+      {
+        "id": 677,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "meer"
+          }
+        ],
+        "start_time": "207.360",
+        "end_time": "207.845"
+      },
+      {
+        "id": 678,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "over"
+          }
+        ],
+        "start_time": "207.845",
+        "end_time": "208.330"
+      },
+      {
+        "id": 679,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "met"
+          }
+        ],
+        "start_time": "208.529",
+        "end_time": "208.838"
+      },
+      {
+        "id": 680,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "meer"
+          }
+        ],
+        "start_time": "208.838",
+        "end_time": "209.147"
+      },
+      {
+        "id": 681,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "video's"
+          }
+        ],
+        "start_time": "209.147",
+        "end_time": "209.456"
+      },
+      {
+        "id": 682,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "en"
+          }
+        ],
+        "start_time": "209.456",
+        "end_time": "209.764"
+      },
+      {
+        "id": 683,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "een"
+          }
+        ],
+        "start_time": "209.764",
+        "end_time": "210.073"
+      },
+      {
+        "id": 684,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "gratis"
+          }
+        ],
+        "start_time": "210.073",
+        "end_time": "210.382"
+      },
+      {
+        "id": 685,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "online"
+          }
+        ],
+        "start_time": "210.382",
+        "end_time": "210.691"
+      },
+      {
+        "id": 686,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": "0.999",
+            "content": "cursus"
+          }
+        ],
+        "start_time": "210.691",
+        "end_time": "211.000"
+      },
+      {
+        "id": 687,
+        "type": "punctuation",
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ]
+      }
+    ],
+    "audio_segments": [
+      {
+        "id": 0,
+        "transcript": "Generatieve AI,",
+        "start_time": "0.720",
+        "end_time": "1.840"
+      },
+      {
+        "id": 1,
+        "transcript": "ook bekend als Gen AI,",
+        "start_time": "2.000",
+        "end_time": "3.440"
+      },
+      {
+        "id": 2,
+        "transcript": "is een indrukwekkende technologie.",
+        "start_time": "3.519",
+        "end_time": "5.070"
+      },
+      {
+        "id": 3,
+        "transcript": "Het is een soort systeem dat leert van teksten,",
+        "start_time": "5.400",
+        "end_time": "7.559"
+      },
+      {
+        "id": 4,
+        "transcript": "beelden en geluiden gemaakt door echte mensen om",
+        "start_time": "7.800",
+        "end_time": "10.520"
+      },
+      {
+        "id": 5,
+        "transcript": "bepaalde eigenschappen van deze werken identificeren en reproduceren.",
+        "start_time": "10.520",
+        "end_time": "14.079"
+      },
+      {
+        "id": 6,
+        "transcript": "Dit maakt het mogelijk om versies te maken die erg lijken op wat mensen kunnen doen.",
+        "start_time": "14.279",
+        "end_time": "18.190"
+      },
+      {
+        "id": 7,
+        "transcript": "Maar zelfs voor eenvoudige dingen zoals een pizzarecept,",
+        "start_time": "18.760",
+        "end_time": "21.270"
+      },
+      {
+        "id": 8,
+        "transcript": "soms vinden we misschien vreemde resultaten.",
+        "start_time": "21.559",
+        "end_time": "23.680"
+      },
+      {
+        "id": 9,
+        "transcript": "Natuurlijk weten we dat lijm als pizzatopping een verkeerd antwoord is,",
+        "start_time": "27.149",
+        "end_time": "30.299"
+      },
+      {
+        "id": 10,
+        "transcript": "maar aangezien AI niet denkt,",
+        "start_time": "30.629",
+        "end_time": "32.340"
+      },
+      {
+        "id": 11,
+        "transcript": "het kent niet echt het verschil.",
+        "start_time": "32.509",
+        "end_time": "34.020"
+      },
+      {
+        "id": 12,
+        "transcript": "Dit voorbeeld is gebaseerd op gebeurtenissen uit het echte leven,",
+        "start_time": "34.970",
+        "end_time": "37.529"
+      },
+      {
+        "id": 13,
+        "transcript": "en het laat zien hoe we ons bewust moeten zijn van de beperkingen van Gen AI.",
+        "start_time": "37.569",
+        "end_time": "41.009"
+      },
+      {
+        "id": 14,
+        "transcript": "Hoewel het een grote hulp kan zijn bij het maken van tekst,",
+        "start_time": "41.650",
+        "end_time": "44.040"
+      },
+      {
+        "id": 15,
+        "transcript": "afbeeldingen,",
+        "start_time": "44.090",
+        "end_time": "44.650"
+      },
+      {
+        "id": 16,
+        "transcript": "of zelfs geluiden,",
+        "start_time": "44.680",
+        "end_time": "45.889"
+      },
+      {
+        "id": 17,
+        "transcript": "deze resultaten vereisen menselijk toezicht.",
+        "start_time": "46.060",
+        "end_time": "48.200"
+      },
+      {
+        "id": 18,
+        "transcript": "Dit komt omdat Gen AI erg goed is in het identificeren van patronen,",
+        "start_time": "48.689",
+        "end_time": "52.049"
+      },
+      {
+        "id": 19,
+        "transcript": "informatie comprimeren en proberen deze te reconstrueren met behulp van statistieken.",
+        "start_time": "52.130",
+        "end_time": "56.119"
+      },
+      {
+        "id": 20,
+        "transcript": "Maar dat leidt slechts tot een benadering van zijn",
+        "start_time": "57.029",
+        "end_time": "59.270"
+      },
+      {
+        "id": 21,
+        "transcript": "bronnen omdat de AI er niet echt over kan nadenken.",
+        "start_time": "59.270",
+        "end_time": "62.220"
+      },
+      {
+        "id": 22,
+        "transcript": "Maar deze systemen kunnen heel goed zijn om mensen vrij te maken om zich te concentreren op de echte problemen.",
+        "start_time": "62.669",
+        "end_time": "66.980"
+      },
+      {
+        "id": 23,
+        "transcript": "in plaats van vast te lopen in saaie activiteiten.",
+        "start_time": "67.430",
+        "end_time": "69.699"
+      },
+      {
+        "id": 24,
+        "transcript": "Per slot van rekening",
+        "start_time": "70.190",
+        "end_time": "70.660"
+      },
+      {
+        "id": 25,
+        "transcript": "de samenwerking tussen mens en machine door",
+        "start_time": "70.709",
+        "end_time": "73.069"
+      },
+      {
+        "id": 26,
+        "transcript": "automatisering ging altijd over toezicht houden en creëren",
+        "start_time": "73.069",
+        "end_time": "76.430"
+      },
+      {
+        "id": 27,
+        "transcript": "zinvolle dingen met de hulp van technische agenten die zich nooit vervelen of moe worden.",
+        "start_time": "76.430",
+        "end_time": "80.779"
+      },
+      {
+        "id": 28,
+        "transcript": "Echter,",
+        "start_time": "81.370",
+        "end_time": "81.839"
+      },
+      {
+        "id": 29,
+        "transcript": "dezelfde dingen die AI zo opwindend maken, kunnen ook voor problemen zorgen.",
+        "start_time": "81.970",
+        "end_time": "86.050"
+      },
+      {
+        "id": 30,
+        "transcript": "Per slot van rekening",
+        "start_time": "86.290",
+        "end_time": "86.870"
+      },
+      {
+        "id": 31,
+        "transcript": "door statistische benaderingen van tekst te maken,",
+        "start_time": "87.129",
+        "end_time": "89.889"
+      },
+      {
+        "id": 32,
+        "transcript": "geluid en beeld,",
+        "start_time": "90.169",
+        "end_time": "91.529"
+      },
+      {
+        "id": 33,
+        "transcript": "we krijgen vaak resultaten die niet diepgaand zijn,",
+        "start_time": "91.930",
+        "end_time": "93.930"
+      },
+      {
+        "id": 34,
+        "transcript": "nuanceren,",
+        "start_time": "94.059",
+        "end_time": "94.639"
+      },
+      {
+        "id": 35,
+        "transcript": "diversiteit,",
+        "start_time": "94.769",
+        "end_time": "95.720"
+      },
+      {
+        "id": 36,
+        "transcript": "of die gewoon niet waar zijn.",
+        "start_time": "95.980",
+        "end_time": "97.440"
+      },
+      {
+        "id": 37,
+        "transcript": "Dit is waar het niet-reflecterende en ongereguleerde gebruik van",
+        "start_time": "98.129",
+        "end_time": "101.050"
+      },
+      {
+        "id": 38,
+        "transcript": "Gen AI wordt gevaarlijk en een politieke kwestie.",
+        "start_time": "101.050",
+        "end_time": "104.000"
+      },
+      {
+        "id": 39,
+        "transcript": "Gewoon omdat iets er overtuigend uitziet.",
+        "start_time": "104.569",
+        "end_time": "106.370"
+      },
+      {
+        "id": 40,
+        "transcript": "betekent niet dat het waar is.",
+        "start_time": "106.690",
+        "end_time": "107.739"
+      },
+      {
+        "id": 41,
+        "transcript": "Neem diepe vervalsingen,",
+        "start_time": "108.720",
+        "end_time": "109.629"
+      },
+      {
+        "id": 42,
+        "transcript": "bijvoorbeeld.",
+        "start_time": "109.639",
+        "end_time": "110.309"
+      },
+      {
+        "id": 43,
+        "transcript": "Het maakt gebruik van AI om video's te veranderen zodat ze op een echte persoon lijken",
+        "start_time": "110.720",
+        "end_time": "114.160"
+      },
+      {
+        "id": 44,
+        "transcript": "is iets doen of zeggen wat ze in het echte leven nooit hebben gedaan of gezegd.",
+        "start_time": "114.160",
+        "end_time": "118.069"
+      },
+      {
+        "id": 45,
+        "transcript": "Gen AI kan worden gebruikt voor desinformatie",
+        "start_time": "118.680",
+        "end_time": "121.040"
+      },
+      {
+        "id": 46,
+        "transcript": "campagnes om de publieke opinie en verkiezingen te beïnvloeden.",
+        "start_time": "121.040",
+        "end_time": "124.029"
+      },
+      {
+        "id": 47,
+        "transcript": "Technologiebedrijven achter deze systemen hebben een grote invloed op de publieke sfeer",
+        "start_time": "124.480",
+        "end_time": "128.389"
+      },
+      {
+        "id": 48,
+        "transcript": "en hebben goede regelgeving nodig om onze democratie te behouden en de mensenrechten te respecteren.",
+        "start_time": "128.389",
+        "end_time": "133.149"
+      },
+      {
+        "id": 49,
+        "transcript": "Onze individuele acties kunnen ook helpen bij de bestrijding van desinformatie.",
+        "start_time": "133.559",
+        "end_time": "137.080"
+      },
+      {
+        "id": 50,
+        "transcript": "Omdat politieke processen niet zo snel gaan",
+        "start_time": "137.869",
+        "end_time": "140.130"
+      },
+      {
+        "id": 51,
+        "transcript": "als de ontwikkeling van nieuwe technologieën,",
+        "start_time": "140.130",
+        "end_time": "142.139"
+      },
+      {
+        "id": 52,
+        "transcript": "het is cruciaal dat iedereen over cruciale AI-competenties beschikt,",
+        "start_time": "142.509",
+        "end_time": "145.759"
+      },
+      {
+        "id": 53,
+        "transcript": "en de reden waarom Gen AI zo goed kan zijn, is omdat",
+        "start_time": "146.029",
+        "end_time": "148.550"
+      },
+      {
+        "id": 54,
+        "transcript": "is getraind in de waarschijnlijkheid en het werk van echte mensen die boeken hebben gemaakt,",
+        "start_time": "148.550",
+        "end_time": "152.470"
+      },
+      {
+        "id": 55,
+        "transcript": "liedjes,",
+        "start_time": "152.589",
+        "end_time": "152.910"
+      },
+      {
+        "id": 56,
+        "transcript": "afbeeldingen en films.",
+        "start_time": "153.050",
+        "end_time": "154.309"
+      },
+      {
+        "id": 57,
+        "transcript": "Wat op het eerste gezicht geweldig klinkt, komt met een andere ethische kwestie.",
+        "start_time": "155.000",
+        "end_time": "158.350"
+      },
+      {
+        "id": 58,
+        "transcript": "De overgrote meerderheid van deze mensen is niet gevraagd of ze iets willen weggeven",
+        "start_time": "159.179",
+        "end_time": "162.770"
+      },
+      {
+        "id": 59,
+        "transcript": "hun originele werken aan de bedrijven die deze systemen creëren en ervan profiteren.",
+        "start_time": "162.770",
+        "end_time": "167.009"
+      },
+      {
+        "id": 60,
+        "transcript": "En hoewel de inhoud die door AI is gemaakt,",
+        "start_time": "167.259",
+        "end_time": "169.740"
+      },
+      {
+        "id": 61,
+        "transcript": "vaak generiek en zonder creativiteit en betekenis.",
+        "start_time": "169.740",
+        "end_time": "172.619"
+      },
+      {
+        "id": 62,
+        "transcript": "Sommige bedrijven zijn misschien bereid kwaliteit op te offeren om winstgevender te worden.",
+        "start_time": "173.139",
+        "end_time": "177.250"
+      },
+      {
+        "id": 63,
+        "transcript": "Dit kan een negatieve invloed hebben op de banen van talloze werknemers in de creatieve sector,",
+        "start_time": "177.539",
+        "end_time": "181.639"
+      },
+      {
+        "id": 64,
+        "transcript": "samen met een afname van de kwaliteit en creativiteit.",
+        "start_time": "182.059",
+        "end_time": "184.770"
+      },
+      {
+        "id": 65,
+        "transcript": "Uiteindelijk",
+        "start_time": "184.990",
+        "end_time": "185.649"
+      },
+      {
+        "id": 66,
+        "transcript": "AI-systemen zijn niet slechts één ding,",
+        "start_time": "185.820",
+        "end_time": "187.929"
+      },
+      {
+        "id": 67,
+        "transcript": "ze hebben de macht om ons dagelijks leven zowel te verrijken als in gevaar te brengen.",
+        "start_time": "188.179",
+        "end_time": "192.059"
+      },
+      {
+        "id": 68,
+        "transcript": "Als het goed gereguleerd en toegankelijk is,",
+        "start_time": "192.220",
+        "end_time": "194.289"
+      },
+      {
+        "id": 69,
+        "transcript": "AI kan een geweldig hulpmiddel zijn om ons te helpen,",
+        "start_time": "194.500",
+        "end_time": "196.610"
+      },
+      {
+        "id": 70,
+        "transcript": "maar nooit om onze creativiteit en kritisch denken te vervangen.",
+        "start_time": "197.020",
+        "end_time": "200.259"
+      },
+      {
+        "id": 71,
+        "transcript": "Wat zijn volgens jou andere mogelijkheden en bedreigingen van AI?",
+        "start_time": "200.869",
+        "end_time": "203.949"
+      },
+      {
+        "id": 72,
+        "transcript": "Ga naar DemocracyAI.eu en leer er meer over",
+        "start_time": "204.449",
+        "end_time": "208.330"
+      },
+      {
+        "id": 73,
+        "transcript": "met meer video's en een gratis online cursus.",
+        "start_time": "208.529",
+        "end_time": "211.000"
+      }
+    ]
+  }
+}

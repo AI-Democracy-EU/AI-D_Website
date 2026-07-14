@@ -1,0 +1,45 @@
+{
+  "chapter": "FundamentalsOfAIIntroductionCarousel",
+  "carouselData": [
+    {
+      "src": "/ai-generic/07m.jpg",
+      "markdownSource": "w1_fundamentals_s1"
+    },
+    {
+      "src": "/ai-generic/01m.jpg",
+      "markdownSource": "w1_fundamentals_s2"
+    },
+    {
+      "src": "/ai-generic/02m.jpg",
+      "markdownSource": "w1_fundamentals_s3"
+    },
+    {
+      "src": "/ai-generic/03m.jpg",
+      "markdownSource": "w1_fundamentals_s4"
+    },
+    {
+      "src": "/ai-generic/04m.jpg",
+      "markdownSource": "w1_fundamentals_s5"
+    },
+    {
+      "src": "/ai-generic/05m.jpg",
+      "markdownSource": "w1_fundamentals_s6"
+    },
+    {
+      "src": "/ai-generic/06m.jpg",
+      "markdownSource": "w1_fundamentals_s7"
+    },
+    {
+      "src": "/ai-generic/07m.jpg",
+      "markdownSource": "w1_fundamentals_s8"
+    },
+    {
+      "src": "/ai-generic/01m.jpg",
+      "markdownSource": "w1_fundamentals_s9"
+    },
+    {
+      "src": "/ai-generic/02m.jpg",
+      "markdownSource": "w1_fundamentals_s10"
+    }
+  ]
+}
